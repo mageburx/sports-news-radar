@@ -4052,10 +4052,10 @@
     "translated_lang": "en"
   },
   {
-    "id": "5798e3bd815b9883b67f",
+    "id": "87ce851ed1efde870273",
     "sport": "andebol",
     "section": "campeonato-dinamarques",
-    "title": "Match of the Round: en ny rivalisering under opsejling? Bambuni Kvindeligaen 5. nov. 2026",
+    "title": "Match of the Round: en ny rivalisering under opsejling?",
     "summary": "",
     "publisher": "Tophåndbold · notícias oficiais",
     "publisher_url": "https://tophaandbold.dk/alle-nyheder",
@@ -4066,17 +4066,17 @@
     "first_seen_at": "2026-11-08T16:31:53+00:00",
     "official": true,
     "language": "da",
-    "translated_title": "Match of the Round: a new rivalry in the making? Bambuni Women's League 5 Nov 2026",
+    "translated_title": "Match of the Round: a new rivalry in the making?",
     "translated_summary": "",
     "translation_status": "translated",
-    "last_translation_attempt_at": "2026-11-08T16:31:53+00:00",
+    "last_translation_attempt_at": "2026-11-08T16:33:51+00:00",
     "translated_lang": "en"
   },
   {
-    "id": "302b07d61ac4abee4591",
+    "id": "b767fe4e358b40985eca",
     "sport": "andebol",
     "section": "campeonato-dinamarques",
-    "title": "M21: fremtidens største stjerner i kamp Betoro Herreligaen 5. nov. 2026",
+    "title": "M21: fremtidens største stjerner i kamp",
     "summary": "",
     "publisher": "Tophåndbold · notícias oficiais",
     "publisher_url": "https://tophaandbold.dk/alle-nyheder",
@@ -4087,10 +4087,10 @@
     "first_seen_at": "2026-11-08T16:31:53+00:00",
     "official": true,
     "language": "da",
-    "translated_title": "M21: the biggest stars of the future in match Betoro Men's League 5 Nov. 2026",
+    "translated_title": "M21: the biggest stars of the future in battle",
     "translated_summary": "",
     "translation_status": "translated",
-    "last_translation_attempt_at": "2026-11-08T16:31:53+00:00",
+    "last_translation_attempt_at": "2026-11-08T16:33:51+00:00",
     "translated_lang": "en"
   },
   {
@@ -5123,6 +5123,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "48ed5cce8605f60c222c",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Matheus Cunha comanda virada épica do Manchester United",
+    "summary": "Matheus Cunha comanda virada épica do Manchester United Terra",
+    "publisher": "Terra",
+    "publisher_url": "https://www.terra.com.br",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVmZFaGh0eE5qYVRxMXZJNjVqWVdiV0ZOeXVSV3RCZjJzQ0x1THlyU2NLS0RYT0pTbVVQNWh4cFpzVG5IZWJlUHF6am81bnhSeTlIZFFqUTZTSHZ6M1RZZlNUZlRLZXRKV0EtbTUyLUEwbHBVb09OUUdMXzVlZ0xJN01COXBtWEo0ejk2bWtDZENUU1pBQUlUcWhlTHllR2VET1B5dTlod3RjamlRcjc0c0RQVmJsakVZdERYdWMySmZIY3VDbjZLVkNuZmtGdzhkZnJVdVh4dTJ0VGI2QjdtcHpXMk94MFFlNjZsOWcwcDFxOFBBVVotMkxtYnZWRUNoUTVONjlvRkEwMHc0VFE1cg?oc=5",
+    "published_at": "2026-11-03T22:14:00+00:00",
+    "first_seen_at": "2026-11-08T16:33:51+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "bce32131de1b6d5df0eb",
     "sport": "futebol",
     "section": "manchester-united",
@@ -6006,10 +6025,10 @@
     "translated_lang": "en"
   },
   {
-    "id": "243064834bbccd9c55ac",
+    "id": "30cfccba2c5f75c24286",
     "sport": "andebol",
     "section": "campeonato-dinamarques",
-    "title": "Månedens Spiller: Verona Rexhepi Bambuni Kvindeligaen 3. nov. 2026",
+    "title": "Månedens Spiller: Verona Rexhepi",
     "summary": "",
     "publisher": "Tophåndbold · notícias oficiais",
     "publisher_url": "https://tophaandbold.dk/alle-nyheder",
@@ -6020,17 +6039,17 @@
     "first_seen_at": "2026-11-08T16:31:53+00:00",
     "official": true,
     "language": "da",
-    "translated_title": "Player of the Month: Verona Rexhepi Bambuni Women's League 3 Nov 2026",
+    "translated_title": "Player of the Month: Verona Rexhepi",
     "translated_summary": "",
     "translation_status": "translated",
-    "last_translation_attempt_at": "2026-11-08T16:31:53+00:00",
+    "last_translation_attempt_at": "2026-11-08T16:33:51+00:00",
     "translated_lang": "en"
   },
   {
-    "id": "4cbf1b089817b0686f4c",
+    "id": "05d2778cc069bb9d9128",
     "sport": "andebol",
     "section": "campeonato-dinamarques",
-    "title": "Månedens Spiller: Hjalte Langmack Betoro Herreligaen 3. nov. 2026",
+    "title": "Månedens Spiller: Hjalte Langmack",
     "summary": "",
     "publisher": "Tophåndbold · notícias oficiais",
     "publisher_url": "https://tophaandbold.dk/alle-nyheder",
@@ -6041,10 +6060,10 @@
     "first_seen_at": "2026-11-08T16:31:53+00:00",
     "official": true,
     "language": "da",
-    "translated_title": "Player of the Month: Hjalte Langmack Betoro Men's League 3 Nov. 2026",
+    "translated_title": "Player of the Month: Hjalte Langmack",
     "translated_summary": "",
     "translation_status": "translated",
-    "last_translation_attempt_at": "2026-11-08T16:31:53+00:00",
+    "last_translation_attempt_at": "2026-11-08T16:33:51+00:00",
     "translated_lang": "en"
   },
   {
@@ -6534,10 +6553,10 @@
     "last_translation_attempt_at": ""
   },
   {
-    "id": "e96980aa4fdea90ffe6a",
+    "id": "ea98ff9ef604be556122",
     "sport": "andebol",
     "section": "campeonato-dinamarques",
-    "title": "Rundens Hold #12, Betoro Herreligaen Betoro Herreligaen 2. nov. 2026",
+    "title": "Rundens Hold #12, Betoro Herreligaen",
     "summary": "",
     "publisher": "Tophåndbold · notícias oficiais",
     "publisher_url": "https://tophaandbold.dk/alle-nyheder",
@@ -6548,17 +6567,17 @@
     "first_seen_at": "2026-11-08T16:31:53+00:00",
     "official": true,
     "language": "da",
-    "translated_title": "Round Team # 12, Betoro Men's League Betoro Men's League 2 Nov 2026",
+    "translated_title": "Round Team # 12, Betoro Men's League",
     "translated_summary": "",
     "translation_status": "translated",
-    "last_translation_attempt_at": "2026-11-08T16:31:53+00:00",
+    "last_translation_attempt_at": "2026-11-08T16:33:51+00:00",
     "translated_lang": "en"
   },
   {
-    "id": "8f6cdfa302df407f29af",
+    "id": "31ab0a19e8ec64169923",
     "sport": "andebol",
     "section": "campeonato-dinamarques",
-    "title": "Rundens Hold #8, Bambuni Kvindeligaen Bambuni Kvindeligaen 2. nov. 2026",
+    "title": "Rundens Hold #8, Bambuni Kvindeligaen",
     "summary": "",
     "publisher": "Tophåndbold · notícias oficiais",
     "publisher_url": "https://tophaandbold.dk/alle-nyheder",
@@ -6569,10 +6588,10 @@
     "first_seen_at": "2026-11-08T16:31:53+00:00",
     "official": true,
     "language": "da",
-    "translated_title": "Round Team # 8, Bambuni Women's League Bambuni Women's League 2 Nov. 2026",
+    "translated_title": "Round Team # 8, Bambuni Women's League",
     "translated_summary": "",
     "translation_status": "translated",
-    "last_translation_attempt_at": "2026-11-08T16:31:53+00:00",
+    "last_translation_attempt_at": "2026-11-08T16:33:51+00:00",
     "translated_lang": "en"
   },
   {
@@ -6991,10 +7010,10 @@
     "last_translation_attempt_at": ""
   },
   {
-    "id": "a4bd72b9a786dcd43a07",
+    "id": "6cea0d0980d9d737d646",
     "sport": "andebol",
     "section": "campeonato-dinamarques",
-    "title": "Match of the Round: giganterne på besøg i Dokken Betoro Herreligaen 1. nov. 2026",
+    "title": "Match of the Round: giganterne på besøg i Dokken",
     "summary": "",
     "publisher": "Tophåndbold · notícias oficiais",
     "publisher_url": "https://tophaandbold.dk/alle-nyheder",
@@ -7005,10 +7024,10 @@
     "first_seen_at": "2026-11-08T16:31:53+00:00",
     "official": true,
     "language": "da",
-    "translated_title": "Match of the Round: the giants visiting Dokken Betoro Men's League 1 Nov. 2026",
+    "translated_title": "Match of the Round: the giants visiting the Dock",
     "translated_summary": "",
     "translation_status": "translated",
-    "last_translation_attempt_at": "2026-11-08T16:31:53+00:00",
+    "last_translation_attempt_at": "2026-11-08T16:33:51+00:00",
     "translated_lang": "en"
   },
   {
@@ -7120,10 +7139,10 @@
     "last_translation_attempt_at": ""
   },
   {
-    "id": "34128e5ae5ba215a2841",
+    "id": "8bab9d63c6e2a2084292",
     "sport": "andebol",
     "section": "campeonato-dinamarques",
-    "title": "Match of the Round: bundens ærkerivaler kæmper om at ligge øverst Bambuni Kvindeligaen 31. okt. 2026",
+    "title": "Match of the Round: bundens ærkerivaler kæmper om at ligge øverst",
     "summary": "",
     "publisher": "Tophåndbold · notícias oficiais",
     "publisher_url": "https://tophaandbold.dk/alle-nyheder",
@@ -7134,10 +7153,10 @@
     "first_seen_at": "2026-11-08T16:31:53+00:00",
     "official": true,
     "language": "da",
-    "translated_title": "Match of the Round: the bottom's arch rivals compete to top the Bambuni Women's League on Oct. 31, 2026",
+    "translated_title": "Match of the Round: the arch rivals of the bottom fight to be on top",
     "translated_summary": "",
     "translation_status": "translated",
-    "last_translation_attempt_at": "2026-11-08T16:31:53+00:00",
+    "last_translation_attempt_at": "2026-11-08T16:33:51+00:00",
     "translated_lang": "en"
   },
   {
@@ -7267,10 +7286,10 @@
     "last_translation_attempt_at": ""
   },
   {
-    "id": "ae7dd7424ae5b6dfa5bd",
+    "id": "95e1b30b2746f3678863",
     "sport": "andebol",
     "section": "campeonato-dinamarques",
-    "title": "Rundens Hold #11, Betoro Herreligaen Betoro Herreligaen 26. okt. 2026",
+    "title": "Rundens Hold #11, Betoro Herreligaen",
     "summary": "",
     "publisher": "Tophåndbold · notícias oficiais",
     "publisher_url": "https://tophaandbold.dk/alle-nyheder",
@@ -7283,8 +7302,9 @@
     "language": "da",
     "translated_title": "",
     "translated_summary": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translation_status": "pending",
+    "last_translation_attempt_at": "",
+    "translated_lang": ""
   },
   {
     "id": "52f33388ef8b8617e176",
@@ -7323,10 +7343,10 @@
     "last_translation_attempt_at": ""
   },
   {
-    "id": "208a8fa7115463a884d4",
+    "id": "3cd36737fe3725b305d9",
     "sport": "andebol",
     "section": "campeonato-dinamarques",
-    "title": "Match of the Round: en kamp mellem talenterne? Betoro Herreligaen 21. okt. 2026",
+    "title": "Match of the Round: en kamp mellem talenterne?",
     "summary": "",
     "publisher": "Tophåndbold · notícias oficiais",
     "publisher_url": "https://tophaandbold.dk/alle-nyheder",
@@ -7339,8 +7359,9 @@
     "language": "da",
     "translated_title": "",
     "translated_summary": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translation_status": "pending",
+    "last_translation_attempt_at": "",
+    "translated_lang": ""
   },
   {
     "id": "38180daf032058c6dfd0",
