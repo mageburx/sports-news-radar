@@ -31,9 +31,11 @@
     "first_seen_at": "2026-11-08T16:08:22+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Man Utd XI vs Aston Villa: escalação inicial e notícias confirmadas da equipe",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T16:09:58+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "f191cdd25a12d836a517",
@@ -49,9 +51,11 @@
     "first_seen_at": "2026-11-08T16:08:22+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "🚨 Manchester United-Aston Villa: XIs confirmados em Old Trafford",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T16:09:58+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "9f037c295f7ff4d12128",
@@ -307,6 +311,24 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalp2M0pESThNaE0zOGtxeFZMSFIyd3ctOExVZUlKb211Mk5sUXVqUDNVYmswb0plenpfX1o4Y2hVMHU5TDI1eFZkcGgwYm9aMVZpU3RyVWhrdzY3cnBmbWt2b0NYakc3MEhCXzhWZnBDb090NFZZSzJJMHRHR2doRFBuVFQtZlY5elZmMEhQWFJ0enU1?oc=5",
     "published_at": "2026-11-08T13:04:00+00:00",
     "first_seen_at": "2026-11-08T16:08:22+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "30a6df7c3b7b19634242",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Manchester United vs Aston Villa LIVE team news as Tielemans starts with Lacey on bench",
+    "summary": "Manchester United vs Aston Villa LIVE team news as Tielemans starts with Lacey on bench Manchester Evening News",
+    "publisher": "Manchester Evening News",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPREZLc3AxMjJRRERnbVM5Z2pRbzUwV01qcEx6aDY4OGxLYkhMTHRubk1Za3BPbGZubkVuVXZTUVAzSnRMcEROckhEVjdqRUhwemp6Y00zWERwQUMzdDJTcGVkR29BZXc1MFRkRExNOV9oY0ladUdOcHpkN3Q0U00zaHd4QzV0MkZIUEI0MWpnUjFmanlVdDhQRzhOOFRLb2c5RzdRM18tLWVIeFR0NHc?oc=5",
+    "published_at": "2026-11-08T12:57:21+00:00",
+    "first_seen_at": "2026-11-08T16:09:58+00:00",
     "official": false,
     "language": "en",
     "translated_title": "",
@@ -597,7 +619,7 @@
     "first_seen_at": "2026-11-08T15:29:16+00:00",
     "official": false,
     "language": "da",
-    "translated_title": "Turkey – Norway | Men&#39;s Handball European Championship qualification 2026",
+    "translated_title": "Turkey – Norway | Men's Handball European Championship qualification 2026",
     "translation_status": "translated",
     "last_translation_attempt_at": "2026-11-08T16:08:22+00:00",
     "translated_summary": "",
@@ -3218,6 +3240,24 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "0f5b9797d4c386d3cc8c",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "SC Braga soma mais um ponto na UEFA Conference League",
+    "summary": "SC Braga soma mais um ponto na UEFA Conference League Liga Portugal",
+    "publisher": "Liga Portugal",
+    "source": "Primeira Liga · imprensa",
+    "source_id": "liga-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlYxMFRqZnBZX3Z3ZmdLc1ZZVkUybGxlWWVYR0xRV0FUSUFDaXh3NjFuTUl4dVpEQ3pxck96Zmt5Q0g2OEVQOTg4azZ0T1ByRnR2c0FZbDJjN21wYWUxT29UTDc5WnpXbldoTkNtQmgwN244NU1QTWN0V1VYLTZ6S0tOVGFfbjJMNnVDZm1uWkhVVkUzUUVR?oc=5",
+    "published_at": "2026-11-05T19:45:05+00:00",
+    "first_seen_at": "2026-11-08T16:09:58+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "2c1a0343272b47d909f4",
     "sport": "futebol",
     "section": "primeira-liga",
@@ -5347,9 +5387,11 @@
     "first_seen_at": "2026-11-08T15:29:16+00:00",
     "official": false,
     "language": "da",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Captain Torbjørn: - Enormously big. Truly an honor",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T16:09:58+00:00",
+    "translated_summary": "",
+    "translated_lang": "en"
   },
   {
     "id": "98c4421085f88b31b958",
@@ -5563,9 +5605,11 @@
     "first_seen_at": "2026-11-08T15:29:16+00:00",
     "official": false,
     "language": "da",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Fjellhammer will create the handball show of all time on Norwegian soil!",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T16:09:58+00:00",
+    "translated_summary": "",
+    "translated_lang": "en"
   },
   {
     "id": "cb46eb0f3eb14969747c",
@@ -6157,9 +6201,11 @@
     "first_seen_at": "2026-11-08T15:29:16+00:00",
     "official": false,
     "language": "da",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "NM Wheelchair Handball - preliminary: Elverum 4 - Idrettsforeningen Fram",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T16:09:58+00:00",
+    "translated_summary": "",
+    "translated_lang": "en"
   },
   {
     "id": "fa19f2cd0e705b526d1e",
@@ -6229,9 +6275,11 @@
     "first_seen_at": "2026-11-08T15:29:16+00:00",
     "official": false,
     "language": "da",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Hammerseng-Edin after Norway&#39;s European Championship exit: - Absolutely insane",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T16:09:58+00:00",
+    "translated_summary": "",
+    "translated_lang": "en"
   },
   {
     "id": "1e513047dec01dfe0ee7",
@@ -6283,9 +6331,11 @@
     "first_seen_at": "2026-11-08T15:29:16+00:00",
     "official": false,
     "language": "da",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Sønderjyske Fodbold - FC Copenhagen live result, H2H and lineup",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T16:09:58+00:00",
+    "translated_summary": "",
+    "translated_lang": "en"
   },
   {
     "id": "a536955d46149df98d87",
@@ -6535,9 +6585,11 @@
     "first_seen_at": "2026-11-08T15:29:16+00:00",
     "official": false,
     "language": "da",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Bredeli about \"Svele-skvisen\": – Very joyful and a bit sad",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T16:09:58+00:00",
+    "translated_summary": "",
+    "translated_lang": "en"
   },
   {
     "id": "5eb4ef185f4e754a6beb",
