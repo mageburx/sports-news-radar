@@ -94,6 +94,23 @@ def listing_date(text):
         except ValueError: return None
     return None
 
+def tidy_official_title(text,source_id):
+    """Remove listing-only dates and category duplicates without changing article URLs."""
+    title=clean(text)
+    if source_id!="tophaandbold-web": return title
+    months=r"(?:jan|feb|mar|apr|maj|jun|jul|aug|sep|okt|nov|dec)"
+    title=re.sub(r"^\d{1,2}\.?\s+"+months+r"\.?\s+","",title,flags=re.I)
+    title=re.sub(r"\s+\d{1,2}\.?\s+"+months+r"\.?\s+20\d{2}\s*$","",title,flags=re.I)
+    title=re.sub(r"\s+\d{1,2}\.\d{1,2}\.20\d{2}\s*$","",title)
+    league=re.search(r"\s+(Betoro Herreligaen|Bambuni Kvindeligaen)$",title,re.I)
+    if league:
+        before=title[:league.start()].rstrip()
+        # A category tag added by the listing must not duplicate the headline.
+        if re.search(r"Rundens Hold\s*#\s*\d+\s*,\s*(?:Betoro Herreligaen|Bambuni Kvindeligaen)$",title,re.I):
+            return title
+        return before
+    return title
+
 def listing_rows(html,source,now):
     """Extract only article metadata from official, publicly accessible listing cards."""
     soup=BeautifulSoup(html,"html.parser")
@@ -132,13 +149,7 @@ def listing_rows(html,source,now):
         if not pub: continue  # Never invent publication dates.
         if not now-timedelta(days=30)<=pub<=now+timedelta(hours=3): continue
         title=raw
-        if not heading:
-            title=re.sub(r"^\d{1,2}\s+(?:jan|feb|mar|apr|maj|jun|jul|aug|sep|okt|nov|dec)\.?\s+","",title,flags=re.I)
-            title=re.sub(r"\s+\d{1,2}\s+(?:jan|feb|mar|apr|maj|jun|jul|aug|sep|okt|nov|dec)\.?\s+20\d{2}$","",title,flags=re.I)
-            title=re.sub(r"\s+\d{1,2}\.\d{1,2}\.20\d{2}$","",title)
-            if host=="tophaandbold.dk":
-                title=re.sub(r"\s+(?:Betoro Herreligaen|Bambuni Kvindeligaen)$","",title,flags=re.I)
-        title=clean(title)[:300]
+        title=tidy_official_title(title,source["id"])[:300]
         if len(title)<9: continue
         found.append({
           "id":identifier(source["section"],source["name"],title,url),
@@ -279,6 +290,19 @@ def main():
     sources=read(SOURCES,[])
     if not sources: raise SystemExit("Sem fontes configuradas")
     past=read(NEWS,[])
+    # Migrate existing official cards to clean titles and stable new IDs.
+    # Preserve archive history by matching the original public article URL.
+    for row in past:
+        if row.get("source_id")=="tophaandbold-web":
+            cleaned=tidy_official_title(row.get("title",""),row["source_id"])
+            if cleaned and cleaned!=row.get("title"):
+                row["title"]=cleaned
+                row["id"]=identifier(row["section"],row.get("publisher",""),cleaned,row.get("url",""))
+                row["translated_title"]=""
+                row["translated_summary"]=""
+                row["translated_lang"]=""
+                row["last_translation_attempt_at"]=""
+                row["translation_status"]="pending"
     # Decode HTML entities left by translation providers in stored headlines.
     for old_article in past:
         if old_article.get("translated_title"):

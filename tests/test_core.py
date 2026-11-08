@@ -140,4 +140,19 @@ class OfficialPagesTests(unittest.TestCase):
   a={"title":"Optakt til VM: Spanien i EHF Euro Cup","source_id":"tophaandbold-web","section":"campeonato-dinamarques","publisher_url":"https://tophaandbold.dk/alle-nyheder"}
   self.assertEqual(nordic_rejection(a),"outra_competicao")
 
+
+class OfficialTitleTests(unittest.TestCase):
+ def test_listing_date_and_category_removed(self):
+  from sports_radar.collector import tidy_official_title
+  self.assertEqual(tidy_official_title("Månedens Spiller: Hjalte Langmack Betoro Herreligaen 3. nov. 2026","tophaandbold-web"),"Månedens Spiller: Hjalte Langmack")
+ def test_preserve_original_league_word(self):
+  from sports_radar.collector import tidy_official_title
+  self.assertEqual(tidy_official_title("Rundens Hold #12, Betoro Herreligaen Betoro Herreligaen 2. nov. 2026","tophaandbold-web"),"Rundens Hold #12, Betoro Herreligaen")
+ def test_clean_preview_prefix(self):
+  from sports_radar.collector import tidy_official_title
+  self.assertEqual(tidy_official_title("5. nov. Match of the Round: ny rivalisering Bambuni Kvindeligaen 5. nov. 2026","tophaandbold-web"),"Match of the Round: ny rivalisering")
+ def test_leave_superliga_title(self):
+  from sports_radar.collector import tidy_official_title
+  self.assertEqual(tidy_official_title("Dommerpåsætning i 14. spillerunde","superliga-web"),"Dommerpåsætning i 14. spillerunde")
+
 if __name__=="__main__":unittest.main()
