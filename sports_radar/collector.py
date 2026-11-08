@@ -77,49 +77,114 @@ def collect(session,source,now):
     res.raise_for_status()
     return feed_parse(res.content,source,now)
 
-def translate(session,text,lang):
-    if lang=="pt": return text
+def translation_target(article):
+    """Keep existing EN→PT behaviour, but send Nordic-feed articles to English."""
+    source=article.get("language","").lower().split("-")[0]
+    return "en" if source=="da" else "pt" if source=="en" else None
+
+def translation_source(text,source):
+    """Some Danish news searches also return Norwegian titles; avoid labelling them Danish."""
+    if source!="da": return source
+    import re
+    norwegian=r"\b(?:norge|norges|norsk|norske|kvinner|menn|kaptein|etter|lagoppstilling|uttak|fjellhammer|tidenes|skape|innledende|rullestolhåndball)\b"
+    return "no" if re.search(norwegian,text,re.I) else "da"
+
+def translate(session,text,lang,target):
+    if lang==target: return text
     deepl=os.getenv("DEEPL_API_KEY","").strip()
     if deepl:
-        res=session.post("https://api-free.deepl.com/v2/translate",data={"text":text,"source_lang":lang.upper(),"target_lang":"PT-PT"},
-          headers={"Authorization":"DeepL-Auth-Key "+deepl},timeout=15)
+        source="NB" if lang=="no" else lang.upper()
+        endpoint=os.getenv("DEEPL_API_URL","https://api-free.deepl.com/v2/translate")
+        res=session.post(endpoint,data={
+            "text":text[:450],"source_lang":source,
+            "target_lang":"EN-GB" if target=="en" else "PT-PT"},
+            headers={"Authorization":"DeepL-Auth-Key "+deepl},timeout=15)
         res.raise_for_status()
-        return res.json()["translations"][0]["text"].strip()
-    params={"q":text[:450],"langpair":lang+"|pt-PT"}
+        result=res.json()["translations"][0]["text"].strip()
+        if not result: raise ValueError("DeepL devolveu tradução vazia")
+        return result
+    params={"q":text[:450],"langpair":lang+"|"+("en" if target=="en" else "pt-PT")}
     if os.getenv("MYMEMORY_EMAIL"): params["de"]=os.environ["MYMEMORY_EMAIL"]
     res=session.get("https://api.mymemory.translated.net/get",params=params,timeout=14)
     res.raise_for_status()
     payload=res.json()
-    if int(payload.get("responseStatus",0))!=200: raise ValueError("Quota ou serviço de tradução indisponível")
-    target=(payload.get("responseData") or {}).get("translatedText","")
-    if not target or target.upper().startswith("MYMEMORY WARNING"): raise ValueError("Tradução indisponível")
-    return target.strip()
+    if int(payload.get("responseStatus",0))!=200:
+        raise ValueError("Quota ou serviço de tradução indisponível")
+    result=(payload.get("responseData") or {}).get("translatedText","")
+    if not result or result.upper().startswith("MYMEMORY WARNING"):
+        raise ValueError("Tradução indisponível")
+    return result.strip()
 
 def translate_budget(session,items,status,now):
+    """Prioritize Danish/Norwegian feed text to English, with quota-safe daily pacing."""
     budget=dict(status.get("translation_budget") or {})
     today=now.date().isoformat()
     if budget.get("date")!=today: budget={"date":today,"characters":0}
+    budget["characters"]=int(budget.get("characters",0))
     success=failed=attempts=0
-    for a in items:
-        if attempts>=4 or failed>=2: break
-        if a.get("translated_title") or a.get("language")=="pt": continue
+    remaining=max(0,4200-budget["characters"])
+    # Stable sort: Denmark-related items first; newest within each group.
+    queue=sorted(items,key=lambda a:(a.get("language")!="da",))
+    for a in queue:
+        if attempts>=8 or failed>=2: break
+        target=translation_target(a)
+        if not target: continue
+        source=a.get("language","").split("-")[0]
+        # Old headlines were translated to Portuguese without a target-language tag.
+        # Never display such a title as if it were the new English translation.
+        if source=="da" and a.get("translated_lang")!="en":
+            a["translated_title"]=""
+            a["translated_summary"]=""
+            a["translation_status"]="pending"
+        if source=="en" and a.get("translated_title") and not a.get("translated_lang"):
+            a["translated_lang"]="pt"
+        if a.get("translated_title") and a.get("translated_lang")==target: continue
         prev=date(a.get("last_translation_attempt_at"))
-        if prev and now-prev<timedelta(hours=24): continue
-        n=len(a["title"])
-        if budget["characters"]+n>3000: continue
-        budget["characters"]+=n
+        if prev and now-prev<timedelta(hours=12): continue
+        title=a.get("title","")[:450]
+        if not title: continue
+        # RSS summaries often just repeat the headline plus publisher.
+        summary=a.get("summary","")[:200] if source=="da" else ""
+        if summary.lower().startswith(title.lower()[:max(10,len(title)-3)]):
+            summary=""
+        if len(title)>remaining: continue
+        lang=translation_source(title,source)
         attempts+=1
         a["last_translation_attempt_at"]=iso(now)
+        budget["characters"]+=len(title)
+        remaining-=len(title)
         try:
-            a["translated_title"]=translate(session,a["title"],a["language"])
+            a["translated_title"]=translate(session,title,lang,target)
+            a["translated_lang"]=target
             a["translation_status"]="translated"
             success+=1
-        except Exception:
+            # Translate genuine RSS excerpts only while the daily limit allows.
+            if summary and len(summary)<=remaining:
+                budget["characters"]+=len(summary)
+                remaining-=len(summary)
+                try:
+                    a["translated_summary"]=translate(session,summary,lang,target)
+                except Exception:
+                    a["translated_summary"]=""
+            else:
+                a["translated_summary"]=""
+        except Exception as exc:
+            a["translated_title"]=""
+            a["translated_summary"]=""
             a["translation_status"]="unavailable"
+            a["translation_error"]=type(exc).__name__
             failed+=1
         if not os.getenv("DEEPL_API_KEY"): time.sleep(.2)
     status["translation_budget"]=budget
     status["translations_this_run"]=success
+    status["translations_failed_this_run"]=failed
+    status["danish_english_translated"]=sum(
+        a.get("language")=="da" and a.get("translated_lang")=="en"
+        and bool(a.get("translated_title")) for a in items)
+    status["danish_english_pending"]=sum(
+        a.get("language")=="da" and not (
+          a.get("translated_lang")=="en" and a.get("translated_title"))
+        for a in items)
 
 def main():
     now=utcnow()
