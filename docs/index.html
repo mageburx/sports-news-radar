@@ -30,7 +30,7 @@ footer{border-top:1px solid var(--line);margin-top:60px;color:var(--muted);font-
 <nav class="tabs" aria-label="Modalidades"><button class="tab active" data-mode="futebol">⚽ Futebol</button><button class="tab" data-mode="andebol">🤾 Andebol</button><button class="tab" data-mode="arquivo">▣ Arquivo</button><button class="tab" data-mode="fontes">◎ Fontes</button></nav>
 <div class="sectionhead"><div><h2 id="sectionTitle">Futebol</h2><p id="sectionDesc">Manchester United, Liga Portugal e 3F Superliga.</p></div><div class="pill" id="results">0 notícias</div></div>
 <div class="chips" id="chips"></div>
-<div class="controls" id="controls"><input id="search" type="search" placeholder="Pesquisar equipas, notícias, jogadores…" aria-label="Pesquisar"><select id="period" aria-label="Período"><option value="24">Últimas 24 horas</option><option value="168" selected>Últimos 7 dias</option><option value="336">Últimos 14 dias</option><option value="720">Últimos 30 dias</option></select><button id="official" class="toggle">Fontes oficiais</button><button id="favorites" class="toggle">★ Guardadas</button><button id="original" class="toggle">Idioma original</button></div>
+<div class="controls" id="controls"><input id="search" type="search" placeholder="Pesquisar equipas, notícias, jogadores…" aria-label="Pesquisar"><select id="period" aria-label="Período"><option value="24">Últimas 24 horas</option><option value="168" selected>Últimos 7 dias</option><option value="336">Últimos 14 dias</option><option value="720">Últimos 30 dias</option></select><button id="official" class="toggle">Fontes oficiais</button><button id="favorites" class="toggle">★ Guardadas</button><button id="original" class="toggle">Ver original</button></div>
 <div id="feed" class="news"></div><button class="more" id="more" hidden>Mostrar mais notícias</button><div id="sourcePanel" class="sources" hidden></div>
 </main><footer><div class="wrap footer"><div><strong>SPORTS INTELLIGENCE RADAR</strong><div>Projeto independente. Notícias e direitos pertencem aos publicadores.</div></div><div>Metadados RSS públicos · <a href="data/news.json">JSON público ↗</a></div></div></footer>
 <script>
@@ -93,11 +93,14 @@ function display(){
  if(s.saved.has(a.id))s.saved.delete(a.id);else s.saved.add(a.id);
  try{localStorage.setItem("sportsSaved",JSON.stringify([...s.saved]))}catch{}display()});
  star.title="Guardar nos favoritos";
- const title=el("h3","",s.original||!a.translated_title?a.title:a.translated_title);
+ const translated=Boolean(a.translated_title&&a.translated_lang===(a.language==="da"?"en":"pt"));
+ const title=el("h3","",s.original||!translated?a.title:a.translated_title);
  const articleLink=el("a","");articleLink.href=a.url;articleLink.target="_blank";articleLink.rel="noopener noreferrer";articleLink.append(title);
  card.append(meta,star,articleLink);
- if(a.summary)card.append(el("p","",a.summary.length>220?a.summary.slice(0,220)+"…":a.summary));
- card.append(el("div","origin",(a.official?"● Fonte oficial · ":"")+"Abrir notícia ↗"));
+ const excerpt=!s.original&&translated&&a.translated_summary?a.translated_summary:a.summary;
+ if(excerpt)card.append(el("p","",excerpt.length>220?excerpt.slice(0,220)+"…":excerpt));
+ const translationNote=translated&&!s.original?(a.translated_lang==="en"?"EN · traduzido":"PT · traduzido"):(a.language==="da"?"Original · dinamarquês/nórdico":"Original");
+ card.append(el("div","origin",(a.official?"● Fonte oficial · ":"")+translationNote+" · Abrir notícia ↗"));
  NODES.news.append(card)
  }
  $("more").hidden=rows.length<=s.limit;
