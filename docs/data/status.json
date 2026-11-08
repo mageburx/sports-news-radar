@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-08T21:56:54+00:00",
+  "last_run": "2026-11-08T22:56:34+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -25,8 +25,8 @@
       "name": "Manchester United · Portugal",
       "section": "manchester-united",
       "ok": true,
-      "count": 47,
-      "raw_count": 47,
+      "count": 46,
+      "raw_count": 46,
       "excluded": 0
     },
     {
@@ -43,8 +43,8 @@
       "name": "Primeira Liga · imprensa",
       "section": "primeira-liga",
       "ok": true,
-      "count": 23,
-      "raw_count": 23,
+      "count": 21,
+      "raw_count": 21,
       "excluded": 0
     },
     {
@@ -79,8 +79,8 @@
       "name": "Andebol português · imprensa",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 10,
-      "raw_count": 10,
+      "count": 11,
+      "raw_count": 11,
       "excluded": 0
     },
     {
@@ -97,8 +97,8 @@
       "name": "Seleção portuguesa · imprensa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 21,
-      "raw_count": 21,
+      "count": 20,
+      "raw_count": 20,
       "excluded": 0
     },
     {
@@ -133,8 +133,8 @@
       "name": "EHF · imprensa",
       "section": "ehf",
       "ok": true,
-      "count": 9,
-      "raw_count": 9,
+      "count": 11,
+      "raw_count": 11,
       "excluded": 0
     },
     {
@@ -151,8 +151,8 @@
       "name": "IHF · imprensa",
       "section": "ihf",
       "ok": true,
-      "count": 19,
-      "raw_count": 19,
+      "count": 18,
+      "raw_count": 18,
       "excluded": 0
     },
     {
@@ -203,8 +203,8 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 501,
-  "added": 14,
+  "articles_total": 512,
+  "added": 11,
   "translation_budget": {
     "date": "2026-11-08",
     "characters": 4196
