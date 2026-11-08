@@ -123,6 +123,10 @@ def translate_budget(session,items,status,now):
     budget["characters"]=int(budget.get("characters",0))
     success=failed=attempts=0
     remaining=max(0,4200-budget["characters"])
+    # Preserve pre-existing English→Portuguese translations made before target tags existed.
+    for old in items:
+        if old.get("language")=="en" and old.get("translated_title") and not old.get("translated_lang"):
+            old["translated_lang"]="pt"
     # Stable sort: Denmark-related items first; newest within each group.
     queue=sorted(items,key=lambda a:(a.get("language")!="da",))
     for a in queue:
