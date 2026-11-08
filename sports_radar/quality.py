@@ -20,7 +20,7 @@ NORWEGIAN_LANGUAGE = re.compile(
 NON_DOMESTIC = re.compile(
     r"\b(?:uefa|ehf|ihf|fifa|champions[\s-]+league|"
     r"conference[\s-]+league|europa[\s-]+league|european[\s-]+league|"
-    r"europapokal|world[\s-]+cup|world[\s-]+championship|"
+    r"europapokal|golden[\s-]+league|\bvm\b|world[\s-]+cup|world[\s-]+championship|"
     r"europamesterskab|landskamp|landshold|landslaget|"
     r"euro[\s-]+cup|em[\s-]+kvalifisering|nm[\s-]+rullestol)\b", re.I)
 FOOTBALL_LEAGUE = re.compile(r"\b(?:3f\s+superliga(?:en)?|superliga(?:en)?)\b", re.I)
@@ -83,6 +83,13 @@ def nordic_rejection(article):
     if NON_DOMESTIC.search(title):
         return "outra_competicao"
 
+    # Entries from the official competition pages are already scoped by their
+    # article URL; category names may not be repeated in their titles.
+    if article.get("source_id")=="superliga-web" and section=="superliga-dinamarquesa" and domain=="superliga.dk":
+        return None
+    if article.get("source_id")=="tophaandbold-web" and section=="campeonato-dinamarques" and domain=="tophaandbold.dk":
+        if NOT_TOP_DIVISION.search(title): return "outra_competicao"
+        return None
     if section=="superliga-dinamarquesa":
         if FOOTBALL_LEAGUE.search(title): return None
         if _clubs(title,FOOTBALL_TEAMS)>=2: return None

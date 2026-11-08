@@ -5,7 +5,10 @@ import xml.etree.ElementTree as ET
 from datetime import timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, urljoin
+from bs4 import BeautifulSoup
+import re
+from datetime import datetime
 import requests
 from .core import utcnow,iso,date,clean,canonical,identifier,merge,news_url
 from .quality import filter_nordic
@@ -75,9 +78,87 @@ def feed_parse(payload,source,now=None):
         })
     return result
 
+
+DANISH_MONTHS={"jan":1,"feb":2,"mar":3,"apr":4,"maj":5,"jun":6,
+               "jul":7,"aug":8,"sep":9,"okt":10,"nov":11,"dec":12}
+
+def listing_date(text):
+    """Parse dates visibly printed in official Danish league news indexes."""
+    match=re.search(r"(?<!\d)(\d{1,2})\.(\d{1,2})\.(20\d{2})(?!\d)",text)
+    if match:
+        try: return datetime(int(match[3]),int(match[2]),int(match[1]),tzinfo=timezone.utc)
+        except ValueError: return None
+    match=re.search(r"(?<!\w)(\d{1,2})\s+(jan|feb|mar|apr|maj|jun|jul|aug|sep|okt|nov|dec)\.?\s+(20\d{2})",text,re.I)
+    if match:
+        try: return datetime(int(match[3]),DANISH_MONTHS[match[2].lower()],int(match[1]),tzinfo=timezone.utc)
+        except ValueError: return None
+    return None
+
+def listing_rows(html,source,now):
+    """Extract only article metadata from official, publicly accessible listing cards."""
+    soup=BeautifulSoup(html,"html.parser")
+    host=(urlsplit(source["url"]).hostname or "").removeprefix("www.").lower()
+    if host not in {"superliga.dk","tophaandbold.dk"}: raise ValueError("Not an allowed official host")
+    found=[]
+    seen=set()
+    for anchor in soup.select("a[href]"):
+        url=canonical(urljoin(source["url"],anchor.get("href","")))
+        parts=urlsplit(url)
+        path=parts.path
+        if (parts.hostname or "").removeprefix("www.").lower()!=host: continue
+        if host=="superliga.dk":
+            if not path.startswith("/nyheder/"): continue
+        elif not re.match(r"^/(?:herreligaen|kvindeligaen)-artikler/[^/]+",path):
+            continue
+        if url in seen: continue
+        seen.add(url)
+        heading=anchor.find(["h2","h3","h4"])
+        raw=clean(heading.get_text(" ",strip=True)) if heading else clean(anchor.get_text(" ",strip=True))
+        if not raw: continue
+        text=clean(anchor.get_text(" ",strip=True))
+        stamp=anchor.find("time")
+        ts=stamp.get("datetime","") if stamp else ""
+        pub=listing_date(ts) or listing_date(text)
+        # Some sites put their date in a sibling of the anchor within the card.
+        if not pub:
+            parent=anchor.parent
+            for _ in range(2):
+                if parent is None: break
+                nearby=clean(parent.get_text(" ",strip=True))
+                if len(nearby)<700:
+                    pub=listing_date(nearby)
+                if pub: break
+                parent=parent.parent
+        if not pub: continue  # Never invent publication dates.
+        if not now-timedelta(days=30)<=pub<=now+timedelta(hours=3): continue
+        title=raw
+        if not heading:
+            title=re.sub(r"^\d{1,2}\s+(?:jan|feb|mar|apr|maj|jun|jul|aug|sep|okt|nov|dec)\.?\s+","",title,flags=re.I)
+            title=re.sub(r"\s+\d{1,2}\s+(?:jan|feb|mar|apr|maj|jun|jul|aug|sep|okt|nov|dec)\.?\s+20\d{2}$","",title,flags=re.I)
+            title=re.sub(r"\s+\d{1,2}\.\d{1,2}\.20\d{2}$","",title)
+            if host=="tophaandbold.dk":
+                title=re.sub(r"\s+(?:Betoro Herreligaen|Bambuni Kvindeligaen)$","",title,flags=re.I)
+        title=clean(title)[:300]
+        if len(title)<9: continue
+        found.append({
+          "id":identifier(source["section"],source["name"],title,url),
+          "sport":source["sport"],"section":source["section"],"title":title,
+          "summary":"","publisher":source["name"],"publisher_url":source["url"],
+          "source":source["name"],"source_id":source["id"],"url":url,
+          "published_at":iso(pub),"first_seen_at":iso(now),"official":True,
+          "language":"da","translated_title":"","translated_summary":"",
+          "translation_status":"original","last_translation_attempt_at":""
+        })
+    return found
+
 def collect(session,source,now):
-    res=session.get(news_url(source),timeout=(10,23),headers={"User-Agent":UA})
+    url=source["url"] if source.get("kind")=="official_index" else news_url(source)
+    res=session.get(url,timeout=(10,23),headers={"User-Agent":UA})
     res.raise_for_status()
+    if source.get("kind")=="official_index":
+        rows=listing_rows(res.content,source,now)
+        if not rows: raise ValueError("No dated official news cards found; HTML may have changed")
+        return rows
     return feed_parse(res.content,source,now)
 
 def translation_target(article):

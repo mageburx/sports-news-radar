@@ -104,4 +104,39 @@ class DanishQualityTests(unittest.TestCase):
   a=feed_parse(xml,SRC,datetime.now(timezone.utc))
   self.assertEqual(publisher_hostname(a[0]),"tophaandbold.dk")
 
+
+class OfficialPagesTests(unittest.TestCase):
+ def test_numeric_date(self):
+  from sports_radar.collector import listing_date
+  self.assertEqual(listing_date("05.11.2026").date().isoformat(),"2026-11-05")
+ def test_danish_month(self):
+  from sports_radar.collector import listing_date
+  self.assertEqual(listing_date("6 nov. 2026").date().isoformat(),"2026-11-06")
+ def test_superliga_index(self):
+  from sports_radar.collector import listing_rows
+  from sports_radar.quality import filter_nordic
+  src={"id":"superliga-web","sport":"futebol","section":"superliga-dinamarquesa","name":"3F Superliga · notícias oficiais","url":"https://www.superliga.dk/nyheder"}
+  html='<html><a href="/nyheder/optakter/2026-27/preview-fck-brondby"><h2>Preview: FC København - Brøndby IF</h2><time>05.11.2026</time></a></html>'
+  now=datetime(2026,11,8,tzinfo=timezone.utc)
+  rows=listing_rows(html,src,now)
+  self.assertEqual(len(rows),1)
+  self.assertEqual(len(filter_nordic(rows)[0]),1)
+ def test_handball_index(self):
+  from sports_radar.collector import listing_rows
+  from sports_radar.quality import filter_nordic
+  src={"id":"tophaandbold-web","sport":"andebol","section":"campeonato-dinamarques","name":"Tophåndbold · notícias oficiais","url":"https://tophaandbold.dk/alle-nyheder"}
+  html='<html><a href="/herreligaen-artikler/rundens-hold-12-betoro-herreligaen"><h3>Rundens Hold #12, Betoro Herreligaen</h3><time>6 nov. 2026</time></a><a href="/1-division-herrer-artikler/a"><h3>1. division</h3><time>6 nov. 2026</time></a></html>'
+  now=datetime(2026,11,8,tzinfo=timezone.utc)
+  rows=listing_rows(html,src,now)
+  self.assertEqual(len(rows),1)
+  self.assertEqual(len(filter_nordic(rows)[0]),1)
+ def test_official_overrides_generic_title(self):
+  from sports_radar.quality import nordic_rejection
+  a={"title":"Dommerpåsætning i 14. spillerunde","source_id":"superliga-web","section":"superliga-dinamarquesa","publisher_url":"https://www.superliga.dk/nyheder"}
+  self.assertIsNone(nordic_rejection(a))
+ def test_official_excludes_international_news(self):
+  from sports_radar.quality import nordic_rejection
+  a={"title":"Optakt til VM: Spanien i EHF Euro Cup","source_id":"tophaandbold-web","section":"campeonato-dinamarques","publisher_url":"https://tophaandbold.dk/alle-nyheder"}
+  self.assertEqual(nordic_rejection(a),"outra_competicao")
+
 if __name__=="__main__":unittest.main()

@@ -226,5 +226,25 @@
     "gl": "DK",
     "ceid": "DK:da",
     "language": "da"
+  },
+  {
+    "id": "superliga-web",
+    "sport": "futebol",
+    "section": "superliga-dinamarquesa",
+    "name": "3F Superliga · notícias oficiais",
+    "kind": "official_index",
+    "url": "https://www.superliga.dk/nyheder",
+    "language": "da",
+    "official_domain": "superliga.dk"
+  },
+  {
+    "id": "tophaandbold-web",
+    "sport": "andebol",
+    "section": "campeonato-dinamarques",
+    "name": "Tophåndbold · notícias oficiais",
+    "kind": "official_index",
+    "url": "https://tophaandbold.dk/alle-nyheder",
+    "language": "da",
+    "official_domain": "tophaandbold.dk"
   }
 ]
