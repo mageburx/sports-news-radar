@@ -1,5 +1,26 @@
 [
   {
+    "id": "094492fe6e61842669df",
+    "sport": "andebol",
+    "section": "ehf",
+    "title": "LIVE BLOG: Hungary eye second qualifiers win; Montenegro vs Faroe Islands in tight clash",
+    "summary": "LIVE BLOG: Hungary eye second qualifiers win; Montenegro vs Faroe Islands in tight clash EHF EURO",
+    "publisher": "EHF EURO",
+    "publisher_url": "https://ehfeuro.eurohandball.com",
+    "source": "EHF · imprensa",
+    "source_id": "ehf-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXZMTlBoYk1qNUxPYVdRZTdURXIyTmNhcTM3MGNuOGNORFlHaExCOHl2YmhyZ3RRd3lOMW83a0ZmeURWSDlDYTNPWk9lTENYQjFNTjhGeG9xLUJvY0RzVm5MQi11SjVHS2x5RkxKQ0JQRnEwTkR2blZHM25QY05zY0kxYVBZc0xZcVA0ZjlpS3VaSWxPUGltNXFPSHlRU2xDcEJnOG9R?oc=5",
+    "published_at": "2026-11-08T17:31:48+00:00",
+    "first_seen_at": "2026-11-08T17:54:19+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "BLOG AO VIVO: Hungria busca segunda vitória nas eliminatórias; Montenegro x Ilhas Faroé em duelo apertado",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T17:54:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
     "id": "c9d6353ca942994db063",
     "sport": "futebol",
     "section": "manchester-united",
@@ -97,6 +118,44 @@
     "last_translation_attempt_at": "2026-11-08T16:58:20+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "56dba24f8373d3613ba0",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "United x Aston Villa: onde assistir e prováveis times",
+    "summary": "United x Aston Villa: onde assistir e prováveis times SpaceMoney",
+    "publisher": "SpaceMoney",
+    "publisher_url": "https://www.spacemoney.com.br",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnh4b0ZoRWtXZzV6cWFzZ19FWWxuZXdXUHh2YVdmYlFzaWN0cFJybXJRa0FGRkhqN0dCNmd6OW9YM2x2RU92TmE3cERHRldiTnhycHpNWmMycG1JM2tNd3JSUDJNdTNYTGNIX093ZkNlOGplTmF6cnc1UlhGVTFOcFlMWWQyaXhJWl9SSExn?oc=5",
+    "published_at": "2026-11-08T16:09:18+00:00",
+    "first_seen_at": "2026-11-08T17:54:19+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "d2d16976a93937e8f500",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Bruno Fernandes marca no Manchester United-Aston Villa: veja o golo",
+    "summary": "Bruno Fernandes marca no Manchester United-Aston Villa: veja o golo SAPO",
+    "publisher": "SAPO",
+    "publisher_url": "https://sapo.pt",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDk5X2ktVTA0ZkNwV1oyY3ZpUmVJMzQ3QnY1Mm10cmwycEp5QUUyTGNKa2RVMnJQMTBwLWI2RXVITVBZV1ZzaldocURGbTZ0aWk3aGtlbUtpR0xBbzRnLV9TeWFTTVV0dlN0aDNEeHRxWEJ0SDZPMi1wR09lak9HQktabFlVNFBYZjhkNlFkSloxVUxFYVN6NmZTZDk4cjhrOW1jY0VqSENFRkRIXzVGcHFQTW8?oc=5",
+    "published_at": "2026-11-08T16:02:00+00:00",
+    "first_seen_at": "2026-11-08T17:54:19+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "983fb03e8fcc0687c3fd",
@@ -763,9 +822,11 @@
     "first_seen_at": "2026-11-08T15:27:30+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Como assistir ao Man Utd vs Aston Villa: canal de TV e transmissão ao vivo",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T17:54:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "8bf95580bf353a7aca12",
@@ -800,9 +861,11 @@
     "first_seen_at": "2026-11-08T16:26:03+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Como o Manchester United deve se alinhar contra o Aston Villa no jogo da Premier League",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T17:54:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "9417c85f01fdb7356379",
@@ -818,9 +881,11 @@
     "first_seen_at": "2026-11-08T15:27:30+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Dorgu, Baleba, Sesko - Notícias sobre lesões do Manchester United e datas de retorno antes do Aston Villa",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T17:54:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "866980447fe59734b129",
@@ -890,9 +955,11 @@
     "first_seen_at": "2026-11-08T15:27:30+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Como assistir ao Aston Villa Women x Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T17:54:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "a4384a8ecae39b49e1e5",
@@ -1649,6 +1716,25 @@
     "first_seen_at": "2026-11-08T15:27:30+00:00",
     "official": false,
     "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "2bdf7da1609fec58abca",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "Estrela da Amadora x Benfica: data, hora, onzes prováveis, antevisão e favorito no jogo da liga portuguesa",
+    "summary": "Estrela da Amadora x Benfica: data, hora, onzes prováveis, antevisão e favorito no jogo da liga portuguesa DAZN",
+    "publisher": "DAZN",
+    "publisher_url": "https://www.dazn.com",
+    "source": "Primeira Liga · imprensa",
+    "source_id": "liga-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRnFoR3luNER5SklrdTk4SFFHQ1VuM3M3R29KRmVCSkN2eThaX1pTQVc0eWlDaUZ0cGF3a0UwZ1BjODczazU4cEZ1YjdLejN5Ry0ySkk2WXEybW5vMkJzSzZsRXJ6YjUybmF0WlFWQ0JOVU9yMjNSSTJUVkhpTy1razBfNWJMZTVqdnlYdFRyUlB2ZXNDbktha183NEFRZ0dfb21xMzFrdWZvbFQybFktQ3hqRjQ5ZVZtOTMyNFZIMEdBdktmdDdaOEtwSU1IUGR6ZzlNcVQ4QQ?oc=5",
+    "published_at": "2026-11-07T15:47:41+00:00",
+    "first_seen_at": "2026-11-08T17:54:19+00:00",
+    "official": false,
+    "language": "pt",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
@@ -3740,9 +3826,11 @@
     "first_seen_at": "2026-11-08T15:27:30+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Notícias",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-08T17:54:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "2ad88192f260190d2877",
@@ -5613,6 +5701,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "a1daa3a960f16c94dea0",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "UEFA Youth League: United 1 Roma 1",
+    "summary": "UEFA Youth League: United 1 Roma 1 Manchester United",
+    "publisher": "Manchester United",
+    "publisher_url": "https://www.manutd.com",
+    "source": "Manchester United · oficial",
+    "source_id": "mu-oficial",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84N3ZPdTdQN2tleXdNbjduLWRramVMT0hWY3RaSDRyQjVvMjJqd3o4VjgyV3AybGJSUzlha3BsVXZiWTRzQVBOU2dERmI2YUYwei1SWXZlaS1KdW9tYkZURWJuS0pJS3BRYXJHeEcySnBVM3VpTTB6M2VyRFZ0UQ?oc=5",
+    "published_at": "2026-11-03T15:29:11+00:00",
+    "first_seen_at": "2026-11-08T17:54:19+00:00",
+    "official": true,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "b92dbd18386054bf7cca",
     "sport": "futebol",
     "section": "manchester-united",
@@ -6713,6 +6820,25 @@
     "first_seen_at": "2026-11-08T15:29:16+00:00",
     "official": true,
     "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "501f798499f4314395d0",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Bruno Fernandes pode sair do Manchester United a preço de saldo",
+    "summary": "Bruno Fernandes pode sair do Manchester United a preço de saldo Flashscore.pt",
+    "publisher": "Flashscore.pt",
+    "publisher_url": "https://www.flashscore.pt",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZFZLdkRWVlh3V3FJNWttbTVXT2w3c01iZm9na3ZHdnlfQjlQNFlORGNybEdYZGcwX2tUSFZPMEdfYndXUjJ6QmJFS1JncEJhSkJnQTBmcUo1SThPQmpMRkd2UDFIS241d1RuQ3hjMG95MjE0bXpxWmFDcVlRY3JCZktzeGlUNkdXTnBPd3dQNnN0T0RzZ283aGtVVGJDeEUwbkVYN1dPSi1wbFFycHc3SWNEV1VuTHpMWEx6ekxYSzlHMGhHTmJfcmJ4cw?oc=5",
+    "published_at": "2026-11-02T02:30:00+00:00",
+    "first_seen_at": "2026-11-08T17:54:19+00:00",
+    "official": false,
+    "language": "pt",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""

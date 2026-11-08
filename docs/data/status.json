@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-08T16:58:20+00:00",
+  "last_run": "2026-11-08T17:54:19+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -15,18 +15,17 @@
       "id": "mu-imprensa",
       "name": "Manchester United · imprensa",
       "section": "manchester-united",
-      "ok": true,
-      "count": 70,
-      "raw_count": 70,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Manchester+United%22+%28football+OR+injury+OR+transfe"
     },
     {
       "id": "mu-pt",
       "name": "Manchester United · Portugal",
       "section": "manchester-united",
       "ok": true,
-      "count": 40,
-      "raw_count": 40,
+      "count": 42,
+      "raw_count": 42,
       "excluded": 0
     },
     {
@@ -43,18 +42,17 @@
       "name": "Primeira Liga · imprensa",
       "section": "primeira-liga",
       "ok": true,
-      "count": 28,
-      "raw_count": 28,
+      "count": 27,
+      "raw_count": 27,
       "excluded": 0
     },
     {
       "id": "superliga-oficial",
       "name": "3F Superliga · oficial",
       "section": "superliga-dinamarquesa",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 0,
-      "excluded": 0
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Asuperliga.dk+%22Superliga%22+when%3A30d&hl=da&gl="
     },
     {
       "id": "superliga-imprensa",
@@ -124,8 +122,8 @@
       "name": "EHF · oficial",
       "section": "ehf",
       "ok": true,
-      "count": 15,
-      "raw_count": 15,
+      "count": 14,
+      "raw_count": 14,
       "excluded": 0
     },
     {
@@ -133,36 +131,33 @@
       "name": "EHF · imprensa",
       "section": "ehf",
       "ok": true,
-      "count": 9,
-      "raw_count": 9,
+      "count": 10,
+      "raw_count": 10,
       "excluded": 0
     },
     {
       "id": "ihf-oficial",
       "name": "IHF · oficial",
       "section": "ihf",
-      "ok": true,
-      "count": 24,
-      "raw_count": 24,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aihf.info%2Fmedia-center%2Fnews+when%3A7d&hl=en-GB"
     },
     {
       "id": "ihf-imprensa",
       "name": "IHF · imprensa",
       "section": "ihf",
-      "ok": true,
-      "count": 19,
-      "raw_count": 19,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22IHF%22+handball+%28world+championship+OR+federation%2"
     },
     {
       "id": "dk-futebol-clubes",
       "name": "Superliga · clubes",
       "section": "superliga-dinamarquesa",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 0,
-      "excluded": 0
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28site%3Abold.dk+OR+site%3Asuperliga.dk+OR+site%3Acampo"
     },
     {
       "id": "dk-andebol-clubes",
@@ -202,12 +197,12 @@
     }
   ],
   "sources_total": 22,
-  "sources_ok": 22,
-  "articles_total": 414,
-  "added": 9,
+  "sources_ok": 17,
+  "articles_total": 420,
+  "added": 6,
   "translation_budget": {
     "date": "2026-11-08",
-    "characters": 3826
+    "characters": 4196
   },
   "nordic_filter": {
     "removed_from_archive": 0,
@@ -228,7 +223,7 @@
       }
     ]
   },
-  "translations_this_run": 8,
+  "translations_this_run": 6,
   "translations_failed_this_run": 0,
   "danish_english_translated": 18,
   "danish_english_pending": 0
