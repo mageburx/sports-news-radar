@@ -195,6 +195,12 @@ def main():
     sources=read(SOURCES,[])
     if not sources: raise SystemExit("Sem fontes configuradas")
     past=read(NEWS,[])
+    # Decode HTML entities left by translation providers in stored headlines.
+    for old_article in past:
+        if old_article.get("translated_title"):
+            old_article["translated_title"]=clean(old_article["translated_title"])
+        if old_article.get("translated_summary"):
+            old_article["translated_summary"]=clean(old_article["translated_summary"])
     old=read(STATUS,{})
     known={a["id"] for a in past if a.get("id")}
     fresh=[]; health=[]; failures=0
