@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-08T16:26:03+00:00",
+  "last_run": "2026-11-08T16:29:41+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -25,8 +25,8 @@
       "name": "Manchester United · Portugal",
       "section": "manchester-united",
       "ok": true,
-      "count": 39,
-      "raw_count": 39,
+      "count": 40,
+      "raw_count": 40,
       "excluded": 0
     },
     {
@@ -34,8 +34,8 @@
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
       "ok": true,
-      "count": 52,
-      "raw_count": 52,
+      "count": 53,
+      "raw_count": 53,
       "excluded": 0
     },
     {
@@ -97,8 +97,8 @@
       "name": "Seleção portuguesa · imprensa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 19,
-      "raw_count": 19,
+      "count": 20,
+      "raw_count": 20,
       "excluded": 0
     },
     {
@@ -124,8 +124,8 @@
       "name": "EHF · oficial",
       "section": "ehf",
       "ok": true,
-      "count": 15,
-      "raw_count": 15,
+      "count": 16,
+      "raw_count": 16,
       "excluded": 0
     },
     {
@@ -133,8 +133,8 @@
       "name": "EHF · imprensa",
       "section": "ehf",
       "ok": true,
-      "count": 8,
-      "raw_count": 8,
+      "count": 9,
+      "raw_count": 9,
       "excluded": 0
     },
     {
@@ -181,89 +181,41 @@
       "count": 0,
       "raw_count": 0,
       "excluded": 0
+    },
+    {
+      "id": "superliga-web",
+      "name": "3F Superliga · notícias oficiais",
+      "section": "superliga-dinamarquesa",
+      "ok": true,
+      "count": 8,
+      "raw_count": 8,
+      "excluded": 0
+    },
+    {
+      "id": "tophaandbold-web",
+      "name": "Tophåndbold · notícias oficiais",
+      "section": "campeonato-dinamarques",
+      "ok": false,
+      "count": 0,
+      "error": "ValueError: No dated official news cards found; HTML may have changed"
     }
   ],
-  "sources_total": 20,
-  "sources_ok": 20,
-  "articles_total": 383,
-  "added": 6,
+  "sources_total": 22,
+  "sources_ok": 21,
+  "articles_total": 394,
+  "added": 11,
   "translation_budget": {
     "date": "2026-11-08",
-    "characters": 2054
+    "characters": 2342
   },
   "nordic_filter": {
-    "removed_from_archive": 14,
+    "removed_from_archive": 0,
     "excluded_on_fetch": 0,
-    "reasons": {
-      "origem_norueguesa": 12,
-      "origem_indeterminada": 1,
-      "outra_competicao": 1
-    },
-    "samples": [
-      {
-        "id": "f9796edf0f72ac3ed875",
-        "reason": "origem_norueguesa",
-        "title": "Tyrkia – Norge | EM kvalifisering Håndball menn 2026"
-      },
-      {
-        "id": "56a4f4d6c2d4166ab2ad",
-        "reason": "origem_norueguesa",
-        "title": "EHF Champions League, kvinner: Ferencváros - Dortmund"
-      },
-      {
-        "id": "291706f178308273edf0",
-        "reason": "origem_indeterminada",
-        "title": "UEFA Conference League: F.C. København - Iberia 1999"
-      },
-      {
-        "id": "108c115b9ea89fb99c07",
-        "reason": "origem_norueguesa",
-        "title": "iceserien G16 Avd 04: Ski - Elverum"
-      },
-      {
-        "id": "d9dc955443b893c9391e",
-        "reason": "origem_norueguesa",
-        "title": "EHF Champions League, menn: Celje Pivovarna Lasko - Aalborg"
-      },
-      {
-        "id": "120a9c72a16e3fb87c8d",
-        "reason": "origem_norueguesa",
-        "title": "EHF Champions League, kvinner: Nykøbing - Odense"
-      },
-      {
-        "id": "9bb2aa02a3a6ba51d9c5",
-        "reason": "origem_norueguesa",
-        "title": "EHF Champions League, kvinner: Krim - CSM București"
-      },
-      {
-        "id": "05a31ff43ab90c2ed17e",
-        "reason": "outra_competicao",
-        "title": "UEFA har modkandidat til Infantino på vej"
-      },
-      {
-        "id": "5bf5ca0a00e74dbed338",
-        "reason": "origem_norueguesa",
-        "title": "Kaptein Torbjørn: - Enormt stort. Virkelig en ære"
-      },
-      {
-        "id": "0b603f51a02a185c93e6",
-        "reason": "origem_norueguesa",
-        "title": "Fjellhammer vil skape tidenes håndballshow på norsk jord!"
-      },
-      {
-        "id": "d5f29b9a772879307639",
-        "reason": "origem_norueguesa",
-        "title": "NM rullestolhåndball - innledende: Elverum 4 - Idrettsforeningen Fram"
-      },
-      {
-        "id": "868b8defd849eae7a8f1",
-        "reason": "origem_norueguesa",
-        "title": "Hammerseng-Edin etter Norges EM-uttak: – Helt sinnssykt"
-      }
-    ]
+    "reasons": {},
+    "samples": []
   },
   "translations_this_run": 8,
   "translations_failed_this_run": 0,
-  "danish_english_translated": 0,
+  "danish_english_translated": 8,
   "danish_english_pending": 0
 }
