@@ -88,7 +88,7 @@ def listing_date(text):
     if match:
         try: return datetime(int(match[3]),int(match[2]),int(match[1]),tzinfo=timezone.utc)
         except ValueError: return None
-    match=re.search(r"(?<!\w)(\d{1,2})\s+(jan|feb|mar|apr|maj|jun|jul|aug|sep|okt|nov|dec)\.?\s+(20\d{2})",text,re.I)
+    match=re.search(r"(?<!\w)(\d{1,2})\.?\s+(jan|feb|mar|apr|maj|jun|jul|aug|sep|okt|nov|dec)\.?\s+(20\d{2})",text,re.I)
     if match:
         try: return datetime(int(match[3]),DANISH_MONTHS[match[2].lower()],int(match[1]),tzinfo=timezone.utc)
         except ValueError: return None

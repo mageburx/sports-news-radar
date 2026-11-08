@@ -112,6 +112,7 @@ class OfficialPagesTests(unittest.TestCase):
  def test_danish_month(self):
   from sports_radar.collector import listing_date
   self.assertEqual(listing_date("6 nov. 2026").date().isoformat(),"2026-11-06")
+  self.assertEqual(listing_date("5. nov. 2026").date().isoformat(),"2026-11-05")
  def test_superliga_index(self):
   from sports_radar.collector import listing_rows
   from sports_radar.quality import filter_nordic
