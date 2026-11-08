@@ -1,17 +1,11 @@
-# Sports News Radar — Futebol e Andebol
+# Sports News Radar · Futebol e Andebol
 
-Agregador independente e gratuito de **notícias públicas** para Manchester United, Primeira Liga de Portugal, Superliga dinamarquesa, campeonato português de andebol, seleção portuguesa de andebol, campeonato dinamarquês de andebol, EHF e IHF.
+Dashboard com 8 áreas: Manchester United, Primeira Liga, Superliga dinamarquesa, campeonato português de andebol, seleção portuguesa, campeonato dinamarquês, EHF e IHF.
 
-- Dashboard: `docs/index.html`, publicado por GitHub Pages a partir de `main /docs`.
-- Fontes: `config/sources.json` (Google News RSS PT/EN/DA, incluindo pesquisas dirigidas a sites oficiais).
-- Coletor: `sports_radar/collector.py` (títulos, excertos e ligações, nunca artigos completos).
-- Atualização: GitHub Actions a cada hora; botão de execução manual em Actions.
-- Arquivo: janela contínua de 30 dias em `docs/data/news.json`.
-- Diagnóstico: `docs/data/status.json`, com número de notícias e erros por fonte.
-- Sem custos de API obrigatórios. A cobertura depende da indexação Google News e do funcionamento dos feeds.
+**Tecnologia:** Google News RSS (17 pesquisas públicas), Python, GitHub Actions (hora a hora) e GitHub Pages. Retém 30 dias de metadados e apresenta estado de cada fonte. A tradução PT experimental usa MyMemory com limites; pode ser desativada removendo a função translate_budget de collector.py. Nunca acede ao texto integral de artigos.
 
-**Publicação:** Settings > Pages > Build and deployment > Deploy from a branch > main > /docs. URL esperado após ativar: https://mageburx.github.io/sports-news-radar/
+**Publicar:** Settings > Pages > Deploy from a branch > main > /docs. O endereço será https://mageburx.github.io/sports-news-radar/ quando ativado. Em Actions > Sports News Radar > Run workflow é possível iniciar a primeira recolha. Se a escrita de dados falhar, verifica as permissões de escrita de GitHub Actions.
 
-**Primeira recolha:** Actions > Sports News Radar > Run workflow; o push inicial também deve iniciar uma execução. Se a gravação do JSON falhar por permissões, verifica Settings > Actions > General > Workflow permissions.
+**Local:** python -m pip install -r requirements.txt; python -m unittest discover -s tests -v; python -m sports_radar.collector; python -m http.server 8000 (visitar /docs/).
 
-O cron GitHub Actions é de melhor esforço, pode atrasar. O arquivo não recupera notícias anteriores à primeira recolha; os commits Git continuam a guardar versões antigas. A designação “oficial” identifica publicações cujas ligações pertencem ao domínio da entidade oficial, não valida o conteúdo. Projeto independente, sem afiliação com federações, clubes ou ligas.
+É um agregador independente. Notícias podem não aparecer se não estiverem indexadas no Google News; não é uma API oficial de resultados e não apresenta jogos em direto. O agendamento GitHub Actions não garante execução ao minuto. O arquivo de 30 dias é aplicado ao JSON corrente, mas o histórico Git preserva versões anteriores.

@@ -1,0 +1,121 @@
+<!doctype html><html lang="pt-PT"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0c0e11"><title>Sports Intelligence Radar</title>
+<style>
+:root{color-scheme:dark;--bg:#0b0d10;--card:#14171b;--line:#2b3038;--muted:#9da4af;--text:#f1f3f5;--red:#fa4b54;--green:#54d6ad}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+a{color:inherit;text-decoration:none}a:hover{color:#fff}button,select,input{font:inherit}button,select{cursor:pointer}button,input,select{outline-offset:3px}
+.topline{height:4px;background:linear-gradient(90deg,#fa5056 0 25%,#111 25% 50%,#f2b739 50% 75%,#3c75db 75%)}
+header{border-bottom:1px solid var(--line);padding:18px 0}.wrap{max-width:1130px;margin:auto;padding:0 22px}
+.head{display:flex;justify-content:space-between;align-items:center;gap:16px}.brand{display:flex;gap:12px;align-items:center;font-weight:850;letter-spacing:.12em}.logo{display:grid;place-items:center;color:#ff5760;border:1px solid #76343c;background:#2a171d;width:37px;height:37px;border-radius:11px;font-size:20px}.brand small{display:block;font-size:10px;color:var(--muted);letter-spacing:.22em}
+.status-top{color:var(--muted);font-size:12px}.dot{color:var(--green)}
+.hero{padding-top:42px}.eyebrow{font-size:11px;color:var(--red);letter-spacing:.22em;text-transform:uppercase;font-weight:900}
+h1{font-size:clamp(36px,6vw,64px);line-height:1.05;letter-spacing:-.055em;margin:15px 0 18px}h1 span{color:#737985}
+.lead{color:var(--muted);max-width:690px;font-size:16px;margin:0}
+.details{font-size:12px;color:var(--muted);margin:18px 0 43px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.stat{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:17px 19px;min-height:91px}.stat span{font-size:12px;color:var(--muted)}.stat b{display:block;font-size:24px;margin-top:6px}.stat:last-child b{font-size:15px}
+.tabs{display:flex;gap:7px;margin:28px 0;border-bottom:1px solid var(--line);padding-bottom:12px;flex-wrap:wrap}.tab,.chip,.toggle{background:transparent;color:#aab0ba;border:1px solid transparent;border-radius:9px;padding:9px 13px;font-weight:700}
+.tab.active,.chip.active,.toggle.active{color:#fff;background:#292d33;border-color:#424851}.tab:hover,.chip:hover,.toggle:hover{background:#1c2026}
+.sectionhead{display:flex;align-items:center;justify-content:space-between;gap:14px}.sectionhead h2{font-size:24px;letter-spacing:-.035em;margin:0}.sectionhead p{color:var(--muted);margin:3px 0 18px}.pill{border:1px solid var(--line);border-radius:99px;padding:6px 12px;color:var(--muted);white-space:nowrap;font-size:12px}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 15px}.chip{background:var(--card);border-color:var(--line);padding:8px 11px;font-size:12px}.chip.active{border-color:#81434b}.chip span{font-weight:400;color:var(--muted)}
+.controls{display:flex;flex-wrap:wrap;gap:9px;margin:14px 0 20px}.controls input{flex:1 1 260px;background:var(--card);border:1px solid var(--line);color:var(--text);padding:12px;border-radius:9px;min-width:0}.controls select,.toggle{background:var(--card);border:1px solid var(--line);color:#d0d4dc;padding:10px;border-radius:9px}.toggle{font-size:12px}
+.news{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}.article{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;position:relative;min-height:165px}.article:hover{border-color:#505761}.meta{font-size:11px;color:var(--muted);display:flex;align-items:center;gap:10px;flex-wrap:wrap}.meta .category{color:#ff727c;font-weight:700}.article h3{font-size:17px;letter-spacing:-.02em;line-height:1.35;margin:10px 0 9px;padding-right:20px}.article p{font-size:12px;color:var(--muted);margin:0 0 12px}.origin{color:#b2bdcb;font-size:12px}.fav{position:absolute;right:15px;top:14px;color:#9098a4;background:none;border:0;font-size:19px}.fav.on{color:#ffcb62}
+.empty{border:1px dashed #303640;border-radius:13px;min-height:210px;display:flex;align-items:center;justify-content:center;text-align:center;flex-direction:column;color:var(--muted);padding:25px}.empty .symbol{font-size:30px}.empty h3{font-size:19px;color:#eff1f4;margin:7px 0 0}.empty p{font-size:12px}
+.sources{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.source{border:1px solid var(--line);border-radius:10px;padding:15px;background:var(--card);display:flex;justify-content:space-between;gap:10px}.source small{display:block;color:var(--muted)}.ok{color:var(--green)}.bad{color:#f47d7d}
+.more{display:block;margin:21px auto;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 20px;color:white}
+footer{border-top:1px solid var(--line);margin-top:60px;color:var(--muted);font-size:11px;padding:25px 0}.footer{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+[hidden]{display:none!important}@media(max-width:720px){.stats{grid-template-columns:repeat(2,1fr)}.news,.sources{grid-template-columns:1fr}.hero{padding-top:28px}.details{margin-bottom:28px}.head .status-top{font-size:10px}.stat{min-height:83px}}
+</style></head><body><div class="topline"></div><header><div class="wrap head"><div class="brand"><span class="logo">S</span><div>SPORTS INTELLIGENCE<small>NEWS RADAR · EDITION 01</small></div></div><div class="status-top"><span class="dot">●</span> <span id="topStatus">Por iniciar</span></div></div></header>
+<main class="wrap">
+<section class="hero"><div class="eyebrow">O TEU OBSERVATÓRIO DESPORTIVO</div><h1>O jogo não pára.<br><span>A informação também não.</span></h1><p class="lead">Manchester United, futebol português e dinamarquês, andebol em Portugal e na Dinamarca, EHF e IHF. Notícias reunidas num só sítio.</p><div class="details">Atualização horária programada · Arquivo de 30 dias · Sem subscrições pagas</div></section>
+<div class="stats"><div class="stat"><span>Últimas 24 horas</span><b id="statDay">0</b></div><div class="stat"><span>Arquivo · 30 dias</span><b id="statAll">0</b></div><div class="stat"><span>Fontes a responder</span><b id="statSources">—</b></div><div class="stat"><span>Última recolha</span><b id="statTime">Por iniciar</b></div></div>
+<nav class="tabs" aria-label="Modalidades"><button class="tab active" data-mode="futebol">⚽ Futebol</button><button class="tab" data-mode="andebol">🤾 Andebol</button><button class="tab" data-mode="arquivo">▣ Arquivo</button><button class="tab" data-mode="fontes">◎ Fontes</button></nav>
+<div class="sectionhead"><div><h2 id="sectionTitle">Futebol</h2><p id="sectionDesc">Manchester United, Liga Portugal e 3F Superliga.</p></div><div class="pill" id="results">0 notícias</div></div>
+<div class="chips" id="chips"></div>
+<div class="controls" id="controls"><input id="search" type="search" placeholder="Pesquisar equipas, notícias, jogadores…" aria-label="Pesquisar"><select id="period" aria-label="Período"><option value="24">Últimas 24 horas</option><option value="168" selected>Últimos 7 dias</option><option value="336">Últimos 14 dias</option><option value="720">Últimos 30 dias</option></select><button id="official" class="toggle">Fontes oficiais</button><button id="favorites" class="toggle">★ Guardadas</button><button id="original" class="toggle">Idioma original</button></div>
+<div id="feed" class="news"></div><button class="more" id="more" hidden>Mostrar mais notícias</button><div id="sourcePanel" class="sources" hidden></div>
+</main><footer><div class="wrap footer"><div><strong>SPORTS INTELLIGENCE RADAR</strong><div>Projeto independente. Notícias e direitos pertencem aos publicadores.</div></div><div>Metadados RSS públicos · <a href="data/news.json">JSON público ↗</a></div></div></footer>
+<script>
+"use strict";
+const NODES={news:document.getElementById("feed"),chips:document.getElementById("chips"),sources:document.getElementById("sourcePanel")};
+const SECTIONS=[
+["manchester-united","futebol","🔴 Manchester United"],
+["primeira-liga","futebol","🇵🇹 Primeira Liga"],
+["superliga-dinamarquesa","futebol","🇩🇰 Superliga"],
+["campeonato-portugues","andebol","🇵🇹 Campeonato português"],
+["selecao-portuguesa","andebol","🇵🇹 Seleção portuguesa"],
+["campeonato-dinamarques","andebol","🇩🇰 Campeonato dinamarquês"],
+["ehf","andebol","🏆 EHF"],
+["ihf","andebol","🌍 IHF"]];
+const s={mode:"futebol",section:"all",hours:168,query:"",official:false,favs:false,original:false,limit:30,news:[],health:{},saved:new Set()};
+try{s.saved=new Set(JSON.parse(localStorage.getItem("sportsSaved")||"[]"))}catch{}
+const $=id=>document.getElementById(id);
+function stamp(v){if(!v)return"Por iniciar";let d=new Date(v);return isNaN(d)?"Por iniciar":d.toLocaleString("pt-PT",{day:"2-digit",month:"short",hour:"2-digit",minute:"2-digit"})}
+function dateMs(v){return new Date(v).getTime()||0}
+function label(k){return (SECTIONS.find(x=>x[0]===k)||[])[2]||"Desporto"}
+function filtered(){
+ let n=Date.now(),q=s.query.trim().toLocaleLowerCase("pt-PT");
+ return s.news.filter(a=>(s.mode==="arquivo"||a.sport===s.mode)&&
+ (s.section==="all"||a.section===s.section)&&n-dateMs(a.published_at)<=s.hours*3600000 &&
+ (!s.official||a.official)&&(!s.favs||s.saved.has(a.id))&&
+ (!q||[a.title,a.translated_title,a.publisher,a.summary].join(" ").toLocaleLowerCase("pt-PT").includes(q))).
+ sort((a,b)=>dateMs(b.published_at)-dateMs(a.published_at));
+}
+function el(t,cls,content){const a=document.createElement(t);if(cls)a.className=cls;if(content!==undefined)a.textContent=content;return a}
+function button(text,cls,action){const b=el("button",cls,text);b.type="button";b.addEventListener("click",action);return b}
+function display(){
+ const captions={futebol:["Futebol","Manchester United, Liga Portugal e 3F Superliga."],andebol:["Andebol","Portugal, Dinamarca, EHF e IHF."],arquivo:["Arquivo","Todas as notícias recolhidas nos últimos 30 dias."],fontes:["Fontes","Estado real de cada consulta RSS após a última recolha."]};
+ $("sectionTitle").textContent=captions[s.mode][0];$("sectionDesc").textContent=captions[s.mode][1];
+ $("controls").hidden=s.mode==="fontes";NODES.news.hidden=s.mode==="fontes";NODES.sources.hidden=s.mode!=="fontes";
+ for(const b of document.querySelectorAll(".tab"))b.classList.toggle("active",b.dataset.mode===s.mode);
+ const now=Date.now();$("statDay").textContent=s.news.filter(a=>now-dateMs(a.published_at)<86400000).length;
+ $("statAll").textContent=s.news.length;
+ const f=s.health.sources||[];$("statSources").textContent=f.length?f.filter(x=>x.ok).length+"/"+f.length:"—";
+ $("statTime").textContent=stamp(s.health.last_run);$("topStatus").textContent=s.health.last_run?"Recolhido "+stamp(s.health.last_run):"Sem recolha";
+ NODES.chips.replaceChildren();
+ if(s.mode!=="fontes"){
+ const groups=SECTIONS.filter(x=>s.mode==="arquivo"||x[1]===s.mode);
+ NODES.chips.append(button("◉ Todas","chip"+(s.section==="all"?" active":""),()=>{s.section="all";s.limit=30;display()}));
+ for(const x of groups){const b=button(x[2]+"  "+s.news.filter(a=>a.section===x[0]).length,"chip"+(s.section===x[0]?" active":""),()=>{s.section=x[0];s.limit=30;display()});NODES.chips.append(b)}
+ }
+ for(const [id,active] of [["official",s.official],["favorites",s.favs],["original",s.original]])$(id).classList.toggle("active",active);
+ if(s.mode==="fontes"){
+ $("results").textContent=f.length+" consultas";NODES.sources.replaceChildren();
+ if(!f.length){NODES.sources.append(el("div","empty","Sem diagnóstico. O primeiro workflow ainda não terminou."));return}
+ for(const a of f){const card=el("div","source");let left=el("div");left.append(el("strong","",a.name),el("small","",label(a.section)+" · "+a.count+" resultados"));if(a.error)left.append(el("small","",a.error));card.append(left,el("span",a.ok?"ok":"bad",a.ok?"● OK":"● Erro"));NODES.sources.append(card)}
+ return;
+ }
+ const rows=filtered();$("results").textContent=rows.length+" notícias";
+ NODES.news.replaceChildren();
+ if(!rows.length){let empty=el("div","empty");empty.style.gridColumn="1/-1";empty.append(el("div","symbol","◌"),el("h3","",!s.health.last_run?"A recolha ainda não começou":"Sem notícias para estes filtros"),el("p","",!s.health.last_run?"Executa o workflow no GitHub Actions para obter dados reais.":"Experimenta outra competição, pesquisa ou período."));NODES.news.append(empty)}
+ for(const a of rows.slice(0,s.limit)){
+ const card=el("article","article"),meta=el("div","meta");
+ meta.append(el("span","category",label(a.section)),el("span","",a.publisher),el("span","",stamp(a.published_at)));
+ const star=button(s.saved.has(a.id)?"★":"☆","fav"+(s.saved.has(a.id)?" on":""),()=>{
+ if(s.saved.has(a.id))s.saved.delete(a.id);else s.saved.add(a.id);
+ try{localStorage.setItem("sportsSaved",JSON.stringify([...s.saved]))}catch{}display()});
+ star.title="Guardar nos favoritos";
+ const title=el("h3","",s.original||!a.translated_title?a.title:a.translated_title);
+ const articleLink=el("a","");articleLink.href=a.url;articleLink.target="_blank";articleLink.rel="noopener noreferrer";articleLink.append(title);
+ card.append(meta,star,articleLink);
+ if(a.summary)card.append(el("p","",a.summary.length>220?a.summary.slice(0,220)+"…":a.summary));
+ card.append(el("div","origin",(a.official?"● Fonte oficial · ":"")+"Abrir notícia ↗"));
+ NODES.news.append(card)
+ }
+ $("more").hidden=rows.length<=s.limit;
+}
+for(const b of document.querySelectorAll("[data-mode]"))b.addEventListener("click",()=>{
+ s.mode=b.dataset.mode;s.section="all";s.limit=30;if(s.mode==="arquivo"){$("period").value="720";s.hours=720}else if(s.hours===720){$("period").value="168";s.hours=168}display()
+});
+$("search").addEventListener("input",e=>{s.query=e.target.value;s.limit=30;display()});
+$("period").addEventListener("change",e=>{s.hours=Number(e.target.value);display()});
+for(const [id,key] of [["official","official"],["favorites","favs"],["original","original"]])$(id).addEventListener("click",()=>{s[key]=!s[key];display()});
+$("more").addEventListener("click",()=>{s.limit+=30;display()});
+async function init(){
+ try{
+ const version=Date.now();const [a,b]=await Promise.all([fetch("data/news.json?v="+version,{cache:"no-store"}),fetch("data/status.json?v="+version,{cache:"no-store"})]);
+ if(!a.ok||!b.ok)throw Error("Dados indisponíveis");
+ const data=await a.json();s.news=Array.isArray(data)?data:[];s.health=await b.json()
+ }catch(e){console.warn("Sem dados disponíveis:",e)}
+ display()
+}
+init();
+</script></body></html>
