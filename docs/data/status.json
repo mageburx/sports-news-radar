@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-08T16:29:41+00:00",
+  "last_run": "2026-11-08T16:31:53+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -195,27 +195,41 @@
       "id": "tophaandbold-web",
       "name": "Tophåndbold · notícias oficiais",
       "section": "campeonato-dinamarques",
-      "ok": false,
-      "count": 0,
-      "error": "ValueError: No dated official news cards found; HTML may have changed"
+      "ok": true,
+      "count": 10,
+      "raw_count": 12,
+      "excluded": 2
     }
   ],
   "sources_total": 22,
-  "sources_ok": 21,
-  "articles_total": 394,
-  "added": 11,
+  "sources_ok": 22,
+  "articles_total": 404,
+  "added": 10,
   "translation_budget": {
     "date": "2026-11-08",
-    "characters": 2342
+    "characters": 2952
   },
   "nordic_filter": {
     "removed_from_archive": 0,
-    "excluded_on_fetch": 0,
-    "reasons": {},
-    "samples": []
+    "excluded_on_fetch": 2,
+    "reasons": {
+      "outra_competicao": 2
+    },
+    "samples": [
+      {
+        "id": "5d876ab36ace0694818d",
+        "reason": "outra_competicao",
+        "title": "Optakt til VM: drilske Spanien venter i EHF Euro Cup Betoro Herreligaen 3. nov. 2026"
+      },
+      {
+        "id": "4ce93162011787d399c4",
+        "reason": "outra_competicao",
+        "title": "Golden League: Verdensstjernerne kommer til Odense – få et overblik her Bambuni Kvindeligaen 21. okt. 2026"
+      }
+    ]
   },
   "translations_this_run": 8,
   "translations_failed_this_run": 0,
-  "danish_english_translated": 8,
-  "danish_english_pending": 0
+  "danish_english_translated": 16,
+  "danish_english_pending": 2
 }
