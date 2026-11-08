@@ -54,4 +54,54 @@ class Tests(unittest.TestCase):
   self.assertEqual(status["danish_english_pending"],1)
  def test_merge(self):
   self.assertEqual(len(merge([],[],datetime.now(timezone.utc))),0)
+
+class DanishQualityTests(unittest.TestCase):
+ def article(self,title,section="campeonato-dinamarques",publisher="Dansk sport",publisher_url="https://sport.tv2.dk"):
+  return {"id":"test","title":title,"section":section,
+          "publisher":publisher,"publisher_url":publisher_url}
+ def test_norway_domains(self):
+  from sports_radar.quality import nordic_rejection
+  a=self.article("Betoro Herreligaen",publisher="TV 2 Play",publisher_url="https://play.tv2.no")
+  self.assertEqual(nordic_rejection(a),"origem_norueguesa")
+ def test_norwegian_language(self):
+  from sports_radar.quality import nordic_rejection
+  self.assertEqual(nordic_rejection(self.article("Håndball kvinner: Odense - Aalborg")),"origem_norueguesa")
+ def test_norwegian_publishers(self):
+  from sports_radar.quality import nordic_rejection
+  self.assertEqual(nordic_rejection(self.article("Aalborg håndbold","campeonato-dinamarques","Nettavisen")),"origem_norueguesa")
+ def test_ambiguous_tv2(self):
+  from sports_radar.quality import nordic_rejection
+  self.assertEqual(nordic_rejection(self.article("Herreligaen",publisher="TV 2 Play",publisher_url="")),"origem_indeterminada")
+ def test_external_tournaments(self):
+  from sports_radar.quality import nordic_rejection
+  self.assertEqual(nordic_rejection(self.article("EHF Champions League: Aalborg - Celje")),"outra_competicao")
+  self.assertEqual(nordic_rejection(self.article("UEFA Conference League: FC København - Chelsea","superliga-dinamarquesa")),"outra_competicao")
+ def test_unrelated_international_football(self):
+  from sports_radar.quality import nordic_rejection
+  self.assertEqual(nordic_rejection(self.article("UEFA har modkandidat til Infantino på vej","superliga-dinamarquesa")),"outra_competicao")
+ def test_danish_league_headline(self):
+  from sports_radar.quality import nordic_rejection
+  self.assertIsNone(nordic_rejection(self.article("Rundens Hold #12, Betoro Herreligaen")))
+  self.assertIsNone(nordic_rejection(self.article("Preview: Randers FC - FC Nordsjælland","superliga-dinamarquesa")))
+ def test_danish_club_news(self):
+  from sports_radar.quality import nordic_rejection
+  self.assertIsNone(nordic_rejection(self.article("GOG slår Aalborg i topkampen")))
+  self.assertIsNone(nordic_rejection(self.article("Odense Håndbold forlænger kontrakten")))
+ def test_no_false_football_from_city(self):
+  from sports_radar.quality import nordic_rejection
+  self.assertEqual(nordic_rejection(self.article("Odense restaurant festival åbner i morgen","superliga-dinamarquesa")),"sem_ligacao_a_liga")
+ def test_other_sections_unchanged(self):
+  from sports_radar.quality import nordic_rejection
+  self.assertIsNone(nordic_rejection(self.article("EHF Champions League","ehf")))
+ def test_existing_noise_samples(self):
+  from sports_radar.quality import nordic_rejection
+  self.assertIsNotNone(nordic_rejection(self.article("Kaptein Torbjørn: - Enormt stort. Virkelig en ære",publisher="Norges Håndballforbund | handball.no")))
+  self.assertIsNotNone(nordic_rejection(self.article("Sønderjyske Fodbold - FC København live resultat, H2H og lagoppstilling","superliga-dinamarquesa",publisher="Sofascore")))
+ def test_feed_parse_publisher_domain(self):
+  from sports_radar.quality import publisher_hostname
+  from sports_radar.collector import feed_parse
+  xml=b'<rss><channel><item><title>Betoro Herreligaen: GOG vandt</title><link>https://news.google.com/rss/articles/x</link><source url="https://tophaandbold.dk">Tophaandbold</source></item></channel></rss>'
+  a=feed_parse(xml,SRC,datetime.now(timezone.utc))
+  self.assertEqual(publisher_hostname(a[0]),"tophaandbold.dk")
+
 if __name__=="__main__":unittest.main()

@@ -8,6 +8,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 import requests
 from .core import utcnow,iso,date,clean,canonical,identifier,merge,news_url
+from .quality import filter_nordic
 
 ROOT=Path(__file__).resolve().parents[1]
 SOURCES=ROOT/"config"/"sources.json"
@@ -60,12 +61,14 @@ def feed_parse(payload,source,now=None):
         desc=clean(entry_text(e,"description","summary"))[:450]
         if desc.casefold()==orig.casefold(): desc=""
         domain=source.get("official_domain","")
+        publisher_url=p.get("url","") if p is not None else ""
         src_host=urlsplit(p.get("url","")).hostname if p is not None else ""
         official=bool(domain and src_host and (src_host==domain or src_host.endswith("."+domain)))
         result.append({
            "id":identifier(source["section"],pub,title,link),"sport":source["sport"],
            "section":source["section"],"title":title[:300],"summary":desc,
-           "publisher":pub[:120],"source":source["name"],"source_id":source["id"],
+           "publisher":pub[:120],"publisher_url":publisher_url,
+           "source":source["name"],"source_id":source["id"],
            "url":link,"published_at":iso(published),"first_seen_at":iso(now),
            "official":official,"language":source["language"],"translated_title":"",
            "translation_status":"original","last_translation_attempt_at":""
@@ -202,15 +205,19 @@ def main():
         if old_article.get("translated_summary"):
             old_article["translated_summary"]=clean(old_article["translated_summary"])
     old=read(STATUS,{})
+    past,discarded_archive=filter_nordic(past)
     known={a["id"] for a in past if a.get("id")}
-    fresh=[]; health=[]; failures=0
+    fresh=[]; health=[]; failures=0; discarded_feeds=[]
+
     with requests.Session() as s:
         for source in sources:
             report={"id":source["id"],"name":source["name"],"section":source["section"],"ok":False,"count":0}
             try:
-                new=collect(s,source,now)
-                fresh.extend(new)
-                report.update(ok=True,count=len(new))
+                raw=collect(s,source,now)
+                accepted,excluded=filter_nordic(raw)
+                fresh.extend(accepted)
+                discarded_feeds.extend(excluded)
+                report.update(ok=True,count=len(accepted),raw_count=len(raw),excluded=len(excluded))
             except Exception as e:
                 failures+=1
                 report["error"]=type(e).__name__+": "+str(e)[:140]
@@ -221,6 +228,14 @@ def main():
            "sources_total":len(sources),"sources_ok":len(sources)-failures,
            "articles_total":len(articles),"added":sum(a["id"] not in known for a in articles),
            "translation_budget":old.get("translation_budget",{})}
+        from collections import Counter
+        reasons=Counter(x["reason"] for x in discarded_archive+discarded_feeds)
+        status["nordic_filter"]={
+            "removed_from_archive":len(discarded_archive),
+            "excluded_on_fetch":len(discarded_feeds),
+            "reasons":dict(reasons),
+            "samples":(discarded_archive+discarded_feeds)[:12],
+        }
         translate_budget(s,articles,status,now)
     save(NEWS,articles)
     save(STATUS,status)

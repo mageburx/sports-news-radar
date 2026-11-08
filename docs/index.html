@@ -80,7 +80,7 @@ function display(){
  if(s.mode==="fontes"){
  $("results").textContent=f.length+" consultas";NODES.sources.replaceChildren();
  if(!f.length){NODES.sources.append(el("div","empty","Sem diagnóstico. O primeiro workflow ainda não terminou."));return}
- for(const a of f){const card=el("div","source");let left=el("div");left.append(el("strong","",a.name),el("small","",label(a.section)+" · "+a.count+" resultados"));if(a.error)left.append(el("small","",a.error));card.append(left,el("span",a.ok?"ok":"bad",a.ok?"● OK":"● Erro"));NODES.sources.append(card)}
+ for(const a of f){const card=el("div","source");let left=el("div");left.append(el("strong","",a.name),el("small","",label(a.section)+" · "+a.count+" relevantes"+(a.excluded?" · "+a.excluded+" excluídas":"")));if(a.error)left.append(el("small","",a.error));card.append(left,el("span",a.ok?"ok":"bad",a.ok?"● OK":"● Erro"));NODES.sources.append(card)}
  return;
  }
  const rows=filtered();$("results").textContent=rows.length+" notícias";
