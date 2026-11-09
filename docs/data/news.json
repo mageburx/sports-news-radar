@@ -524,9 +524,11 @@
     "first_seen_at": "2026-11-08T21:56:54+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Carrick explica a mudança de Maguire",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T03:10:40+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "1e9f85f04c2ad1f2eb9d",
@@ -581,6 +583,27 @@
     "first_seen_at": "2026-11-09T01:37:56+00:00",
     "official": false,
     "language": "en",
+    "translated_title": "Sporting CP - FC Barcelona Live - Liga dos Campeões ehf Masculina: Resultados e Destaques no Andebol - 12/03/2026",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T03:10:40+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
+    "id": "a8fe8c75fda0307bb7a9",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "Dragão 100% vitorioso",
+    "summary": "Dragão 100% vitorioso Liga Portugal",
+    "publisher": "Liga Portugal",
+    "publisher_url": "https://www.ligaportugal.pt",
+    "source": "Liga Portugal · oficial",
+    "source_id": "liga-oficial",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52R1RicVZrcnR0MzJDMERWZUpQRmE0U1Q3MmRXV3VvakU3ZEFEUnlFVnFJbGNHS0dvYU5GVjhONzlremZBN21lR0pJWnlqbTRDRE9yeDlxNmNkZC1qdHA0LUNvOFVqejZiS19FNThPdjBaR0ZO?oc=5",
+    "published_at": "2026-11-08T20:08:26+00:00",
+    "first_seen_at": "2026-11-09T03:10:40+00:00",
+    "official": true,
+    "language": "pt",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
@@ -600,9 +623,11 @@
     "first_seen_at": "2026-11-08T20:58:00+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Destaques da Premier League: Manchester United 4-4 Aston Villa",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T03:10:40+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "221ef7743f5a3d46b301",
@@ -619,9 +644,11 @@
     "first_seen_at": "2026-11-08T21:56:54+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Uganda ganha o Troféu das Nações da IHF Feminina – Zona V da África de forma dramática",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T03:10:40+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "4e0769da622329cefbdb",
@@ -657,9 +684,11 @@
     "first_seen_at": "2026-11-08T20:00:37+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Michael Carrick: O técnico do Manchester United 'espera' continuar, apesar de o clube estar na zona de rebaixamento após o empate do Aston Villa",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T03:10:40+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "5f1c3396c66ef5f8718f",
@@ -695,9 +724,11 @@
     "first_seen_at": "2026-11-08T20:58:00+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Matheus Cunha diz que elenco do Manchester United ‘precisa olhar para si mesmo’ com clube em zona de queda",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T03:10:40+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "4896a32552468a22153e",
@@ -752,9 +783,11 @@
     "first_seen_at": "2026-11-08T21:56:54+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United 4-4 Aston Villa: entrevista pós-jogo de Unai Emery",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T03:10:40+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "63d61e4187a38dbb1d06",
@@ -866,9 +899,11 @@
     "first_seen_at": "2026-11-08T20:00:37+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United 4-4 Aston Villa: entrevista pós-jogo de Michael Carrick",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T03:10:40+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "a7d490f035b8af486d4c",
@@ -909,6 +944,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "fdbbb41b2e4c71a40e5a",
+    "sport": "andebol",
+    "section": "ehf",
+    "title": "A fierce fight is enough for the first point - there is still a long way to go until the EHF Euro",
+    "summary": "A fierce fight is enough for the first point - there is still a long way to go until the EHF Euro vijesti.me",
+    "publisher": "vijesti.me",
+    "publisher_url": "https://en.vijesti.me",
+    "source": "EHF · imprensa",
+    "source_id": "ehf-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMVZKYjRWc2xQWTYzUnBtdnZrenNaVUFJZzc5UGJWcHNPckZINU1RbHZhVThXbVVKVUtaWFB1dFFjYmZESGRFa0IwN2swQm9TZWQtaExxYW1Rb1hPOXZpT0V6UnRKWUI0aFFrSGVwal9MRm1TbDZ0UW1oSFhzNnhENTFobFZQLXpZb3hYUDFHQU1Jd1FPWHNiYWJrN2lrMnNUSW1Vd3pTTE1zVEc0LVAzZURsRUNlVWdRVkRXc053TWJuNFdnMmUycUJqMFZFNmxleGfSAb8BQVVfeXFMTkl6ZThGSnphX2lqSjdLbnBocVIyTy1MQWVrQnpQU3NKZlVaMVU3V2NQUGpZcXRwUUtNMHM4RGFXZHM3elc4LTFkNk1CNTRNSUJNSlhFVHhFbXVnTUp1ak1WTGJZbWhURjVQcUJCWkJsNmVIZmNMbmlxaWR5VDZKYmd1cEJfbTNIeFNEUjlsZlE5cTNCUmdSN082Q3ZWaGR0VFRNaVBHUmtxN3FEeDdZSXZubmxiVFYzUllLc0Z3dmM?oc=5",
+    "published_at": "2026-11-08T19:01:37+00:00",
+    "first_seen_at": "2026-11-09T03:10:40+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "daa6ec2abae853bd56f7",
     "sport": "andebol",
     "section": "selecao-portuguesa",
@@ -923,6 +977,25 @@
     "first_seen_at": "2026-11-08T22:56:34+00:00",
     "official": false,
     "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "fab73d9ad167aca444d0",
+    "sport": "andebol",
+    "section": "ehf",
+    "title": "Molde and Bera Bera edge out rivals in round 3 openers",
+    "summary": "Molde and Bera Bera edge out rivals in round 3 openers EHF Handball",
+    "publisher": "EHF Handball",
+    "publisher_url": "https://www.eurohandball.com",
+    "source": "EHF · oficial",
+    "source_id": "ehf-oficial",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSURsVnhBNHg0aS1nb2tPSktodVVjd1lGVC12ZmQtS2NfTUowUEt2ZnhiMThDS0ExdHJ3aUI0U0ktNVJ3cGxjWGUwN3g2WTZsTUlzSWJ3VFRuanpSdnVvaTNiMjhUTEFqNHVfSFBBYmpBVWZTMkN0ZnUxZi1hNUNGQm5keE1lbEc1bEFXZzhZdGJIb2RJcFg4YUR6UQ?oc=5",
+    "published_at": "2026-11-08T19:00:00+00:00",
+    "first_seen_at": "2026-11-09T03:10:40+00:00",
+    "official": true,
+    "language": "en",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
@@ -2886,6 +2959,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "16465d478333f9306b44",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "'Bruno's as good as ever' - Carrick backs Man Utd captain",
+    "summary": "'Bruno's as good as ever' - Carrick backs Man Utd captain BBC",
+    "publisher": "BBC",
+    "publisher_url": "https://www.bbc.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12N1RuREpnb2thVEc3bS03aDVMRVQ3Q0l6WEtEckVZVEdhWFl3WW5LSjdFU204eUlrNFFNSjRqZVlaREF1aUNWVW5aRVJCWFBpb1ZJT2hzei1DaGxqOVB0U0dXSDZfZTh2?oc=5",
+    "published_at": "2026-11-07T22:44:20+00:00",
+    "first_seen_at": "2026-11-09T03:10:40+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "1cbf7308d9ccfe7ed036",
     "sport": "futebol",
     "section": "primeira-liga",
@@ -3444,6 +3536,25 @@
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNGxMTS1YUHVrWGxVeWJYRFF2X1JKZlljMm00OFJjUnExOWgycm9Ya2FvdU4yX0pkQUd4cTkxbFBDOWI3R01iVFpZUkNrZHhQcHppNFdkd3Y0WVBhNEJLaFoxaWkxaFEtVElYTmZNSjhTa2o2MUk5V3oxRy1kMzllRVVxdVctdzMzWk1aZUJ3cjRmSG5Dd1VtMEVFOFFFbjE0WWpkd3V5dmFrNE02YWRHZnJ5dGNxT0RlN1NTUjI4ZFExMDJEamlPLTJhaERTbHNtNnc?oc=5",
     "published_at": "2026-11-07T16:30:00+00:00",
     "first_seen_at": "2026-11-09T01:37:56+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "e097907dae3481f66ffd",
+    "sport": "andebol",
+    "section": "campeonato-portugues",
+    "title": "HC Braga :: O título volta a estar em jogo e há um clássico para abrir: eis o Campeonato Placard",
+    "summary": "HC Braga :: O título volta a estar em jogo e há um clássico para abrir: eis o Campeonato Placard zerozero.pt",
+    "publisher": "zerozero.pt",
+    "publisher_url": "https://www.zerozero.pt",
+    "source": "Andebol português · imprensa",
+    "source_id": "andebol-pt-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeFcxNjhMZk9SdjNRRkdvX1c0aTZPQTU5dzk2d1BmaURFWVVQekdHWVZ6YWxLZkxKUzd5WVN4ek02SlNqUXF6QUQ4bEVKcHhLVHVuQU9lRklaX2Zab081TVoyZW4zMEVqVDJycGxEd0daQS1oZnJaelhncWROWDRuTkI2RDZ0Y1o4ZUpSRmhPajFNZzlrR0JzWFQ0QzdweG1FS3lNaWJkWVJOTzBKZ0pXMDNRalh1Q3VzTEFvbVR2bTJvbFFnTjY2MUlVZWJzS3dO?oc=5",
+    "published_at": "2026-11-07T16:30:00+00:00",
+    "first_seen_at": "2026-11-09T03:10:40+00:00",
     "official": false,
     "language": "pt",
     "translated_title": "",
@@ -9663,6 +9774,25 @@
     "first_seen_at": "2026-11-08T15:29:16+00:00",
     "official": true,
     "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "2e16f524c27717eca8e1",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "Pedro Lima volta a resolver pelo leão",
+    "summary": "Pedro Lima volta a resolver pelo leão Liga Portugal",
+    "publisher": "Liga Portugal",
+    "publisher_url": "https://www.ligaportugal.pt",
+    "source": "Liga Portugal · oficial",
+    "source_id": "liga-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPak5neDdRNWczaUlkTWdwalNjRzdVUk1mR3hzXzE0TU94cnE4Z3VNLVlmdVRvZTZILThzbFRGVEVxWUQ2VWs1YnZZdnZKbmJHeGhteUdTZ05RMV84c2Zzd3FaNjZkWGp6dnpzcjZfZVRMcUVVRVNHaDlTNDVBampWd3FR?oc=5",
+    "published_at": "2026-10-31T14:32:35+00:00",
+    "first_seen_at": "2026-11-09T03:10:40+00:00",
+    "official": true,
+    "language": "pt",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
