@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-09T15:17:14+00:00",
+  "last_run": "2026-11-09T16:26:23+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -34,8 +34,8 @@
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
       "ok": true,
-      "count": 51,
-      "raw_count": 51,
+      "count": 52,
+      "raw_count": 52,
       "excluded": 0
     },
     {
@@ -43,8 +43,8 @@
       "name": "Primeira Liga · imprensa",
       "section": "primeira-liga",
       "ok": true,
-      "count": 25,
-      "raw_count": 25,
+      "count": 23,
+      "raw_count": 23,
       "excluded": 0
     },
     {
@@ -70,8 +70,8 @@
       "name": "FPA · competições",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 11,
-      "raw_count": 11,
+      "count": 12,
+      "raw_count": 12,
       "excluded": 0
     },
     {
@@ -79,8 +79,8 @@
       "name": "Andebol português · imprensa",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 11,
-      "raw_count": 11,
+      "count": 10,
+      "raw_count": 10,
       "excluded": 0
     },
     {
@@ -124,8 +124,8 @@
       "name": "EHF · oficial",
       "section": "ehf",
       "ok": true,
-      "count": 14,
-      "raw_count": 14,
+      "count": 15,
+      "raw_count": 15,
       "excluded": 0
     },
     {
@@ -142,8 +142,8 @@
       "name": "IHF · oficial",
       "section": "ihf",
       "ok": true,
-      "count": 26,
-      "raw_count": 26,
+      "count": 27,
+      "raw_count": 27,
       "excluded": 0
     },
     {
@@ -196,40 +196,35 @@
       "name": "Tophåndbold · notícias oficiais",
       "section": "campeonato-dinamarques",
       "ok": true,
-      "count": 10,
+      "count": 11,
       "raw_count": 12,
-      "excluded": 2
+      "excluded": 1
     }
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 609,
-  "added": 12,
+  "articles_total": 616,
+  "added": 7,
   "translation_budget": {
     "date": "2026-11-09",
     "characters": 4194
   },
   "nordic_filter": {
     "removed_from_archive": 0,
-    "excluded_on_fetch": 2,
+    "excluded_on_fetch": 1,
     "reasons": {
-      "outra_competicao": 2
+      "outra_competicao": 1
     },
     "samples": [
       {
         "id": "f10e17062ce94c787cd5",
         "reason": "outra_competicao",
         "title": "Optakt til VM: drilske Spanien venter i EHF Euro Cup"
-      },
-      {
-        "id": "5fd0d5c72551bc843314",
-        "reason": "outra_competicao",
-        "title": "Golden League: Verdensstjernerne kommer til Odense – få et overblik her"
       }
     ]
   },
   "translations_this_run": 0,
   "translations_failed_this_run": 0,
   "danish_english_translated": 19,
-  "danish_english_pending": 0
+  "danish_english_pending": 1
 }
