@@ -38,6 +38,27 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "9e593e016e2ad75820c5",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Match of the Day: Four 'huge mistakes' that show Man Utd's defensive problems",
+    "summary": "Match of the Day: Four 'huge mistakes' that show Man Utd's defensive problems BBC",
+    "publisher": "BBC",
+    "publisher_url": "https://www.bbc.co.uk",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfeHVVbURxc3IzaVVEaFZjODV2R2w2cVB5d1BUWUc2ODFUR1p5bGNON2NFcUxqSjJfNGNPZFdMZ3o5dWhlSkZDaDRKQnpYbFRFazFtWWhlQXI4WW5UOVQ0ZkdLYk5JTzQ5?oc=5",
+    "published_at": "2026-11-08T23:53:20+00:00",
+    "first_seen_at": "2026-11-09T04:25:09+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "Partida do Dia: Quatro 'grandes erros' que mostram os problemas defensivos do Man Utd",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T04:25:09+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
     "id": "dcabb7442b059b044ef0",
     "sport": "futebol",
     "section": "manchester-united",
@@ -168,6 +189,25 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qUmZYWjd1V25iZkFNUmFvd294RVRoc3ZlclFqYVp6MGVReHlmbWxPeXJ6Tm1IQXNaSFZXTnhFR1dsNFhHZVRPRFptZFZiY3V4eENJam8wWDBJZ3JubFcwSzRKRmZVRFJmY1NaLVJhSQ?oc=5",
     "published_at": "2026-11-08T23:17:48+00:00",
     "first_seen_at": "2026-11-09T01:37:56+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "c8187ce7af4dd035f735",
+    "sport": "andebol",
+    "section": "selecao-portuguesa",
+    "title": "Seleção de râguebi sub-20 'cilindra' Moldávia nos quartos de final do Europeu",
+    "summary": "Seleção de râguebi sub-20 'cilindra' Moldávia nos quartos de final do Europeu SAPO",
+    "publisher": "SAPO",
+    "publisher_url": "https://mag.sapo.pt",
+    "source": "Seleção portuguesa · imprensa",
+    "source_id": "selecao-pt-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlQ0dWtzdk52Ym9ZY19vUEJldks3MHFLdzRoSmF5Si1saVNTUG9wSnhuRlhLVnd2eXM1cndUNG9feDJ3TVFzMUpuU1ptcEpSclgzQ1M4bjliT0ZBQ1BpTXFjTnRUbFRPQ19vNVY0eDRla0Y3VW9ack5INDRnSU1iY3dRaWtGU1RCM25CcUhRZzFoeVhoeTNQUm82dHhCenZKaW83QngzRDlXQWF4aUVUYjlvZkJjcHozSHZkUU1lRzh4SkZXNkE?oc=5",
+    "published_at": "2026-11-08T22:31:00+00:00",
+    "first_seen_at": "2026-11-09T04:25:09+00:00",
     "official": false,
     "language": "pt",
     "translated_title": "",
@@ -939,9 +979,11 @@
     "first_seen_at": "2026-11-08T22:56:34+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Estatísticas do Manchester United 4-4 Aston Villa: Dorgu salva os homens de Carrick em retorno notável",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T04:25:09+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "fdbbb41b2e4c71a40e5a",
@@ -958,9 +1000,11 @@
     "first_seen_at": "2026-11-09T03:10:40+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Uma luta feroz é suficiente para o primeiro ponto - ainda há um longo caminho a percorrer até o ehf Euro",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T04:25:09+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "daa6ec2abae853bd56f7",
@@ -996,9 +1040,11 @@
     "first_seen_at": "2026-11-09T03:10:40+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Molde e Bera Bera vencem rivais na 3ª rodada",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T04:25:09+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "754b9748cb74a426bcbd",
@@ -1034,9 +1080,11 @@
     "first_seen_at": "2026-11-08T20:00:37+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Man Utd 4-4 Aston Villa: Patrick Dorgu empata aos 96 minutos quando o United vem de dois para baixo duas VEZES para ganhar um empate incrível",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T04:25:09+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "8f4255caf3df38d5d5ed",
@@ -1072,9 +1120,11 @@
     "first_seen_at": "2026-11-08T19:10:35+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Dorgu causa um impacto dramático - classificações Man Utd x Aston Villa",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T04:25:09+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "91eb2ab93bcd414a3bd3",
@@ -1148,9 +1198,11 @@
     "first_seen_at": "2026-11-08T20:58:00+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O Villa Clash faz história na Premier League",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T04:25:09+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "31cf30b6be88e1113fd0",
@@ -1167,9 +1219,11 @@
     "first_seen_at": "2026-11-08T19:10:35+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester Utd vs Aston Villa | Patrick Dorgu empata para 4-4 em Old Trafford!",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T04:25:09+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "1dceecee7c847ad784e6",
@@ -1281,6 +1335,25 @@
     "first_seen_at": "2026-11-08T20:00:37+00:00",
     "official": false,
     "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "ee4bf3d7790bad3c047c",
+    "sport": "andebol",
+    "section": "ehf",
+    "title": "Sweden break all records, 11 teams take second victory in Qualifiers",
+    "summary": "Sweden break all records, 11 teams take second victory in Qualifiers EHF Handball",
+    "publisher": "EHF Handball",
+    "publisher_url": "https://www.eurohandball.com",
+    "source": "EHF · oficial",
+    "source_id": "ehf-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEZ4alBPMUN3Y3BWbjFoOVZIZVdFOTN4X3RCMXVQMmlEOUZ4Q3pxWmFzeDZzNVpCTnZvb2F3ejdKMUVzQUw4b3E5Q25PdHRiX0RqQ2l6OXRRNm10Q3d3UDlJU0duUThzTGY2YlRmYnVDalJzTXVIaC1nS0E2MnZiREpsbWd6ZEtGeUFnalhGdkFwVU9WNlJWRUljNUtTWGVXU0J2bVphU1ZLeGk0UlFjRmhEbW5wb1NH?oc=5",
+    "published_at": "2026-11-08T17:57:00+00:00",
+    "first_seen_at": "2026-11-09T04:25:09+00:00",
+    "official": true,
+    "language": "en",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
