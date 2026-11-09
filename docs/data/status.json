@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-09T19:20:29+00:00",
+  "last_run": "2026-11-09T20:17:57+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -70,8 +70,8 @@
       "name": "FPA · competições",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 11,
-      "raw_count": 11,
+      "count": 12,
+      "raw_count": 12,
       "excluded": 0
     },
     {
@@ -79,8 +79,8 @@
       "name": "Andebol português · imprensa",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 9,
-      "raw_count": 9,
+      "count": 8,
+      "raw_count": 8,
       "excluded": 0
     },
     {
@@ -203,8 +203,8 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 632,
-  "added": 16,
+  "articles_total": 638,
+  "added": 6,
   "translation_budget": {
     "date": "2026-11-09",
     "characters": 4194
