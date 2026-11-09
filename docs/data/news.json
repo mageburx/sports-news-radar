@@ -1,5 +1,26 @@
 [
   {
+    "id": "cd7e16ef2d90695c36f8",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "One City transfer exit feels inevitable after latest Maresca decision",
+    "summary": "One City transfer exit feels inevitable after latest Maresca decision Manchester Evening News",
+    "publisher": "Manchester Evening News",
+    "publisher_url": "https://www.manchestereveningnews.co.uk",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRDA3N0xWckIzdEtnZGxKSk4xQzZoUkNWZ0lIY0p5VGstV2JUVVpnem00NzgzaUVucmdIcGxEbm5ld1RNcVRoYkY4YW50eDFhTTFzalpTZVByYlFvOEhWd084RmhhdEpVT25aZ3hXaG1QNXVwZzBuWFZTX0Z0dDl4U2J3bkxydUs4T1hrdWMyT0QwU2hFdHNtUWxRcDkyTzZ1OUNMbGpNUmQzR1Q1UmxQZkk3Yw?oc=5",
+    "published_at": "2026-11-09T05:00:00+00:00",
+    "first_seen_at": "2026-11-09T06:28:35+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "A saída de transferência de uma cidade parece inevitável após a última decisão da Maresca",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T06:28:35+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
     "id": "5ea17df91d14783e5a43",
     "sport": "futebol",
     "section": "manchester-united",
@@ -1278,9 +1299,11 @@
     "first_seen_at": "2026-11-08T19:10:35+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O Manchester United resgata o empate por 4-4 contra o Aston Villa, mas permanece na zona de rebaixamento",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T06:28:35+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "0f7a13666acc91c38d64",
@@ -1297,9 +1320,11 @@
     "first_seen_at": "2026-11-08T19:10:35+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Avaliações de jogadores do Manchester United vs Aston Villa com um 2/10, mas Dorgu bom em empate louco",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T06:28:35+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "9f4ffddbba7e00a60d5b",
@@ -1316,9 +1341,11 @@
     "first_seen_at": "2026-11-08T19:10:35+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester Utd vs Aston Villa | Joshua Zirkzee entra para diminuir a diferença",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T06:28:35+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "8eaaf4c89638be81a9c7",
@@ -1340,6 +1367,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "a950c3445400c63ced09",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "CD Nacional interrompe série histórica",
+    "summary": "CD Nacional interrompe série histórica Liga Portugal",
+    "publisher": "Liga Portugal",
+    "publisher_url": "https://www.ligaportugal.pt",
+    "source": "Liga Portugal · oficial",
+    "source_id": "liga-oficial",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaTh0ZG9CRnN1S2NqcUhjR0N3cndvNGhEVHJhNVhuVDE4RXFpQkdQekxYQWFWTjVtTURlWVVPeVdpcXdfYmFIb1FLd2tmZkYyMExEUm4yc05EakNmOGZrS1Jza1VZcnQtTU1VV2ZldGpxZXJEUncwWjBoaXR3RHl0NjRuZw?oc=5",
+    "published_at": "2026-11-08T17:57:29+00:00",
+    "first_seen_at": "2026-11-09T06:28:35+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "ee4bf3d7790bad3c047c",
     "sport": "andebol",
     "section": "ehf",
@@ -1354,9 +1400,11 @@
     "first_seen_at": "2026-11-09T04:25:09+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "A Suécia bate todos os recordes, 11 equipas conquistam a segunda vitória nas eliminatórias",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T06:28:35+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "429acab1adb7c23bcae1",
@@ -1449,9 +1497,11 @@
     "first_seen_at": "2026-11-08T19:10:35+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Dakar 2026: Prévia do Dia 1 – Jogos Olímpicos da Juventude abraçam o handebol de praia mais uma vez",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T06:28:35+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "40a76c21b86db806a466",
@@ -1508,9 +1558,11 @@
     "first_seen_at": "2026-11-08T19:10:35+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Qualificatórias masculinas ehf EURO 2028: cobertura ao vivo da segunda rodada no domingo",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T06:28:35+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "aefb2d1516d89faa8514",
@@ -1527,9 +1579,11 @@
     "first_seen_at": "2026-11-08T20:58:00+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester Utd vs Aston Villa | Nível Utd como Youri Tielemans faz com que seja dois cada",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-09T06:28:35+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "390922b31cd0b17a5deb",
@@ -5605,6 +5659,25 @@
     "first_seen_at": "2026-11-08T15:27:30+00:00",
     "official": false,
     "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "561166f147e3e87bb6e8",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Extensions triggered in United Women contracts",
+    "summary": "Extensions triggered in United Women contracts Manchester United",
+    "publisher": "Manchester United",
+    "publisher_url": "https://www.manutd.com",
+    "source": "Manchester United · oficial",
+    "source_id": "mu-oficial",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUlM3VG5jWDJOWFJFcXZkVC1QaWd4MlA5ajFFQjRMUnF0LU40SkNlMWtudmRUc2RDUl9fb2NVUm1ROFI1cGpwaU82dGNjT1NfWkdXdW4yNW5FNU1wczB2dml1RlJnUGVsR2hvZmlIU3Y2Z0pJUGhDUHNNamFLWHk4UGVQaXYwMlRrMTRKN28wZXU3ZlQ3Y1VaRG5QamRYM2dSY1htOUc4SQ?oc=5",
+    "published_at": "2026-11-06T05:13:20+00:00",
+    "first_seen_at": "2026-11-09T06:28:35+00:00",
+    "official": true,
+    "language": "en",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""

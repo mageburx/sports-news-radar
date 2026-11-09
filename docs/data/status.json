@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-09T04:25:09+00:00",
+  "last_run": "2026-11-09T06:28:35+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -79,8 +79,8 @@
       "name": "Andebol português · imprensa",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 9,
-      "raw_count": 9,
+      "count": 10,
+      "raw_count": 10,
       "excluded": 0
     },
     {
@@ -124,8 +124,8 @@
       "name": "EHF · oficial",
       "section": "ehf",
       "ok": true,
-      "count": 16,
-      "raw_count": 16,
+      "count": 15,
+      "raw_count": 15,
       "excluded": 0
     },
     {
@@ -203,11 +203,11 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 545,
+  "articles_total": 548,
   "added": 3,
   "translation_budget": {
     "date": "2026-11-09",
-    "characters": 1802
+    "characters": 2402
   },
   "nordic_filter": {
     "removed_from_archive": 0,
