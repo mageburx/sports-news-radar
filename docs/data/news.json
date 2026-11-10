@@ -1,5 +1,26 @@
 [
   {
+    "id": "88b6a5c42593a19904d0",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Manchester Utd latest: What we know about Michael Carrick's future",
+    "summary": "Manchester Utd latest: What we know about Michael Carrick's future Sky Sports",
+    "publisher": "Sky Sports",
+    "publisher_url": "https://www.skysports.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUtmQktiRG4zVWI5Mjl0VEZTUnEzd3lLUEk3eXdjd0NBT0xpejZCeVRObXdNcWs2d0drWnA2VWtNbjVfODU0UzVkQ3g3dkoyaWprczNmVDNBeVk2a2YtR1FRR1NmV0NBRjZySHRxU2JQQ3FsVE10T29nRHd2RC1aOVlTMkNBRnhmSmx5cy1fa2FPQTlhbEY0SmdaSUxaWHFjRXpUd19YZXdlWHp6dkwzWDI2QnQ?oc=5",
+    "published_at": "2026-11-10T08:30:10+00:00",
+    "first_seen_at": "2026-11-10T09:13:13+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "Manchester Utd mais recente: O que sabemos sobre o futuro de Michael Carrick",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T09:13:13+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
     "id": "81de85b5c6b74a34a7cf",
     "sport": "futebol",
     "section": "manchester-united",
@@ -38,6 +59,27 @@
     "last_translation_attempt_at": "2026-11-10T01:29:33+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "cb1967f3a801b6710e8c",
+    "sport": "futebol",
+    "section": "superliga-dinamarquesa",
+    "title": "William Clem scorede Rundens Mål i 14. spillerunde",
+    "summary": "",
+    "publisher": "3F Superliga · notícias oficiais",
+    "publisher_url": "https://www.superliga.dk/nyheder",
+    "source": "3F Superliga · notícias oficiais",
+    "source_id": "superliga-web",
+    "url": "https://www.superliga.dk/nyheder/rundens-mal/26-27/william-clem-scorede-rundens-mal-i-14-spillerunde",
+    "published_at": "2026-11-10T00:00:00+00:00",
+    "first_seen_at": "2026-11-10T09:13:13+00:00",
+    "official": true,
+    "language": "da",
+    "translated_title": "William Clem scored the Goal of the Round in the 14th Playing Round",
+    "translated_summary": "",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T09:13:13+00:00",
+    "translated_lang": "en"
   },
   {
     "id": "8eb42eb34b2c6c465104",
@@ -425,6 +467,25 @@
     "last_translation_attempt_at": "2026-11-10T03:09:42+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "36da4441e528b6e4e54e",
+    "sport": "andebol",
+    "section": "campeonato-portugues",
+    "title": "Benfica-Riba d'Ave HC: venda de bilhetes",
+    "summary": "Benfica-Riba d'Ave HC: venda de bilhetes Site Oficial do Sport Lisboa e Benfica",
+    "publisher": "Site Oficial do Sport Lisboa e Benfica",
+    "publisher_url": "https://www.slbenfica.pt",
+    "source": "Andebol português · imprensa",
+    "source_id": "andebol-pt-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNm1HYkVzeEo0Y3ExVUhycXpHNld4OUZpc2tISFpCZ3R5M0ZSXzkwRFg2YjM0b0ZKT0IzMGtLWExrcURwRTN3UHhpTFZteDdTN2RRd0pPUjF4dVhwWDZ5Z0ZsSjNPTTZHSkY4b05iTTQyVDJ2SmJaeDgwRmFlXzBmNEtLUGoydlRocXZBdndwQ012T1lVa0FCbS1STlRGb1czOEZMSllzNFNEX0lKQmMtVXg4TndUTEVzTHIzVzFWTTl0dENuVG1sZWdjdTBjRVM3WGpvTFFxUQ?oc=5",
+    "published_at": "2026-11-09T17:22:00+00:00",
+    "first_seen_at": "2026-11-10T09:13:13+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "72862022622faff8099f",
@@ -4800,9 +4861,11 @@
     "first_seen_at": "2026-11-08T19:10:35+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Relatório: Aston Villa 0 United Women 1",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T09:13:13+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "866980447fe59734b129",
@@ -4818,9 +4881,11 @@
     "first_seen_at": "2026-11-08T15:27:30+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Formação do Manchester United vs Aston Villa prevista enquanto Michael Carrick faz a chamada de Shea Lacey",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T09:13:13+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "0d638c08a4d8f368332f",
@@ -4837,9 +4902,11 @@
     "first_seen_at": "2026-11-08T21:56:54+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Carrick: Tem algum personagem naquele camarim",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T09:13:13+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "6c631e59f98be86303c8",
@@ -4930,9 +4997,11 @@
     "first_seen_at": "2026-11-08T15:27:30+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Prévia da partida: boas-vindas do Manchester United ao Villa Park",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T09:13:13+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "48f8567506d2cb592386",
@@ -4949,9 +5018,11 @@
     "first_seen_at": "2026-11-08T16:58:20+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Michael Carrick dá uma dica sobre o seu futuro no Manchester United antes do intervalo internacional",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T09:13:13+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "e400b65f9e21fc41719f",
@@ -4985,9 +5056,11 @@
     "first_seen_at": "2026-11-08T15:27:30+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Premier League: o anfitrião do Man Utd, o Villa, quer sair da zona de queda",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T09:13:13+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "befc8e3dc066ba565b86",
