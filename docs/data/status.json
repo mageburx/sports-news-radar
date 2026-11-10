@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-10T11:12:15+00:00",
+  "last_run": "2026-11-10T12:09:07+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -25,8 +25,8 @@
       "name": "Manchester United · Portugal",
       "section": "manchester-united",
       "ok": true,
-      "count": 45,
-      "raw_count": 45,
+      "count": 46,
+      "raw_count": 46,
       "excluded": 0
     },
     {
@@ -133,8 +133,8 @@
       "name": "EHF · imprensa",
       "section": "ehf",
       "ok": true,
-      "count": 12,
-      "raw_count": 12,
+      "count": 14,
+      "raw_count": 14,
       "excluded": 0
     },
     {
@@ -142,8 +142,8 @@
       "name": "IHF · oficial",
       "section": "ihf",
       "ok": true,
-      "count": 24,
-      "raw_count": 24,
+      "count": 25,
+      "raw_count": 25,
       "excluded": 0
     },
     {
@@ -203,8 +203,8 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 707,
-  "added": 5,
+  "articles_total": 714,
+  "added": 7,
   "translation_budget": {
     "date": "2026-11-10",
     "characters": 4195
