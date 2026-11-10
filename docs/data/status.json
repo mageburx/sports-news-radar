@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-10T04:16:19+00:00",
+  "last_run": "2026-11-10T05:18:16+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -34,8 +34,8 @@
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
       "ok": true,
-      "count": 43,
-      "raw_count": 43,
+      "count": 44,
+      "raw_count": 44,
       "excluded": 0
     },
     {
@@ -43,8 +43,8 @@
       "name": "Primeira Liga · imprensa",
       "section": "primeira-liga",
       "ok": true,
-      "count": 24,
-      "raw_count": 24,
+      "count": 25,
+      "raw_count": 25,
       "excluded": 0
     },
     {
@@ -203,11 +203,11 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 682,
-  "added": 4,
+  "articles_total": 683,
+  "added": 1,
   "translation_budget": {
     "date": "2026-11-10",
-    "characters": 1893
+    "characters": 2342
   },
   "nordic_filter": {
     "removed_from_archive": 0,

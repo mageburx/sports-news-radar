@@ -706,9 +706,11 @@
     "first_seen_at": "2026-11-09T22:06:23+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Guia internacional dos Reds para novembro",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T05:18:16+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "05128e324d6d3352988e",
@@ -725,9 +727,11 @@
     "first_seen_at": "2026-11-09T13:40:29+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United: Por que alguns torcedores estão vestidos de verde e dourado?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T05:18:16+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "f67300adc6e6af3c86cc",
@@ -744,9 +748,11 @@
     "first_seen_at": "2026-11-09T23:56:52+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Porque é que os adeptos do Manchester United estão a usar verde e dourado?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T05:18:16+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "61ae22e92fcd5773e47c",
@@ -782,9 +788,11 @@
     "first_seen_at": "2026-11-10T04:16:19+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Transferência da Man Utd: Agentes em Carrington fecham acordo para lateral-direito marroquino apelidado de ‘idiota’ por Vinicius Junior",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T05:18:16+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "7562eff5e877a98c02c3",
@@ -839,9 +847,11 @@
     "first_seen_at": "2026-11-09T19:20:29+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Man United recebe novo veredicto do VaR sobre gol de Patrick Dorgu enquanto Matheus Cunha é acusado",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T05:18:16+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "1a2043be084a4ffc58ee",
@@ -974,9 +984,11 @@
     "first_seen_at": "2026-11-09T23:04:36+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O impacto perfeito",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T05:18:16+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "756a15bf5b0a66f5af91",
@@ -993,9 +1005,11 @@
     "first_seen_at": "2026-11-09T15:17:14+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Nivelador de último gás",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T05:18:16+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "f80caa16eb7ce2a55baf",
@@ -1033,9 +1047,11 @@
     "first_seen_at": "2026-11-09T13:40:29+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Primeiro-ministro das Ilhas Faroé sobre a importância do handebol no país",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T05:18:16+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "6bf26c9421610dd2aa31",
@@ -4292,6 +4308,25 @@
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmlnd3lydTRLQVZmRHhkNUxscDBFX2pTV1cxaU1tUklKZ0s3RjAwWDA1c25aOTIyakJiTXVKM3BLS0xMbXZ3Rk9zOG8zenRYeVNEcW1hNF9LTko4LXF4TXp6bTdjOUVTRmZkdzk3S195TWJ2Q0l1V2kxekxwd1NxbXJ1Q1Z3dw?oc=5",
     "published_at": "2026-11-08T11:17:00+00:00",
     "first_seen_at": "2026-11-09T15:17:14+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "5524668862f79e261459",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "A reação do banco do Benfica ao golaço de Prestianni",
+    "summary": "A reação do banco do Benfica ao golaço de Prestianni Sport TV",
+    "publisher": "Sport TV",
+    "publisher_url": "https://www.sporttv.pt",
+    "source": "Primeira Liga · imprensa",
+    "source_id": "liga-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLV9haHlQUVdVVkt5RUlrT2plZHI3eXZNSjBYUEFMNlA3aTZzOHhuSFgwREppVVFRYnJQWjgycGlOVmRZRlRKMmI4ZDAybDRVeGNYYXZOWjd5WW1sSDBscjJsOC1jN3EyOUtzdjR3NHB1dW5VYURnU1ZzX0RZYmNkaFVyTkhLQkxaX2hIT3dPR2d4Mk1hNlE?oc=5",
+    "published_at": "2026-11-08T11:17:00+00:00",
+    "first_seen_at": "2026-11-10T05:18:16+00:00",
     "official": false,
     "language": "pt",
     "translated_title": "",
