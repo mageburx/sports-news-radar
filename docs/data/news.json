@@ -218,9 +218,11 @@
     "first_seen_at": "2026-11-09T22:06:23+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Dakar 2026: Dia 1, Revisão da Sessão 2 – Alemanha e Brasil homens, Uruguai e Espanha mulheres no comando",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T03:09:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "9c0f370e51e359479347",
@@ -237,9 +239,11 @@
     "first_seen_at": "2026-11-09T20:17:57+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Premier League: Seis vezes o Manchester United empatou no último minuto!",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T03:09:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "5bd75e5b3a9ffee481e1",
@@ -294,9 +298,11 @@
     "first_seen_at": "2026-11-09T19:20:29+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Futuro de Michael Carrick: o Man Utd não apressará a decisão sobre o mandato do treinador, apesar de cair na zona de rebaixamento",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T03:09:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "b76fd38ce12501c5655d",
@@ -332,9 +338,11 @@
     "first_seen_at": "2026-11-09T19:20:29+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Michael Carrick: o Manchester United ainda não tomou uma decisão sobre demitir o técnico",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T03:09:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "f8b6892444aa76024e64",
@@ -351,9 +359,11 @@
     "first_seen_at": "2026-11-09T19:20:29+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United avalia demissão de Michael Carrick enquanto Wilcox lidera revisão",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T03:09:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "72862022622faff8099f",
@@ -370,9 +380,11 @@
     "first_seen_at": "2026-11-09T19:20:29+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Football Daily | Manchester United, Aston Villa e a falta de seriedade de um empate 4-4",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T03:09:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "32cd863bb7dcbdc2786d",
@@ -427,9 +439,11 @@
     "first_seen_at": "2026-11-09T19:20:29+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Um encontro reconfortante com Robbo",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T03:09:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "daa95aff1bcb56960b19",
@@ -446,9 +460,11 @@
     "first_seen_at": "2026-11-09T22:06:23+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Michael Carrick enfrentando o machado do Manchester United em meio à análise de Jason Wilcox",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T03:09:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "85ddb0d537b9aa027e27",
@@ -584,6 +600,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "521eb7b06535bbf1f701",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Who was Man of the Match at Everton?",
+    "summary": "Who was Man of the Match at Everton? Manchester United",
+    "publisher": "Manchester United",
+    "publisher_url": "https://www.manutd.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWGlMYllRZW1aUjM4QjlHZTEzaW9lRURWeUNCTTNtM1F3dW9waEpxM3ZmNXlMUzZJNThZMnhBRHQ2ZWNWSWRZakExNUhncGQ2X19iYmlzZUdFN2NyQmZ3Q2VYMU9VVHliTmdGZXNSUHctZ0xPb2tQaUEyalNvcHc5SGtyc3l6LS1XWEM0VWl3?oc=5",
+    "published_at": "2026-11-09T14:10:31+00:00",
+    "first_seen_at": "2026-11-10T03:09:42+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "d1d704677960a395fc7f",
     "sport": "futebol",
     "section": "manchester-united",
@@ -691,6 +726,25 @@
     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZ0xXV0Z1YjZOaXgzOGNEalhjLU5xMVdOWVZwTXFyb2p3SFc2WldreTQ4cnlGTXIyWUpreFRCX2gxTG9ubFdJV2tGN3g0Q2FLZm1XeTYwOTEzWFJUc29HaDJkb3RjdFI0cGx4ZC1yWGRiZmo2NHM3X3B5Q3czT2tNNjdfNTFrMGRSSXJUOFprQWgxVUI1Zllxem9FX2pTMFRPNlJSal9LUG5LRjBpZWdEOE1xQjZQaDR3MmR5aXpJSDZoeVVBXzlLREJsdjNHR2dZMnRWa0FWN2ZxREkxbHFHMkdIOXg1R3ZfRUg5dE85RmJ3Sk4tTHBCR0JUYTY0ZC1LMS1oaNIBkwJBVV95cUxPdnlWU2p6QlAtbmtIdmhycTBrWUttOGlMQlp5Y3NOcDMxVk5laWV4Qi1neE5KeEZFRG5hdmhZUkdTSmNtYTNpNWxaOHhGQmliWmlhX1B2YVlCcVdlWHVSRlA5Tlh3YjZwMzV5UTRJWWI4QmF4d0x6N0I5Smp1ejNSV1ZDb3gwMmZ3Y19JLXBZTkg1djhxYjFFN2dGMExVaVp5bUZDVGhwWnNBX09XTjh4cUpwZ3ZsMnZoVTMxSFRpdy10YVFSMng0T2stWGN2ajVFS3VmaTRzclJyakdRWm5kWkRPeVVxVFZRUzFHbldtN3JmWnZtdnhuaUhBMlJUWWN0alo4anpWWGZTUjJ2Z0ZzT3U0cw?oc=5",
     "published_at": "2026-11-09T12:35:28+00:00",
     "first_seen_at": "2026-11-09T13:40:29+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "503071d9980d7d9053fe",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Manchester United prepara decisão sobre Carrick e favoritos à sucessão mantêm-se",
+    "summary": "Manchester United prepara decisão sobre Carrick e favoritos à sucessão mantêm-se Flashscore.pt",
+    "publisher": "Flashscore.pt",
+    "publisher_url": "https://www.flashscore.pt",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHdLMGJ1QlpTNUx1UDdaTEZDRVJrek12cElaNURvVHRwRXNfZVFZd2tnczRKd1VYUEJ0ZjZMeW55Z2VwLW5CaGs2NG5sb3otam5tQXRmQ0VVelkzTk5XMlZWTXJtRHdfX2RtWjNHVU5qSzYtWGM4dktqcTBXUWFoMmZZX1J0RERLbHZkeWVDaWthQkN2cXJFMHYwODRHeHhXLTRzUWdyN3gtVGJGb0NCUjVTODZPa0VHMUxSaU9BakNKOUxkWEJzNkx0QlFGU01vS0NzM1pGamVYWUo5bHJKZVZ3?oc=5",
+    "published_at": "2026-11-09T12:31:53+00:00",
+    "first_seen_at": "2026-11-10T03:09:42+00:00",
     "official": false,
     "language": "pt",
     "translated_title": "",
@@ -3665,6 +3719,25 @@
     "translation_status": "translated",
     "last_translation_attempt_at": "2026-11-08T15:27:30+00:00",
     "translated_lang": "pt"
+  },
+  {
+    "id": "03f0923159e92a84a7c7",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Carrick diz que Manchester United \"vai continuar absolutamente normal\" apesar das ligações a Unai Emery",
+    "summary": "Carrick diz que Manchester United \"vai continuar absolutamente normal\" apesar das ligações a Unai Emery Flashscore.pt",
+    "publisher": "Flashscore.pt",
+    "publisher_url": "https://www.flashscore.pt",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWHBOMEZLWjVmVy1QN2Q5TlkxY2NGakwyMHJ4TXNjamszQm9DQmY4TDlpUnBzQUp0YUl6Z1YxZmx5S0p6VEsxd0JDR0VycWxZQ3doMkRYa1htZjhzVnFUSUcxRjdaTzVDN0wzM1FGSEdEaVMtSDBjWWVtMHV0clJsYnJsc2ZqZmkwMVdCVE11a1pKR01VZndndFdlRFJmZFlkYjdsS2tjRjZxc1RvbWU1SmEzQkFmUDNwSENIU0ZPb2lzVEotMnpJdDhGMVBWb0lhdTNkeU5kajdldWgzRUt6SzMwdnV6YmVza3Y5VTZPWC1qQi1NX3F0bWpzajBBZw?oc=5",
+    "published_at": "2026-11-08T14:41:15+00:00",
+    "first_seen_at": "2026-11-10T03:09:42+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "9cb3a903640ed06f76d6",
@@ -7022,6 +7095,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "f9d2297c2e7ebceecb53",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Carrick's press conference v Villa",
+    "summary": "Carrick's press conference v Villa Manchester United",
+    "publisher": "Manchester United",
+    "publisher_url": "https://www.manutd.com",
+    "source": "Manchester United · oficial",
+    "source_id": "mu-oficial",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVg4RTN1djZQd3J5Y2NWcXZKN0hDTnBBdE0yV0VTWFpHbkJvQmlPem4wYVpwNEl0YzVJWFh2LXRaay1aYTI0bzg4clJNLTFhMnBwQjZkUXFuai1UbTRyMDVabURNS0lRcjBaZ2c3RGZfR0tqb3FmTmJSRVhacHBSbnM5ZVMyajZ0RGxtRjZJNDBYUWd6Q3pDbkptLU9uSkE5LXhSMlA1Q0hKTnQ3TUltdg?oc=5",
+    "published_at": "2026-11-06T14:09:34+00:00",
+    "first_seen_at": "2026-11-10T03:09:42+00:00",
+    "official": true,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "73f9e34b2ac994b460d4",
     "sport": "andebol",
     "section": "ihf",
@@ -7964,6 +8056,25 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWtrQzdLUy1PQktmdDJPSGQzN3JXc2ZJa2ljNFhlT2RfZWVNZVdOa3NSSFBRWU15TmdSR0hrUEt2OTZTSlhxQ19CNkdWbkhYbnhuZXJIWGM4Y1VtdVNqRnpZQUhwdXVOWW5RZjg1OTZHdjZJQlU3NnlFcm9MTmh2M0RQVEQ4QjU0ZGJaMGw5UzFiN0t6Q1NWQkFiVUJBQnc?oc=5",
     "published_at": "2026-11-05T21:15:00+00:00",
     "first_seen_at": "2026-11-09T21:13:33+00:00",
+    "official": true,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "5456b09313b45915897c",
+    "sport": "andebol",
+    "section": "ehf",
+    "title": "EHF EURO Qualifiers review: round 1 concludes with eight home wins",
+    "summary": "EHF EURO Qualifiers review: round 1 concludes with eight home wins EHF",
+    "publisher": "EHF",
+    "publisher_url": "https://www.eurohandball.com",
+    "source": "EHF · oficial",
+    "source_id": "ehf-oficial",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWtrQzdLUy1PQktmdDJPSGQzN3JXc2ZJa2ljNFhlT2RfZWVNZVdOa3NSSFBRWU15TmdSR0hrUEt2OTZTSlhxQ19CNkdWbkhYbnhuZXJIWGM4Y1VtdVNqRnpZQUhwdXVOWW5RZjg1OTZHdjZJQlU3NnlFcm9MTmh2M0RQVEQ4QjU0ZGJaMGw5UzFiN0t6Q1NWQkFiVUJBQnc?oc=5",
+    "published_at": "2026-11-05T21:15:00+00:00",
+    "first_seen_at": "2026-11-10T03:09:42+00:00",
     "official": true,
     "language": "en",
     "translated_title": "",
