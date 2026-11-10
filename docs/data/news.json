@@ -105,6 +105,27 @@
     "translated_summary": ""
   },
   {
+    "id": "0191fbe19ef250288557",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Michael Carrick: Manchester United expected to sack head coach",
+    "summary": "Michael Carrick: Manchester United expected to sack head coach BBC",
+    "publisher": "BBC",
+    "publisher_url": "https://www.bbc.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GQjExa0NIekxjV0wxRWFqZnBMdTk4dmJXMlhsWGJVSS10V010MTB2WWx2cG1OSHkxSEI4YWh6eHB6VzliN1JvSVJ0VTRTQXpOcUZxVV93eUZVNjhqZkV6V0xqT3BHX3J5?oc=5",
+    "published_at": "2026-11-09T22:46:43+00:00",
+    "first_seen_at": "2026-11-10T04:16:19+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "Michael Carrick: Manchester United deve demitir treinador",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T04:16:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
     "id": "5ccec5e0df414acd8492",
     "sport": "futebol",
     "section": "manchester-united",
@@ -160,6 +181,27 @@
     "translated_title": "Manchester United deve demitir Michael Carrick como treinador principal - The Athletic",
     "translation_status": "translated",
     "last_translation_attempt_at": "2026-11-10T01:29:33+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
+    "id": "20fb2e6041778425ebd5",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Manchester United expected to sack Michael Carrick as head coach",
+    "summary": "Manchester United expected to sack Michael Carrick as head coach The New York Times",
+    "publisher": "The New York Times",
+    "publisher_url": "https://www.nytimes.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObURtYmFmREFqUmxBN0xmeURTcXNZRGNEUmZWUHVBZjBEdGU4a1pHTUhaM2RKVWJiWHVOU0Q5UGZiazhnU3h2MV9KX0x6SmlGb2VmTzB6eHBrNVN0RGxydGVpaWFILTAzX0Jucl9LUzBfWXVyc25lZURNWXZtT2ZfaExORWtWbWRScnM5S01WV0k5bWdPX1NnQQ?oc=5",
+    "published_at": "2026-11-09T21:57:15+00:00",
+    "first_seen_at": "2026-11-10T04:16:19+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "Manchester United deve demitir Michael Carrick como treinador",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T04:16:19+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
   },
@@ -500,9 +542,11 @@
     "first_seen_at": "2026-11-09T16:26:23+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Dakar 2026: Revisão do Dia 1, Sessão 1 – a nação anfitriã se destaca no handebol de praia em andamento nos Jogos Olímpicos da Juventude",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T04:16:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "1e6b79f701703018f6ab",
@@ -538,9 +582,11 @@
     "first_seen_at": "2026-11-09T16:26:23+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United: As principais questões sobre o futuro de Michael Carrick ainda estão no ar em Old Trafford",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T04:16:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "48848d5844abb04ba65d",
@@ -557,9 +603,11 @@
     "first_seen_at": "2026-11-09T20:17:57+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "As estatísticas CONDENATÓRIAS por trás do início historicamente ruim da temporada do Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T04:16:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "b1e932693d1584162323",
@@ -595,9 +643,11 @@
     "first_seen_at": "2026-11-09T15:17:14+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "\"Divertindo-se muito\": a presidente do COI, Kirsty Coventry, experimenta a emoção do handebol de praia em Dakar 2026",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T04:16:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "521eb7b06535bbf1f701",
@@ -614,9 +664,11 @@
     "first_seen_at": "2026-11-10T03:09:42+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Quem era o Homem do Jogo no Everton?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T04:16:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "d1d704677960a395fc7f",
@@ -633,9 +685,11 @@
     "first_seen_at": "2026-11-09T16:26:23+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Pochettino agora é o favorito para ser o próximo treinador do Man Utd após mudança tardia",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-10T04:16:19+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "7ba62de180ecb8f51b21",
@@ -709,6 +763,25 @@
     "first_seen_at": "2026-11-09T15:17:14+00:00",
     "official": true,
     "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "a84eceb246201e2213d2",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Man Utd transfer: Agents in Carrington to seal deal for Moroccan right-back dubbed ‘an idiot’ by Vinicius Junior",
+    "summary": "Man Utd transfer: Agents in Carrington to seal deal for Moroccan right-back dubbed ‘an idiot’ by Vinicius Junior Football365",
+    "publisher": "Football365",
+    "publisher_url": "https://www.football365.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHFtRGxVV1B2R1pmS3lsdWg5dDUyaDNoX3FpcVRrUTVJZ3BlYnUtVmhIRnl4a01xRUJDRW1BdWtOcEplNVdUanlKZzI0aTVuTTlFekJELU01T2xSZmt2Q01VY3d5ZGhqaW1mTFFNeWNJTG82UVRyblR2YjlTNUNteXNPTGlyZnFtZ1UzQWxhOGdOaEFzUU9SZ2FYWTdGV2ZZNWlv?oc=5",
+    "published_at": "2026-11-09T12:36:23+00:00",
+    "first_seen_at": "2026-11-10T04:16:19+00:00",
+    "official": false,
+    "language": "en",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
@@ -12549,6 +12622,25 @@
     "first_seen_at": "2026-11-08T15:27:30+00:00",
     "official": true,
     "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "1730041097fe60f17d73",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Celin Bizet Donnum is back!",
+    "summary": "Celin Bizet Donnum is back! Manchester United",
+    "publisher": "Manchester United",
+    "publisher_url": "https://www.manutd.com",
+    "source": "Manchester United · oficial",
+    "source_id": "mu-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb29JWk5wUEVSR0FiYVdRaVlZQU1XdzV6dWxHRHlTSjBfWHZWRVJPNi1DWnlUVTg3cVdhMjI3d3lYckJSMlY4RVg0ZnhzSXJ1TDhhSVU4WUZuT0Y0VHRQZWZyU0QyNml4WHFnUmdUUUtLY3NJdE5yd0hSREg3aGg1OEk3dmhQVURoTEE?oc=5",
+    "published_at": "2026-10-29T17:12:34+00:00",
+    "first_seen_at": "2026-11-10T04:16:19+00:00",
+    "official": true,
+    "language": "en",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
