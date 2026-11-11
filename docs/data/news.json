@@ -19,6 +19,44 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "b35c828df7886a6c4817",
+    "sport": "andebol",
+    "section": "selecao-portuguesa",
+    "title": "Jogo 1733 - C.P.S.B. MESSINES ACR 6 x ACD LAPA FURADA-GRUTAS DA MOEDA ACR6",
+    "summary": "Jogo 1733 - C.P.S.B. MESSINES ACR 6 x ACD LAPA FURADA-GRUTAS DA MOEDA ACR6 Federação de Andebol de Portugal",
+    "publisher": "Federação de Andebol de Portugal",
+    "publisher_url": "https://portal.fpa.pt",
+    "source": "FPA · Seleção portuguesa",
+    "source_id": "selecao-pt-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3dVd0MnV4cnpXWjQ5MjNKQXRjN29jTjJlWEtDNTRNT2cyZjIwQktZamYwQ3BKSFNyc2V2STl5UlZmUnZaV2JJOV9n?oc=5",
+    "published_at": "2026-11-11T00:34:44+00:00",
+    "first_seen_at": "2026-11-11T03:12:49+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "de6a3aa43e4218dd865b",
+    "sport": "andebol",
+    "section": "selecao-portuguesa",
+    "title": "Jogo 1722 - APD CASTELO BRANCO - ACR6 x C.P.S.B. MESSINES ACR 6",
+    "summary": "Jogo 1722 - APD CASTELO BRANCO - ACR6 x C.P.S.B. MESSINES ACR 6 Federação de Andebol de Portugal",
+    "publisher": "Federação de Andebol de Portugal",
+    "publisher_url": "https://portal.fpa.pt",
+    "source": "FPA · Seleção portuguesa",
+    "source_id": "selecao-pt-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XQ3B3YmN1VnFQVFktSmpNbi1WRHhLV0dyejgzeXZoRXpfdGdTanNzdkM4QjBzZENDNVBZX0pJc0dNUDN3VmNnLUlB?oc=5",
+    "published_at": "2026-11-11T00:34:35+00:00",
+    "first_seen_at": "2026-11-11T03:12:49+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "b88adb156efd4f057e0e",
     "sport": "andebol",
     "section": "selecao-portuguesa",
@@ -448,9 +486,11 @@
     "first_seen_at": "2026-11-10T17:14:19+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Mauricio Pochettino interessado em deixar o emprego na USMNT pelo Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T03:12:49+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "76b0069443cf07f0cef2",
@@ -562,9 +602,11 @@
     "first_seen_at": "2026-11-10T18:04:18+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Man Utd Q&A: Michael Carrick, Mauricio Pochettino, INEOS e mais - Kaveh Solhekol responde às suas perguntas",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T03:12:49+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "4c0992ea52e647fb49ef",
@@ -619,9 +661,11 @@
     "first_seen_at": "2026-11-10T21:08:05+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "- Sabe por que não gosto de gatos?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T03:12:49+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "c855fb6f5febe0a3c419",
@@ -638,9 +682,11 @@
     "first_seen_at": "2026-11-10T18:04:18+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Acesso a todas as áreas: United 4 Villa 4",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T03:12:49+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "03e6183bffc267727121",
@@ -657,9 +703,11 @@
     "first_seen_at": "2026-11-10T15:11:36+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Como seria o Manchester United de Mauricio Pochettino?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T03:12:49+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "1e1994493f0630a39bfa",
@@ -676,9 +724,11 @@
     "first_seen_at": "2026-11-10T15:11:36+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "A política de transferência do Man Utd é culpada pela pior partida do clube na Premier League e não por Michael Carrick, diz Paul Merson",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T03:12:49+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "de03b8b71e840c5a12bb",
@@ -695,9 +745,11 @@
     "first_seen_at": "2026-11-10T15:11:36+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Dakar 2026: Revisão do Dia 2 – Mulheres da Espanha e do Uruguai, além de homens do Brasil e da Alemanha na pole position na conclusão da rodada preliminar",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T03:12:49+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "8ce645a454fb5f1cfb2c",
@@ -733,9 +785,11 @@
     "first_seen_at": "2026-11-10T19:23:23+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Murillo para Man Utd: Football Insider relata oferta de verão",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T03:12:49+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "8d8cf9d0e45b89e09ab8",
@@ -6445,6 +6499,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "29797013c525a15b22a3",
+    "sport": "andebol",
+    "section": "campeonato-portugues",
+    "title": "Jogo 1716 - C.P.S.B. MESSINES ACR 6 x CNS/CAIXIDUARTE - ACR6",
+    "summary": "Jogo 1716 - C.P.S.B. MESSINES ACR 6 x CNS/CAIXIDUARTE - ACR6 Federação de Andebol de Portugal",
+    "publisher": "Federação de Andebol de Portugal",
+    "publisher_url": "https://portal.fpa.pt",
+    "source": "FPA · competições",
+    "source_id": "andebol-pt-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0MWNRdFIyN29uam9pQU5QLU04Tml6a3J0NVp6ZlB5WkRGS0pxUEJ1UFdJdlBjRU1WS3hkU19wbkw0dlhJd2xKUA?oc=5",
+    "published_at": "2026-11-08T10:15:00+00:00",
+    "first_seen_at": "2026-11-11T03:12:49+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "6081b6837580e9a614f0",
     "sport": "andebol",
     "section": "selecao-portuguesa",
@@ -6669,6 +6742,25 @@
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVdaWUZBT2VLMXRVUjIwVTNNYjdVcDQzWXNkbXU2WF9LblMyM0luS1QtYWR4Y3gtV25INmNZbVhGWmszUktFY3VpR3BwMGpNZXVKVlY3a3ZrNzAtUGN3aTA5YXlUUHlkVW5iTnBJbWEtOHd4U0RWZXQwOUc1eUZlN2JBNWpuZlVI?oc=5",
     "published_at": "2026-11-08T08:00:00+00:00",
     "first_seen_at": "2026-11-10T18:04:18+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "f57bb1006bfa908567a0",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Manchester Utd vs Aston Villa 08/11/2026 | Futebol",
+    "summary": "Manchester Utd vs Aston Villa 08/11/2026 | Futebol Flashscore.pt",
+    "publisher": "Flashscore.pt",
+    "publisher_url": "https://www.flashscore.pt",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2RQUkxfZG1McjhPQWVDdDBuVWNPamUyaHhtZHBzbVFoREE2Sk5XWlFvNlJBcWxKMFZOZE9faWRLZW9USEFiSVhGOS0xem1SWXI3VmItMWQ5WGpjblpoQ25rNmUxYzNpbHBENU56enJhMWRLMmpGcHdOOFRpZzQ0NFBlMnBwd1JOUzdFMQ?oc=5",
+    "published_at": "2026-11-08T08:00:00+00:00",
+    "first_seen_at": "2026-11-11T03:12:49+00:00",
     "official": false,
     "language": "pt",
     "translated_title": "",
