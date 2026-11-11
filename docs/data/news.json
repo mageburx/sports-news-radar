@@ -806,9 +806,11 @@
     "first_seen_at": "2026-11-10T23:54:54+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Futuro de Michael Carrick: posição de treinador da Man Utd cada vez mais em dúvida com Mauricio Pochettino aberto a negociações",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T04:21:07+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "b0f72fcddd5e3e0a02fb",
@@ -825,9 +827,11 @@
     "first_seen_at": "2026-11-10T13:29:54+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United: Paul Merson critica a política de transferência da INEOS e como isso afetou o trabalho de Michael Carrick como treinador",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T04:21:07+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "4ee93de2e1a3c4ea59a0",
@@ -844,9 +848,11 @@
     "first_seen_at": "2026-11-10T15:11:36+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United: Paul Merson critica a política de transferência da INEOS e o efeito no trabalho de Michael Carrick como treinador",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T04:21:07+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "718ff7a76db267e5e729",
@@ -863,9 +869,11 @@
     "first_seen_at": "2026-11-11T01:28:56+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Michael Carrick deve deixar o Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T04:21:07+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "4ea4dc9201247eacd511",
@@ -996,9 +1004,11 @@
     "first_seen_at": "2026-11-10T12:09:07+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Dakar 2026: “Queremos ser campeões aqui” – objetivo da China no Senegal claro",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T04:21:07+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "86cef691c315d9a9159a",
@@ -1053,9 +1063,11 @@
     "first_seen_at": "2026-11-10T16:14:00+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Fontes: Man United recorre ao técnico dos EUA, Pochettino, com Carrick à beira",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T04:21:07+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "64cc6f428795202a1114",
@@ -1091,9 +1103,11 @@
     "first_seen_at": "2026-11-10T13:29:54+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Man Utd News: Michael Carrick faz treino de terça-feira",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T04:21:07+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "d76944ac32309036306d",
@@ -1110,9 +1124,11 @@
     "first_seen_at": "2026-11-10T12:09:07+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Quando Man Utd demitirá Carrick e quem poderia substituí-lo como gerente?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-11T04:21:07+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "acb2cad4f24b30acbaf6",
@@ -1406,6 +1422,25 @@
     "last_translation_attempt_at": "2026-11-10T10:16:07+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "436782099c2a4440e1a1",
+    "sport": "andebol",
+    "section": "selecao-portuguesa",
+    "title": "Jogo 63 - CD TONDELA x LUSITANO FC",
+    "summary": "Jogo 63 - CD TONDELA x LUSITANO FC Federação de Andebol de Portugal",
+    "publisher": "Federação de Andebol de Portugal",
+    "publisher_url": "https://portal.fpa.pt",
+    "source": "FPA · Seleção portuguesa",
+    "source_id": "selecao-pt-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kM0tJencwREhvU2xvbm9QRm5CeWN6WWU0eEFUX0NCcm1TSFBadHl2bjhFVnRlWW5wUmkzTWtYZ2hPeGE3Zk1UY3J3?oc=5",
+    "published_at": "2026-11-10T07:51:45+00:00",
+    "first_seen_at": "2026-11-11T04:21:07+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "3ecaee24f4bca13c84ec",
@@ -6228,6 +6263,25 @@
     "translated_summary": ""
   },
   {
+    "id": "de20bc571b4aab8f2aec",
+    "sport": "andebol",
+    "section": "ehf",
+    "title": "Men's EHF EURO 2028 Qualifiers: live coverage of round 2 on Sunday",
+    "summary": "Men's EHF EURO 2028 Qualifiers: live coverage of round 2 on Sunday EHF",
+    "publisher": "EHF",
+    "publisher_url": "https://www.eurohandball.com",
+    "source": "EHF · oficial",
+    "source_id": "ehf-oficial",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTd0dnU3b3NHdXN0YkFoZWtsWE43NFcxN0t0MjQ5VEVyNDZ6YUotYjB6NDdrZDdNSHkyVThXNnFvWE5DN19rZjBkbUM1WU1GVGRyYS1xaFpTdWdUN3VwU0gwLUZWY1R0QlVNU0p0eVA2c2RoU042ajZxM1N6QUQzcGNRZkdNWllyQlRoczlFZFBJcWM1QkY4ZjFjUG9TMTVaUHI2LQ?oc=5",
+    "published_at": "2026-11-08T11:40:00+00:00",
+    "first_seen_at": "2026-11-11T04:21:07+00:00",
+    "official": true,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "06c8c337dfc7648426c7",
     "sport": "futebol",
     "section": "primeira-liga",
@@ -9934,6 +9988,25 @@
     "first_seen_at": "2026-11-09T23:04:36+00:00",
     "official": false,
     "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "f79a96beb5b512824d0b",
+    "sport": "andebol",
+    "section": "ehf",
+    "title": "Men's EURO 2028 handball: Round 2 of qualifiers wraps up this weekend",
+    "summary": "Men's EURO 2028 handball: Round 2 of qualifiers wraps up this weekend EHF",
+    "publisher": "EHF",
+    "publisher_url": "https://www.eurohandball.com",
+    "source": "EHF · oficial",
+    "source_id": "ehf-oficial",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTNkWnRSMkVleDVBRi0zdVdpMDRFU2RhRGgxZUdoZnUtaUhIUGpYR25fQ3AwVlRYQVpUV3RYWGxOYTR3aTBjMm13Q1llWExZa3ZmNWxkMWtkR0RtX1ZXVmhxUTRVSnZvTWwzYnJWMWw4Wk00c2cxWnQxLVhQeGR3M3R6TEF4NTRRWVphcC1val9YQUN2U0VDUjhiU3NyYnpDYXJTQWh3?oc=5",
+    "published_at": "2026-11-06T12:00:00+00:00",
+    "first_seen_at": "2026-11-11T04:21:07+00:00",
+    "official": true,
+    "language": "en",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
