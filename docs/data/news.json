@@ -1,5 +1,64 @@
 [
   {
+    "id": "bdb87d09f6dd5d968fdc",
+    "sport": "andebol",
+    "section": "ihf",
+    "title": "Dakar 2026: Mental toughness and desire – France within touching distance of Olympic podium",
+    "summary": "Dakar 2026: Mental toughness and desire – France within touching distance of Olympic podium IHF",
+    "publisher": "IHF",
+    "publisher_url": "https://www.ihf.info",
+    "source": "IHF · oficial",
+    "source_id": "ihf-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2dpM3ZTNU5IQkFTNVh6VkFTUnppaExNX0UwWng3S2JXMGJrX2x2SHhJNHRxanNETXlIRUVlZTc5aDd5SFpsRFlRTFYwalVrYnhfNUh0REc4anloTmg4Q0ZnWkwtRjViZHRDUW0xNWx0UUNxNDRJNDgtSzd2ZURNU3JWLTItSUNnWS1YOVRPM1Z3bXZpMTdCX3FtbjlFZ21vLTNReFdTY3dqUWlnbnJucldyV0xYVmRf?oc=5",
+    "published_at": "2026-11-12T06:57:47+00:00",
+    "first_seen_at": "2026-11-12T07:43:51+00:00",
+    "official": true,
+    "language": "en",
+    "translated_title": "Dacar 2026: Força mental e ambição – A França está a um passo do pódio olímpico",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T07:43:51+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
+    "id": "15669ce1f50507be12d9",
+    "sport": "andebol",
+    "section": "campeonato-portugues",
+    "title": "Fotografias :: FC Porto 3-2 Benfica :: Campeonato Placard Hóquei Patins 2026/27 ::",
+    "summary": "Fotografias :: FC Porto 3-2 Benfica :: Campeonato Placard Hóquei Patins 2026/27 :: zerozero.pt",
+    "publisher": "zerozero.pt",
+    "publisher_url": "https://www.zerozero.pt",
+    "source": "Andebol português · imprensa",
+    "source_id": "andebol-pt-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTlpOFJiNHM3d2h3a0xib1JjTjVVMGxpbE5FTEkzeV9NdmlDUlpTOG1xZmdDcEpTVWpWUm5aaGVFRnV6OHktSHBmaTc3NEh2LWN6R3NTNzNSUkpmdGNKRG1fTVJSdzNhQkpXVHdwamhlTFhzczRYTFNRY3FWNXhPendtWQ?oc=5",
+    "published_at": "2026-11-12T06:14:51+00:00",
+    "first_seen_at": "2026-11-12T07:43:51+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "f2744a46a4c61ae5fc9f",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Pochettino para o Manchester United: Habilidade limitada, desafio grande demais?",
+    "summary": "Pochettino para o Manchester United: Habilidade limitada, desafio grande demais? Vietnam.vn",
+    "publisher": "Vietnam.vn",
+    "publisher_url": "https://www.vietnam.vn",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVTZpdVEwUnpFRTBRc3RWWXo1YUh5cmJETmJPYjMydlVsWkMzSFEtcVR2LWVFR084VTM5UjFCRzk4d3MxRWNpa0F1Y1U1dTk1ako2SjNUWGNEWmxLZWk1MHVOWTJ0cDlYajZhTmdXT05iZS1COXFPV0ItS0Q1MTJmdWsyY0QwRTBCb0E?oc=5",
+    "published_at": "2026-11-12T05:33:09+00:00",
+    "first_seen_at": "2026-11-12T07:43:51+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "f7df1e3a23cc04fd792d",
     "sport": "futebol",
     "section": "manchester-united",
@@ -1690,9 +1749,11 @@
     "first_seen_at": "2026-11-11T17:22:47+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Macari recebe o seu MBE",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T07:43:51+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "ab88e36c1ee6548c8fa1",
@@ -1728,9 +1789,11 @@
     "first_seen_at": "2026-11-11T18:17:15+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Pochettino \"aceita ser o novo treinador do Manchester United\" após conversações durante a noite",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T07:43:51+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "fc80f9aa1346913aad94",
@@ -1823,9 +1886,11 @@
     "first_seen_at": "2026-11-11T18:17:15+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Um reencontro com Petrucci que mostra o poder do futebol",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T07:43:51+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "db64fa034b62f10b255a",
@@ -1842,9 +1907,11 @@
     "first_seen_at": "2026-11-11T11:22:08+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United e Mauricio Pochettino: o argentino seria a escolha perfeita ou apenas mais um treinador a sucumbir ao caos de Old Trafford?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T07:43:51+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "d1df5fea434deebf7f6e",
@@ -1861,9 +1928,11 @@
     "first_seen_at": "2026-11-11T17:22:47+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O Manchester United está a finalizar o acordo para nomear o substituto de Michael Carrick",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T07:43:51+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "9975ef34ee4e8e438a83",
@@ -1901,9 +1970,11 @@
     "first_seen_at": "2026-11-11T15:12:53+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O Manchester United chega a um acordo de princípio com Pochettino antes de decidir o destino de Carrick",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T07:43:51+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "298d34675865754c31d9",
@@ -1941,9 +2012,11 @@
     "first_seen_at": "2026-11-11T12:20:47+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Pochettino está pronto para aceitar a proposta do Manchester United para substituir Carrick",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T07:43:51+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "7e4ccabd302986c49443",
@@ -2312,6 +2385,25 @@
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuaTdiLUN6SkpWR3BjdHctQ2pPRXRMY0RNUHJoNGRFQnMxSjRiYVpiQWZDRG5lemtYc21HMWNQa3Bpd3JVdk1PZg?oc=5",
     "published_at": "2026-11-11T00:34:20+00:00",
     "first_seen_at": "2026-11-11T01:28:56+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "47a2795bad92c585b6b2",
+    "sport": "andebol",
+    "section": "campeonato-portugues",
+    "title": "Jogo 1713 - APD FIGUEIRA FOZ/OS COXOS ACR6 x ULS COIMBRA - ACR6",
+    "summary": "Jogo 1713 - APD FIGUEIRA FOZ/OS COXOS ACR6 x ULS COIMBRA - ACR6 Federação de Andebol de Portugal",
+    "publisher": "Federação de Andebol de Portugal",
+    "publisher_url": "https://portal.fpa.pt",
+    "source": "FPA · competições",
+    "source_id": "andebol-pt-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Gb0IxbEJnN1cxMTZpcWEzWG1HYjY4dGtaNVBRU0pxVzZRc3hWOGNiTE5fdURLNWJnZXYxaXEwM3NOSVkzWVlwZWx3?oc=5",
+    "published_at": "2026-11-11T00:34:20+00:00",
+    "first_seen_at": "2026-11-12T07:43:51+00:00",
     "official": true,
     "language": "pt",
     "translated_title": "",
