@@ -1,5 +1,45 @@
 [
   {
+    "id": "6b2b5e9e26d057672d63",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Arsenal, Chelsea and Liverpool chase Bournemouth star Alex Scott - Paper Talk | Football News",
+    "summary": "Arsenal, Chelsea and Liverpool chase Bournemouth star Alex Scott - Paper Talk | Football News Sky Sports",
+    "publisher": "Sky Sports",
+    "publisher_url": "https://www.skysports.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMEtydVhTTktpMjJUcTFpQ3RIclJlS1FXOG9lWWNGQ0ZZQjRzTVFZbHVYQ0EzbUJoQU9HanplTHVxakI1S2ZyakhfVVQ3VUNBazgzaFA1aUM5QmZ3dG1OQlhyT0pnZjBZbUtITGFkVmNhZERaeFBZZEVqWWpRNEozSktMWjA4VG1nQXJEdzZnY1dnaFVOcjhBTVhqMlQ3SExFX3k5dk9aOGhKOHVfWWR5STNvSHUyZWNhOERQNjE4TmpaeG9tQ0RVNkgxbko5SDI3dV9keQ?oc=5",
+    "published_at": "2026-11-12T08:33:28+00:00",
+    "first_seen_at": "2026-11-12T09:22:33+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "Arsenal, Chelsea e Liverpool estão atrás da estrela do Bournemouth, Alex Scott - Rumores | Notícias de futebol",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T09:22:33+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
+    "id": "a924654592d9947119fc",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Schmeichel, ex-Sporting, arrasa Manchester United: \"Falta de respeito\"",
+    "summary": "Schmeichel, ex-Sporting, arrasa Manchester United: \"Falta de respeito\" Notícias ao Minuto",
+    "publisher": "Notícias ao Minuto",
+    "publisher_url": "https://www.noticiasaominuto.com",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3hkaFBWdXZma3pDVGM2ejFZbGhoZVNubWd4aUtvcDRsblhKUkZEUTctd2tYYnFjSDhzZXBmb2pDZDF1Ui1ldmdTWE85OWFSbnF0Y3JQdGF5VGx1UkxTSjF2VS1waG82YzNNbHlKUUVUTUlFcWdWbTVIb0xyX0k3MUpnTW9Fek1QMHhfeHVxNTVfdWhtQU5Mc0ZmU1hULWxoOG0zb0FyZmxQM2hKN21mNEsyMDdhUQ?oc=5",
+    "published_at": "2026-11-12T08:20:00+00:00",
+    "first_seen_at": "2026-11-12T09:22:33+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "bdb87d09f6dd5d968fdc",
     "sport": "andebol",
     "section": "ihf",
@@ -1331,6 +1371,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "a9eacd07ed1d1e2f4f25",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Manchester United chega a acordo com Pochettino, afirma jornal",
+    "summary": "Manchester United chega a acordo com Pochettino, afirma jornal Terra",
+    "publisher": "Terra",
+    "publisher_url": "https://www.terra.com.br",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPN19BajZvb1JhTno4dXA3YlBYSmgtZWhSMlF3eXpLZHhjZVpqcTA2ckRuUGFISFJKQjQ1MGVFVU1FdDk5T2h6U3htdkVseE5NZExJQnRVZWZIZXpNUGFORFRNU0U0Um05QnM2TGxiOWk1REdRUlI3MEEwZ2loVVQwY1NzM2tGbG45UDBPcGcyRW9sNEYzOGpYRUJ5ZWMzblNSTFZmdDFRZ2stejdMX3NOdlVNZ2k2NDRVNGEyYnVwZUhFRjZ6TmN4UGh1OVVVZG9yTGQzcnlqZUlsaVNWcVFfVzB4XzdZZWhxM0VlbTBOUkdXZGw3U0hTSzdSRUI4SE11RHlPWjh4WEZnaXBEc0dQdlpjemx1a09x?oc=5",
+    "published_at": "2026-11-11T12:24:00+00:00",
+    "first_seen_at": "2026-11-12T09:22:33+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "019620c064a2164feb68",
     "sport": "futebol",
     "section": "manchester-united",
@@ -2054,9 +2113,11 @@
     "first_seen_at": "2026-11-11T17:22:47+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United: quem toma as decisões sobre o futuro do clube?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T09:22:33+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "fe24fdb3298a761de530",
@@ -2216,9 +2277,11 @@
     "first_seen_at": "2026-11-11T13:40:10+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O grande erro de Jason Wilcox que deixou Michael Carrick a lutar pelo cargo no Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T09:22:33+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "4910ec6b9b3eff969e52",
@@ -3373,9 +3436,11 @@
     "first_seen_at": "2026-11-11T18:17:15+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Os Glazer colocam o Manchester United à venda, com um preço pedido elevadíssimo a ser revelado",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T09:22:33+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "88da9be3f6a799f713ab",
@@ -3481,6 +3546,25 @@
     "last_translation_attempt_at": "2026-11-11T04:21:07+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "37cb0b4b9c47dfdf24bf",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "Richard Ríos regressa ao Palmeiras para tratar lesão após transferência para o Benfica",
+    "summary": "Richard Ríos regressa ao Palmeiras para tratar lesão após transferência para o Benfica Flashscore.pt",
+    "publisher": "Flashscore.pt",
+    "publisher_url": "https://www.flashscore.pt",
+    "source": "Primeira Liga · imprensa",
+    "source_id": "liga-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmV0X2RkaVJQaXZsaFl6MlY1M3phdDdyNTRaYlFSVkZ0VGZBOFpjNWpNQi1OTVFtYmE4WkUwRWlhV2NCS1JKdVFTM0RGVi14N00zdzNURGVOSkRFbWpRUlNHT3lSd3plalIwNDJvWC1INlk4MVpyQU5IN0ctazRaSFQ4QzVVcm01Q0R4Y1RVWTdxaFBFLUF2anhNSHhpVnhvSmNJX2F2UGRPWUpkVlMtWnJyVm53VG0teGxRdjZLTDhaT2habzlRc0ZDM2t6cjEzQmZlQTlFQWxZZ1RmZlZWVUFEdUxJWmh4?oc=5",
+    "published_at": "2026-11-10T12:34:00+00:00",
+    "first_seen_at": "2026-11-12T09:22:33+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "4ea4dc9201247eacd511",
@@ -3874,9 +3958,11 @@
     "first_seen_at": "2026-11-11T23:12:59+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United a finalizar acordo com Mauricio Pochettino",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T09:22:33+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "e754de4875441cd9262b",
@@ -4196,9 +4282,11 @@
     "first_seen_at": "2026-11-12T01:40:06+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United prepara-se para \"ganho inesperado com transferência\", com o Madrid a ter McTominay como alvo - Resumo da imprensa",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T09:22:33+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "a4bac535b21022cb67a9",
@@ -5612,9 +5700,11 @@
     "first_seen_at": "2026-11-10T15:11:36+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United: Senne Lammens cometeu falta sobre Zion Suzuki no golo de empate tardio do Manchester United contra o Aston Villa? | Análise do Árbitro",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T09:22:33+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "dec3ff5383761c9bef3f",
@@ -5829,9 +5919,11 @@
     "first_seen_at": "2026-11-11T15:12:53+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O primeiro-ministro das Ilhas Faroé sobre a importância do andebol no país",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T09:22:33+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "09adbfff7f7732b9647e",
@@ -12144,6 +12236,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "6b350758220fc6bbe6c9",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Mbeumo explains his mentality",
+    "summary": "Mbeumo explains his mentality Manchester United",
+    "publisher": "Manchester United",
+    "publisher_url": "https://www.manutd.com",
+    "source": "Manchester United · oficial",
+    "source_id": "mu-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk5LZkx1ZjZUZDZxMDZtOW5lbVhXTnFlcG51ZlBBTWk2cHlhQ2hvWVlNeUdyMU9QbklRd0xDOVJmRDYxcU1XOVRkVUpraFFkZlpoNENOcGlJdXN1QTVMNE9JeEc3NjZPNWc5OU9XbmI4SFFOSmhrYk42VUZ2dFpmSXhkZEFWQUE3Uk9VUlZ4akRxR0xweWtpSW1vUDI2Y1lNcGsw?oc=5",
+    "published_at": "2026-11-07T08:32:36+00:00",
+    "first_seen_at": "2026-11-12T09:22:33+00:00",
+    "official": true,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "fd0ad2fae7348f52e2e4",
     "sport": "futebol",
     "section": "manchester-united",
@@ -15392,6 +15503,25 @@
     "first_seen_at": "2026-11-09T19:20:29+00:00",
     "official": true,
     "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "af42b06fc1c4ad5b6491",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Tributes to be paid to Jesus de Miguel Alameda",
+    "summary": "Tributes to be paid to Jesus de Miguel Alameda Manchester United",
+    "publisher": "Manchester United",
+    "publisher_url": "https://www.manutd.com",
+    "source": "Manchester United · oficial",
+    "source_id": "mu-oficial",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSklTQ09iRXhEYVMxUFU1djdlS2VrSVd0ejVkV01ITVdwSDlnNXBjWk1UR1JNZ1NTTHRWTlpTWVhkZDJsa3Z1dXRWWkNObUd2TC1hYloxU21HVWJxcmdUcjdxSEZDOElaQkJodVJqeXNCUVRkb0RzdUQzaE50WFlsMHkyX0Rjb1F1akNhNmZUSVR3dw?oc=5",
+    "published_at": "2026-11-04T16:02:36+00:00",
+    "first_seen_at": "2026-11-12T09:22:33+00:00",
+    "official": true,
+    "language": "en",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
