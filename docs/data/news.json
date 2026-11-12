@@ -1,5 +1,64 @@
 [
   {
+    "id": "f7df1e3a23cc04fd792d",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Dois jogadores do Manchester United brigaram no avião?",
+    "summary": "Dois jogadores do Manchester United brigaram no avião? Vietnam.vn",
+    "publisher": "Vietnam.vn",
+    "publisher_url": "https://www.vietnam.vn",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yU0hrRUstVHZ6Y3F6TkVCUElmREVkODNGd0lvUko4cXBQRDhvcVNabGFWQlNTcnVpd2gyWTVLWGU5bVd5ZDVhQ080YzhFOG5ueTdGZGdCdXN0ektPcllNbTd5S21Bb2ZtX0wwTEZhUjRMdlZSTTN1TWlaV3A?oc=5",
+    "published_at": "2026-11-12T03:52:09+00:00",
+    "first_seen_at": "2026-11-12T04:21:11+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "21e00e3c92dfb8c47429",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Seleção dos EUA sonha com Guardiola caso perca Pochettino para o Manchester United",
+    "summary": "Seleção dos EUA sonha com Guardiola caso perca Pochettino para o Manchester United ge",
+    "publisher": "ge",
+    "publisher_url": "https://ge.globo.com",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaUpNLWJlT2N6QWUyVTBmcnYyTHJjeTE3WDNaZXlNRFlHbENLVnhfNGVhSW5hbExJWFR6R0pCMmkxMFkwQzlKaS1qSWdHM3ZzcEMwQngwUDVsalN4Q1lmQ0xVZnk1czlyM1ZsblltN0Z5QkNuYW1GT0xoTEFmTVUxQkRvNWxST0N3NlBvVkJJNXh6a29vblBqVk1iOC1FT2pJdFZZVmpFQVpPazNjMFplbGRvOUpCaVhFcE1peDNhSUNtYkYxR1NpdjBTc2xEalhFUWFvR0JpT1VlaVN2WDNtdHNDQjh3bUFVQkROUnRqZ9IB_gFBVV95cUxNOVV0SnVVVzNsa3hxRk80amFMV2IxY1RQRDBGdktIbGJZRzZGWlBKT0d0VllsWldyc0FOc3dFWjFTQVRBZHNjb3dsTU4wNmJrLVZRYnZHcElHS1R6WUFHUzN6UHlsMmIzQzBma25zNGxnaUNscVVDbWt0MW91eW1MSEJ1LWVqUENXenpiRWRjbUVhSk0wbWg4ZEJCNUpUdlRZSWJJcUpyc1RiOHBaUGVaY3U5RmNCWXl0ZXBacHZIMTMwanZlbTZjaFF6a2E2RlhNd3B0eTVrUDdmTWVGeFBkRUxGTzRPTG9pbVFlVXlEYlJrbjkwUk92Sk9rcUlXZw?oc=5",
+    "published_at": "2026-11-12T03:00:00+00:00",
+    "first_seen_at": "2026-11-12T04:21:11+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "86b655bc3cad9a4b628c",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Pochettino to Man Utd latest after verbal agreement to become manager",
+    "summary": "Pochettino to Man Utd latest after verbal agreement to become manager London Evening Standard",
+    "publisher": "London Evening Standard",
+    "publisher_url": "https://www.standard.co.uk",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSGtBRkd1LUxLMU5Xdkk1N1pTOGZkaTNLWXVxd0V4dDNqMTQtZDZnN1NGZ1p0WGZwd3F4TGVrWEtlWk9hLVFuX2RMckUwQ3RPYi1sSklzOFpFajBid090V2JZVFYxSWJ5Z2x5NFZJRkRhQjJqRHkxWTY4VFE4MnRDSHBoZUg0QmZ4bHZKYVpvdjlvNHF1b3JCWHdhVHZDUmpHZE1wYkVGTQ?oc=5",
+    "published_at": "2026-11-12T02:01:03+00:00",
+    "first_seen_at": "2026-11-12T04:21:11+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "Pochettino para o Manchester United é a mais recente notícia após um acordo verbal para se tornar treinador",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T04:21:11+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
     "id": "0f39e1387499d6c8b8bc",
     "sport": "andebol",
     "section": "selecao-portuguesa",
@@ -1107,9 +1166,11 @@
     "first_seen_at": "2026-11-11T15:12:53+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United: o clube desiludiu Michael Carrick?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T04:21:11+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "4dbb8998d874124dedfe",
@@ -1202,9 +1263,11 @@
     "first_seen_at": "2026-11-11T13:40:10+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United: o último jogo de Mauricio Pochettino contra os Red Devils como treinador do Chelsea",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T04:21:11+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "9962b8485b9eaeec0b47",
@@ -1278,9 +1341,11 @@
     "first_seen_at": "2026-11-11T17:22:47+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Atualização sobre a lesão de Maguire e data de regresso: espasmo nas costas, tempo de recuperação",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T04:21:11+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "0df13d6258f447cb53e8",
@@ -1335,9 +1400,11 @@
     "first_seen_at": "2026-11-11T13:40:10+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Nos bastidores da EHF: Conselho das Nações e Comités das Nações",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T04:21:11+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "f20f382bbed17a5fed14",
@@ -1354,9 +1421,11 @@
     "first_seen_at": "2026-11-11T15:12:53+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Nos bastidores da EHF: Conselho das Nações e Comités das Nações",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T04:21:11+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "667719b09f83bc19830a",
@@ -1392,9 +1461,11 @@
     "first_seen_at": "2026-11-11T12:20:47+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Manchester United: Jamie O'Hara critica a falta de um \"plano quinquenal\" por parte da hierarquia do clube",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T04:21:11+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "19fe75e47a2b122df9c2",
@@ -1430,9 +1501,11 @@
     "first_seen_at": "2026-11-11T12:20:47+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Mauricio Pochettino: o Manchester United está perto de chegar a acordo com o potencial sucessor de Michael Carrick antes do encontro com o Mónaco",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T04:21:11+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "f1710117e459ef7bba2b",
@@ -2308,6 +2381,25 @@
     "last_translation_attempt_at": "2026-11-11T09:17:56+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "a84f8b017a31d0a042d0",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "Liga das Nações: Alberto Costa apto a defender oportunidade com unhas e dentes | Futebol",
+    "summary": "Liga das Nações: Alberto Costa apto a defender oportunidade com unhas e dentes | Futebol Público",
+    "publisher": "Público",
+    "publisher_url": "https://www.publico.pt",
+    "source": "Primeira Liga · imprensa",
+    "source_id": "liga-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZkQwRGljSjdBNm5aVlYyZUZVNTN5SUhNOWF3Sk9IQjVKRVZnMUNBSUh2Tm9DdGJVREZ0MlR4ZG5jVzc2Ulc5RjZ1VFQ1WlQ1VHVrMVdMZnJRcHdpWjFKaHE1akptVEc2cW5xZ1hQTDBVOGQwTnVTclFfWXFUM1hUTUJJRmxKRVVvSVN0Y3VJMC15S3BVcm5rZHBaZkljekI1VEdDbjFPenJMTTRyck9SV3Q0aHJUcmhaM3lWTWs3SHpzZw?oc=5",
+    "published_at": "2026-11-10T22:47:32+00:00",
+    "first_seen_at": "2026-11-12T04:21:11+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "42b2b054117128de9928",
@@ -4855,6 +4947,25 @@
     "last_translation_attempt_at": "2026-11-10T04:16:19+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "031274718c06f136bfab",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "Murilo é o jogador em destque na Dream Team da 11.ª jornada da Fantasy Liga Portugal Betclic",
+    "summary": "Murilo é o jogador em destque na Dream Team da 11.ª jornada da Fantasy Liga Portugal Betclic Liga Portugal",
+    "publisher": "Liga Portugal",
+    "publisher_url": "https://www.ligaportugal.pt",
+    "source": "Liga Portugal · oficial",
+    "source_id": "liga-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdXptZXlVY2FrVFphTjdxT3pmLXJ3d2NFbUtiNGpXR2NwemxjSGJXWFF2dEFjVWVXZFc1UlhWSE96UGRkSk01Vzc3d1FfV2hNRmlJaHduRzVESm1uZlhxZGdrTVZnMnBDY3hkTVhvSlVvYjZXWFNkWlhSNGlhblA1eGRBRGRGZWVSTFdUQkk2RElqam54RHMtcHpScGxnZ0pTdTN1RmcyT1lVa0QyMWxSTFVMeVY2SHpzdUc3YVB0bVhQRFdJdlZtblNhYw?oc=5",
+    "published_at": "2026-11-09T15:36:29+00:00",
+    "first_seen_at": "2026-11-12T04:21:11+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "48848d5844abb04ba65d",
