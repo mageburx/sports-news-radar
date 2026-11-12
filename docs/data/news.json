@@ -14,9 +14,11 @@
     "first_seen_at": "2026-11-11T23:12:59+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Dacar 2026: Antevisão do 4.º dia – corações a exaltar-se e a partir-se no dia das meias-finais",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T00:05:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "55b493e4a17cc3552d20",
@@ -52,9 +54,11 @@
     "first_seen_at": "2026-11-11T23:12:59+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Dakar 2026: O céu é o limite para Rotundo Bianchi e o Uruguai em Saly",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T00:05:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "d5aa99b4f1c467bbc80f",
@@ -147,9 +151,32 @@
     "first_seen_at": "2026-11-11T21:53:46+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Encontro de duas almas perdidas: Pochettino conseguirá fazer com que funcione no Manchester United? | Barney Ronay",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T00:05:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
+    "id": "2dab43bdac098c652aec",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Manchester United make formal contact with U.S. Soccer over Mauricio Pochettino - The Athletic",
+    "summary": "Manchester United make formal contact with U.S. Soccer over Mauricio Pochettino - The Athletic The New York Times",
+    "publisher": "The New York Times",
+    "publisher_url": "https://www.nytimes.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHFRelMxbzlWbWR2anNzZzFjTWhXVVNJa25NTVFoZ0w1SVBHbHBqcE1XN29NanY2M2tOTXRDejZvbEdfR3BqZENEQnFFNTRhR3ZsT29nVDBMTkRRb0VqV2pYUjNaR2FDb01kWEM2ZWVHcmlfZHdETGZ6UEthU2ZsZnFXZTgxb0V4UUtHUklFdVpZZ3pUeFcwU0ZxS0NmLW03eXc?oc=5",
+    "published_at": "2026-11-11T21:21:11+00:00",
+    "first_seen_at": "2026-11-12T00:05:42+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "O Manchester United estabelece contacto formal com a Federação de Futebol dos Estados Unidos sobre Mauricio Pochettino - The Athletic",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T00:05:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "9ac6262a88b6dc820008",
@@ -285,6 +312,27 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "499721c2192f6b88cce5",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Rashford Injury Update and Return Date: Hip Problem, No Date From Man Utd",
+    "summary": "Rashford Injury Update and Return Date: Hip Problem, No Date From Man Utd The False 9",
+    "publisher": "The False 9",
+    "publisher_url": "https://thefalse9.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KRG1HNG55YlZOYTR5N0pNN25lRVN6Zm1BQXY2U1VXdzFTYmtwZ2xaU0xJZm11YU5NN3RteG1zNmVZTmprMllqbVFmSTZvM1Z4V0c2OG1LMHpzVVZieGk0ZFA4cFpxdU56cU5zcG9naWhyNHJweDFCdmZSbw?oc=5",
+    "published_at": "2026-11-11T19:29:42+00:00",
+    "first_seen_at": "2026-11-12T00:05:42+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "Atualização sobre a lesão de Rashford e data de regresso: problema na anca, sem data do Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T00:05:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
     "id": "00d8d1906d0e01fcc4c9",
     "sport": "futebol",
     "section": "manchester-united",
@@ -299,9 +347,11 @@
     "first_seen_at": "2026-11-11T21:53:46+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Pep Guardiola deverá ser um dos principais alvos da seleção dos Estados Unidos se o Manchester United contratar Pochettino – The Athletic",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T00:05:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "ef131627c71a681c5432",
@@ -318,9 +368,11 @@
     "first_seen_at": "2026-11-11T21:53:46+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Quanto gastou o Manchester United na substituição de treinadores desde a saída de Sir Alex Ferguson?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T00:05:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "d56f162cee31667117c2",
@@ -451,9 +503,11 @@
     "first_seen_at": "2026-11-11T18:17:15+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Barcelona prestes a disputar Rayan Ait-Nouri com o Manchester United - Notícias de transferências europeias",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T00:05:42+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "f2d1926bf2b73d617ce1",
