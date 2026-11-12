@@ -1,5 +1,43 @@
 [
   {
+    "id": "0f39e1387499d6c8b8bc",
+    "sport": "andebol",
+    "section": "selecao-portuguesa",
+    "title": "Jogo 1750 - GONDOMAR CULTURAL x CDC S. PAIO OLEIROS",
+    "summary": "Jogo 1750 - GONDOMAR CULTURAL x CDC S. PAIO OLEIROS Federação de Andebol de Portugal",
+    "publisher": "Federação de Andebol de Portugal",
+    "publisher_url": "https://portal.fpa.pt",
+    "source": "FPA · Seleção portuguesa",
+    "source_id": "selecao-pt-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aU2tiTjN1bUJ4UGhzWVRBZnNZcTA5cnVyUHNmdDE2NFczZV9idlR6RE5JZXppR3dtZy1xSXZ2Mk1oRmYxTkJUNg?oc=5",
+    "published_at": "2026-11-12T00:31:38+00:00",
+    "first_seen_at": "2026-11-12T03:12:43+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "6cca0bb5c8ef3bbdf792",
+    "sport": "andebol",
+    "section": "selecao-portuguesa",
+    "title": "Jogo 1752 - CCR ALTO MOINHO x ALMADA AC",
+    "summary": "Jogo 1752 - CCR ALTO MOINHO x ALMADA AC Federação de Andebol de Portugal",
+    "publisher": "Federação de Andebol de Portugal",
+    "publisher_url": "https://portal.fpa.pt",
+    "source": "FPA · Seleção portuguesa",
+    "source_id": "selecao-pt-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90MWxEQTNCMjlQODlBYjJZY0FrdHNwa3M0MEk0MENfdWdIbzI3VXhQLVhQQ2ltVExXdHgtdWZSZUZ2N1Y0Z2RNTzln?oc=5",
+    "published_at": "2026-11-12T00:31:37+00:00",
+    "first_seen_at": "2026-11-12T03:12:43+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "959568aa76e6594441c2",
     "sport": "futebol",
     "section": "manchester-united",
@@ -825,9 +863,32 @@
     "first_seen_at": "2026-11-11T17:22:47+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Football Daily | Mauricio Pochettino prepara o seu equipamento de selva para mais uma grande aventura",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T03:12:43+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
+  },
+  {
+    "id": "3459ed38324514813514",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "How to watch and follow United v Leeds",
+    "summary": "How to watch and follow United v Leeds Manchester United",
+    "publisher": "Manchester United",
+    "publisher_url": "https://www.manutd.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnZHUHRZd0MxdGRlMzRYYVd4SWp5UWJIQTNmSHU4dmdrNXE5ZmVlOXY1QmxmYUMxZEs3UU10Uy1URzhuOE10ZlNUQ3k3aDJvWmNLRVg2Wi1PMTRqZlg0NTVMbk9ZU3loelh4U2xMRThveW5zVW9PVFVXTTBpR1FZUndpcWJmSjIwYWxjTC0wdGJyOGVFdldj?oc=5",
+    "published_at": "2026-11-11T14:17:14+00:00",
+    "first_seen_at": "2026-11-12T03:12:43+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "Como assistir e acompanhar o jogo United-Leeds",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T03:12:43+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "076199e10cab87ab1ae1",
@@ -844,9 +905,11 @@
     "first_seen_at": "2026-11-11T17:22:47+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Porque é que Pochettino é o favorito para substituir Carrick no Manchester United?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T03:12:43+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "31f29debcd03f162cce4",
@@ -863,9 +926,11 @@
     "first_seen_at": "2026-11-11T17:22:47+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Os primeiros jogadores que Pochettino poderia contratar como treinador do Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T03:12:43+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "93278eb564d3b847f9ee",
@@ -882,9 +947,11 @@
     "first_seen_at": "2026-11-11T15:12:53+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Últimas notícias do Manchester United: CINCO coisas que Mauricio Pochettino terá de resolver em Old Trafford",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T03:12:43+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "2c78174fc97d9d89c4cc",
@@ -939,9 +1006,11 @@
     "first_seen_at": "2026-11-11T13:40:10+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Mauricio Pochettino: Manchester United chega a acordo com o potencial sucessor de Michael Carrick",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T03:12:43+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "a8cdc68719555c69ed86",
@@ -977,9 +1046,11 @@
     "first_seen_at": "2026-11-11T15:12:53+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Treinador do Manchester United: a nomeação de Mauricio Pochettino estava em preparação há uma década",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T03:12:43+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "d1978a0535e6e05fe790",
@@ -996,9 +1067,11 @@
     "first_seen_at": "2026-11-11T16:15:44+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Treinador do Manchester United: o longo namoro de uma década com Mauricio Pochettino - mas Michael Carrick merece melhor",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T03:12:43+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "73f9f3fe75f884ae6343",
@@ -2426,6 +2499,25 @@
     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQODU0ZWJReEJFVVI1N2w1SUpIeTRFNnFVOVFwd1JBY0dZZ3FpWmZQa1NoVGhQRkxNZC1lZVYzWGNRdW45RmlwWGg5Y2VHX1NzUThhYzhtSDR3bG9JVVZGUjhHdU50c2dRWlBRNWRXcnlTdU9tZnNSOHVpWFFhNUJWbXd6ckFFMGxxZzNya0puNkYtdFFuc0o2OTI2T1ZUNV9LV3JnRGdaMHR6d1JlczB5VkN2QVQ3STNWeG9DaGNnS0g3d1N5MGRwY09QT0R4NWJSOWlaNVRudmthSWhNSlpiMl81d1FVeEt5VE1Gd0xWdlRMbnFmTGpB?oc=5",
     "published_at": "2026-11-10T19:31:00+00:00",
     "first_seen_at": "2026-11-10T21:08:05+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "3345f93bfb3c4033c5ef",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "Cimeira de presidentes da Liga pugna por maior transparência na arbitragem",
+    "summary": "Cimeira de presidentes da Liga pugna por maior transparência na arbitragem Público",
+    "publisher": "Público",
+    "publisher_url": "https://www.publico.pt",
+    "source": "Primeira Liga · imprensa",
+    "source_id": "liga-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekVQUTZMNTVuTWpQQnBoaTB5ZnNsVDlITEVZeGVHNWlaTHBETkx2QnU0TjFENGliLVJaODhfVjVHUGozWV9Bb2ZNUHJKWVlYYnRiWVlJaEVPdnJHLVRuTzVzQXREejd0OWtBN2JMOG1lUGVVRHdGeXZpX2dvRGJvOThSQzFtb0lWMHpwcmhqa1FSZTRrTWJlQk5PTC0taktWaDFhRmphN18tR3NFa1lZdDF1Ym94ODRuME9ySQ?oc=5",
+    "published_at": "2026-11-10T18:48:43+00:00",
+    "first_seen_at": "2026-11-12T03:12:43+00:00",
     "official": false,
     "language": "pt",
     "translated_title": "",
@@ -4264,6 +4356,25 @@
     "last_translation_attempt_at": "2026-11-10T04:16:19+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "33db5c9bcf5eb15da7b2",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Nani ajuda Manchester United a eliminar Southampton",
+    "summary": "Nani ajuda Manchester United a eliminar Southampton RTP",
+    "publisher": "RTP",
+    "publisher_url": "https://www.rtp.pt",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbHY4Y1lBU05yakVneFRNZGRUaXREc0hRU19Pel9RZGpCaF92OWdOeV84OWdxbmpMVlBucVk0R0RNVkNtRnlUNkY4Vlo1TDByaDdJSU5KWWJTQm9yMmFLRms2UXFTZ0ZxQnpuN1AzX0ZnenY2LVNfb1p3MHBtVE1GME1xSjEzbXMwcHJMbWxxYWpKbEd3OXlsOG5FcjN3a2UxUjZTMjNhelNuLWFPaEE?oc=5",
+    "published_at": "2026-11-09T21:51:10+00:00",
+    "first_seen_at": "2026-11-12T03:12:43+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "dc292d9a6f6a931a1297",
