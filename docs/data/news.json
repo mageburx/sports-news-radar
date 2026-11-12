@@ -1,5 +1,24 @@
 [
   {
+    "id": "959568aa76e6594441c2",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Guardiola é cotado nos EUA se United pagar multa astronômica de Pochettino; entenda o caso",
+    "summary": "Guardiola é cotado nos EUA se United pagar multa astronômica de Pochettino; entenda o caso Estadão",
+    "publisher": "Estadão",
+    "publisher_url": "https://www.estadao.com.br",
+    "source": "Manchester United · Portugal",
+    "source_id": "mu-pt",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNFZqNnIwQllKSWg0RnFwdV9waUVXTTM4eUxwUUFLSEYzM1d3blZlUUFfRmxQRDNQd2tJMlY2ZWloLXA3S3dtYnNUWmhQc2JhdXNDMTEyUEdnbjB0M2prbnpXakZ3dTlGWEhQMVpVU0dKZkZHYzBSS3lSOF9TNHhfQ0dJalVsaWhXU1VYb28wMFgzWkxlYzFhb20tOTA2Sy0tVlUyT05OMFZLQlJ4YXBzazhUT0tHQkJ0ZWtJV3BtY3BKbmp3TDBvWi13YUFIZmxu?oc=5",
+    "published_at": "2026-11-12T00:08:00+00:00",
+    "first_seen_at": "2026-11-12T01:40:06+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "5f462ad8962a353d2fff",
     "sport": "andebol",
     "section": "ihf",
@@ -543,9 +562,11 @@
     "first_seen_at": "2026-11-11T21:53:46+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Veja o documentário The Magic Moment no canal de YouTube da HOH!",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T01:40:06+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "6abd86014229c7bd31f8",
@@ -619,9 +640,11 @@
     "first_seen_at": "2026-11-11T21:53:46+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Notícias do Manchester United: ainda há muitas lacunas a preencher relativamente a Carrick e Pochettino",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T01:40:06+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "0fecf1eb95975237f5fe",
@@ -638,9 +661,11 @@
     "first_seen_at": "2026-11-11T21:53:46+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Todos os golos da WSL contra o Palace até agora",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T01:40:06+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "b78db2c6f117aece6dea",
@@ -657,9 +682,11 @@
     "first_seen_at": "2026-11-11T19:25:28+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Últimas notícias do Manchester United: Michael Carrick continua no comando, uma vez que a chegada de Mauricio Pochettino pode sofrer atrasos",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T01:40:06+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "86a914ea9fa6a90576ca",
@@ -695,9 +722,11 @@
     "first_seen_at": "2026-11-11T21:53:46+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Veja o documentário The Magic Moment no canal de YouTube da HOH!",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T01:40:06+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "d2656ba8c856d7b7b956",
@@ -714,9 +743,11 @@
     "first_seen_at": "2026-11-11T16:15:44+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Mauricio Pochettino: a abordagem do Manchester United ao antigo treinador do Tottenham e do Chelsea é posta em causa",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T01:40:06+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "50e5a139465344cd6209",
@@ -733,9 +764,11 @@
     "first_seen_at": "2026-11-11T16:15:44+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Dakar 2026: Análise do 3.º dia – Conhecidos os candidatos às medalhas com a conclusão dos quartos de final no Senegal",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T01:40:06+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "04ddc148edf0081ab318",
@@ -752,9 +785,11 @@
     "first_seen_at": "2026-11-11T16:15:44+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Harry Kane sobre Mauricio Pochettino no meio das ligações ao Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-12T01:40:06+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "fcc0403b5fca536e277f",
@@ -3758,6 +3793,25 @@
     "last_translation_attempt_at": "2026-11-10T10:16:07+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "c7e4f8293fbc9d1b3e26",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Man Utd set for 'transfer windfall' as Madrid target McTominay - Paper Round",
+    "summary": "Man Utd set for 'transfer windfall' as Madrid target McTominay - Paper Round TNT Sports",
+    "publisher": "TNT Sports",
+    "publisher_url": "https://www.tntsports.co.uk",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmlXUVdISXVIWmNvWTVPb1BaMDdYRENXZERabjg1YndHdzdLRVNHR0xWRGRPOTRDd0pPUmpZakZhQWtmY0hfNTVnSmxvTmtUYV9RdklRTDg1XzBFME1BV1hPelpidnFRTWJBV0o1TjdEdXVBaFg1YXlkLXZsNjlKXzVRU2lybkJvdTk4Y0JfSVNCdmlQakV0dlRaVTFBUklJVVdRNDVGX3BXUXZzZW51NnNicFRoemU4WVZnYkVQMDU4M2hLWjIyYzZyMkw1Zndia2UwTWNFWU45cm1abzFNTVFsVWFUMjFGNHc?oc=5",
+    "published_at": "2026-11-10T07:37:00+00:00",
+    "first_seen_at": "2026-11-12T01:40:06+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "a4bac535b21022cb67a9",
@@ -13871,6 +13925,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "1d2a79292d2fb74790d7",
+    "sport": "andebol",
+    "section": "ehf",
+    "title": "Handball: live coverage of Men's EHF EURO 2028 Qualifiers Round 1 THU",
+    "summary": "Handball: live coverage of Men's EHF EURO 2028 Qualifiers Round 1 THU EHF",
+    "publisher": "EHF",
+    "publisher_url": "https://www.eurohandball.com",
+    "source": "EHF · oficial",
+    "source_id": "ehf-oficial",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWt0eHJja2ZLZEhHMTZOVEk4N0VfbUROaC1VVUpPckl2dkRoU1FTdUY4UFI3Nks5VFhYc0tkc1RGV2REeHhOWk5td0l6dk52bnZNSE9pMGEtdy1DNGJ2RGI1UWFrb2NLVUtaV242UnJVU3NtNFBrRE1fNU92TklrNENHNFVxSE11d05ZYXlXRTl6czd3X2hLU3c2bFUzUTd2bUNacS1jNVF6bWhmNGc?oc=5",
+    "published_at": "2026-11-05T14:28:00+00:00",
+    "first_seen_at": "2026-11-12T01:40:06+00:00",
+    "official": true,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "b9fba8f63009404a17a2",
     "sport": "andebol",
     "section": "ihf",
@@ -13992,6 +14065,25 @@
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRmYza29td3d6cnc1WV9DYjNzdlNFR082ZEZ3OVI3TUJQU1M3LWlqR0FRMENZZlA3RjhrbzZ4VjhoLWtxZDlZWUdtZmlQSkxDUW16dGFoR3JDeHZxeHVTdlJQWHgtaFViLVVLUFMwampnSVYwMGlJUENTdEFfeElsOU55SHZaRTZ3Yll2ZVV2STZmdWNXYmE3aDlPU2xlQQ?oc=5",
     "published_at": "2026-11-05T12:25:39+00:00",
     "first_seen_at": "2026-11-08T15:27:30+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "d5a85f68765b3a62fb22",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "A última assistência de Ronaldo foi para Jorge Jesus",
+    "summary": "A última assistência de Ronaldo foi para Jorge Jesus Público",
+    "publisher": "Público",
+    "publisher_url": "https://www.publico.pt",
+    "source": "Primeira Liga · imprensa",
+    "source_id": "liga-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYlhMM1UxVHZlQjZxM0pjc2ZydGtaTVRhUzFESTJxenZ6a25LekxtZDZDLUNFLWR2MVFvX3Z3MkxOOTNDdTh3TjJWS2dOT3ZSbWFNd2t6d2tYOGVEYVo0R3ktT0VCdEtkRmFOWmVqdzZiblA1ZXp4N1dzOWJUSlQtN0xxSVhhWFVQbzJBMTA5Xzk5Vm1UVGNpWF83cHVQVFVjcExFNGtJclJtVVhhZWJN?oc=5",
+    "published_at": "2026-11-05T12:25:39+00:00",
+    "first_seen_at": "2026-11-12T01:40:06+00:00",
     "official": false,
     "language": "pt",
     "translated_title": "",
@@ -17031,6 +17123,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "9969fde75f2d2fde45d6",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "united-v-roma",
+    "summary": "united-v-roma Manchester United",
+    "publisher": "Manchester United",
+    "publisher_url": "https://www.manutd.com",
+    "source": "Manchester United · oficial",
+    "source_id": "mu-oficial",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FSUpleUV0WktTWnVOS1Q0RFlDbGJKcG5qOEN4UDJRTGNlQy15bF9LUzVXbExyamRfOHduODdna0t6WkFEX2JSSGQ1UFplczZtbE9Ca2czcVdVSzRLSm5iTXBfRVJONzl2SEp0SVJ2QQ?oc=5",
+    "published_at": "2026-11-02T15:02:54+00:00",
+    "first_seen_at": "2026-11-12T01:40:06+00:00",
+    "official": true,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "129dc221eb09f515f6c1",
     "sport": "futebol",
     "section": "manchester-united",
@@ -18141,6 +18252,25 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVEpqQXdsbGtIVVBFWHN5UHMya0JDbTh5NTFUVGl4b0dKbnFsNnc5Z2ZaQUlqZnZXVmpNWWV5TFNnOFBEN0tPalVKRXdWdlh0aWdqWGs0UGREWWZPUXNwY0VvcEJzWmlPMndUMS1mUm0yTTlZNlJ5aWpUT2piVHVRXzhUb3lmbndRQXdpRC16TGg?oc=5",
     "published_at": "2026-10-29T13:05:36+00:00",
     "first_seen_at": "2026-11-08T15:29:16+00:00",
+    "official": true,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "b4a0d9cdb59c9bb82321",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Mainoo returns to training at Carrington",
+    "summary": "Mainoo returns to training at Carrington Manchester United",
+    "publisher": "Manchester United",
+    "publisher_url": "https://www.manutd.com",
+    "source": "Manchester United · oficial",
+    "source_id": "mu-oficial",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcDJmUlJVeUNtcWR0NHl4NlZXTktBVmlLZmNLcUp2RTcyY3hYcVJ5MWdWRnU5MWk1T2p1dXhvRkdoSVJGdzRoNG5sVnBiWHNDS3Z0U0F4Tk1XNkZLQ2hyM01sNDUydmxnWUlfamFOa1Q5dkNhQ1RCdU5YRE9nZEVlSVRsaHN6QTgyNVhCTw?oc=5",
+    "published_at": "2026-10-29T12:18:26+00:00",
+    "first_seen_at": "2026-11-12T01:40:06+00:00",
     "official": true,
     "language": "en",
     "translated_title": "",
