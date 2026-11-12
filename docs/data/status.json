@@ -1,186 +1,166 @@
 {
-  "last_run": "2026-11-12T19:21:40+00:00",
+  "last_run": "2026-11-12T20:16:40+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
       "id": "mu-oficial",
       "name": "Manchester United · oficial",
       "section": "manchester-united",
-      "ok": true,
-      "count": 69,
-      "raw_count": 69,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Amanutd.com+%22Manchester+United%22+when%3A14d&hl="
     },
     {
       "id": "mu-imprensa",
       "name": "Manchester United · imprensa",
       "section": "manchester-united",
-      "ok": true,
-      "count": 70,
-      "raw_count": 70,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Manchester+United%22+%28football+OR+injury+OR+transfe"
     },
     {
       "id": "mu-pt",
       "name": "Manchester United · Portugal",
       "section": "manchester-united",
-      "ok": true,
-      "count": 69,
-      "raw_count": 69,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Manchester+United%22+futebol+when%3A7d&hl=pt-PT&gl=PT"
     },
     {
       "id": "liga-oficial",
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
-      "ok": true,
-      "count": 32,
-      "raw_count": 32,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aligaportugal.pt+%22Liga+Portugal+Betclic%22+when%"
     },
     {
       "id": "liga-imprensa",
       "name": "Primeira Liga · imprensa",
       "section": "primeira-liga",
-      "ok": true,
-      "count": 32,
-      "raw_count": 32,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Liga+Portugal+Betclic%22+OR+%22Primeira+Liga%22%29"
     },
     {
       "id": "superliga-oficial",
       "name": "3F Superliga · oficial",
       "section": "superliga-dinamarquesa",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 0,
-      "excluded": 0
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Asuperliga.dk+%22Superliga%22+when%3A30d&hl=da&gl="
     },
     {
       "id": "superliga-imprensa",
       "name": "3F Superliga · imprensa",
       "section": "superliga-dinamarquesa",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 0,
-      "excluded": 0
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%223F+Superliga%22+OR+%22Superligaen%22%29+%28Br%C3%B"
     },
     {
       "id": "andebol-pt-oficial",
       "name": "FPA · competições",
       "section": "campeonato-portugues",
-      "ok": true,
-      "count": 13,
-      "raw_count": 13,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aportal.fpa.pt+%28%22Campeonato+Placard%22+OR+%22C"
     },
     {
       "id": "andebol-pt-imprensa",
       "name": "Andebol português · imprensa",
       "section": "campeonato-portugues",
-      "ok": true,
-      "count": 10,
-      "raw_count": 10,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Campeonato+Placard%22+OR+%22Andebol+1%22%29+when%3"
     },
     {
       "id": "selecao-pt-oficial",
       "name": "FPA · Seleção portuguesa",
       "section": "selecao-portuguesa",
-      "ok": true,
-      "count": 31,
-      "raw_count": 31,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aportal.fpa.pt+%28%22Sele%C3%A7%C3%A3o+Nacional%22"
     },
     {
       "id": "selecao-pt-imprensa",
       "name": "Seleção portuguesa · imprensa",
       "section": "selecao-portuguesa",
-      "ok": true,
-      "count": 14,
-      "raw_count": 14,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22sele%C3%A7%C3%A3o+portuguesa%22+andebol+when%3A7d&hl="
     },
     {
       "id": "andebol-dk-oficial",
       "name": "Tophåndbold · oficial",
       "section": "campeonato-dinamarques",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 0,
-      "excluded": 0
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Atophaandbold.dk+%28Herreligaen+OR+Kvindeligaen+OR"
     },
     {
       "id": "andebol-dk-imprensa",
       "name": "Andebol dinamarquês · imprensa",
       "section": "campeonato-dinamarques",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 0,
-      "excluded": 0
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Betoro+Herreligaen%22+OR+%22Bambuni+Kvindeligaen%2"
     },
     {
       "id": "ehf-oficial",
       "name": "EHF · oficial",
       "section": "ehf",
-      "ok": true,
-      "count": 14,
-      "raw_count": 14,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aeurohandball.com%2Fen%2Fnews%2F+when%3A7d&hl=en-G"
     },
     {
       "id": "ehf-imprensa",
       "name": "EHF · imprensa",
       "section": "ehf",
-      "ok": true,
-      "count": 10,
-      "raw_count": 10,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22EHF+Champions+League%22+OR+%22EHF+European+League%"
     },
     {
       "id": "ihf-oficial",
       "name": "IHF · oficial",
       "section": "ihf",
-      "ok": true,
-      "count": 22,
-      "raw_count": 22,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aihf.info%2Fmedia-center%2Fnews+when%3A7d&hl=en-GB"
     },
     {
       "id": "ihf-imprensa",
       "name": "IHF · imprensa",
       "section": "ihf",
-      "ok": true,
-      "count": 11,
-      "raw_count": 11,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22IHF%22+handball+%28world+championship+OR+federation%2"
     },
     {
       "id": "dk-futebol-clubes",
       "name": "Superliga · clubes",
       "section": "superliga-dinamarquesa",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 0,
-      "excluded": 0
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28site%3Abold.dk+OR+site%3Asuperliga.dk+OR+site%3Acampo"
     },
     {
       "id": "dk-andebol-clubes",
       "name": "Andebol dinamarquês · clubes",
       "section": "campeonato-dinamarques",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 0,
-      "excluded": 0
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Aalborg+H%C3%A5ndbold%22+OR+%22GOG+H%C3%A5ndbold%2"
     },
     {
       "id": "dk-andebol-noticias",
       "name": "Håndbold · notícias dinamarquesas",
       "section": "campeonato-dinamarques",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 0,
-      "excluded": 0
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28site%3Asport.tv2.dk+OR+site%3Atophaandbold.dk%29+%28H"
     },
     {
       "id": "superliga-web",
@@ -202,9 +182,9 @@
     }
   ],
   "sources_total": 22,
-  "sources_ok": 22,
+  "sources_ok": 2,
   "articles_total": 1116,
-  "added": 12,
+  "added": 0,
   "translation_budget": {
     "date": "2026-11-12",
     "characters": 4195
