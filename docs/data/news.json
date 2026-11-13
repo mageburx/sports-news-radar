@@ -1,5 +1,24 @@
 [
   {
+    "id": "bc4ffeec4d8941a9c4e1",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Mauricio Pochettino: What can Manchester United fans expect from new boss?",
+    "summary": "Mauricio Pochettino: What can Manchester United fans expect from new boss? BBC",
+    "publisher": "BBC",
+    "publisher_url": "https://www.bbc.co.uk",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zc0libDZ4RFNRb3dBWmxHcTFBalRNUldnRjAzUG15T3FIYkMyYlNLdHZzMVpBNHBkUVBLMEdaenBETEFGRi1YSDc3R0o5SV9fYzFNU0R2VDdFMGYtMmozZHN2WDVFVEV0ZDBJ?oc=5",
+    "published_at": "2026-11-13T22:53:17+00:00",
+    "first_seen_at": "2026-11-13T23:56:52+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "9163553cc39cd5fd7370",
     "sport": "andebol",
     "section": "selecao-portuguesa",
@@ -6767,6 +6786,25 @@
     "last_translation_attempt_at": "2026-11-12T03:12:43+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "cd270626accb61110881",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+    "summary": "Pochettino a decade in Man Utd's making - but Carrick deserves better BBC",
+    "publisher": "BBC",
+    "publisher_url": "https://www.bbc.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TUFfQmg0Nkc2aC1qMVhqakxlM25VUGs3SGdNQlk5UkUwV2NhbzdPcU1ycWNRVWVXNmhpLTNaUjlWY1lEQTNFUGNuRVRVTUJqcmxITEtnM25EQmNob3RqSkdkeGktLTkz?oc=5",
+    "published_at": "2026-11-11T12:58:17+00:00",
+    "first_seen_at": "2026-11-13T23:56:52+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "73f9f3fe75f884ae6343",
