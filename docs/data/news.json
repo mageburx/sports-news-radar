@@ -38,6 +38,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "ff4585653f2ab8ef607e",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Tearful Pochettino says Manchester United job was ‘difficult to turn down’ in USMNT farewell",
+    "summary": "Tearful Pochettino says Manchester United job was ‘difficult to turn down’ in USMNT farewell The Guardian",
+    "publisher": "The Guardian",
+    "publisher_url": "https://www.theguardian.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWtaZnAydFZ5UUV0WWRtZHFzaEthc2hSc3RHTE5UQThOLUw3YjJRVDFiSUhxMUpXUm1FQTRLUUhTdWF3U0xaYy15LURrNUFBRjRackpSOFEtZU1JV3NyeHFiWm9USTZNbWFLWC1aYWxDT3FWV0prMy13YXhRc2lWNnBSMXJSeUJQc3kxQlhiNXpheXVLd2JF?oc=5",
+    "published_at": "2026-11-13T16:55:00+00:00",
+    "first_seen_at": "2026-11-13T18:09:54+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "b37138f29201adee94f8",
     "sport": "andebol",
     "section": "selecao-portuguesa",
@@ -7924,6 +7943,25 @@
     "last_translation_attempt_at": "2026-11-11T01:28:56+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "f7cdf7455242ac63c2f2",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Maya: To play 150 times for United is a dream",
+    "summary": "Maya: To play 150 times for United is a dream Manchester United",
+    "publisher": "Manchester United",
+    "publisher_url": "https://www.manutd.com",
+    "source": "Manchester United · oficial",
+    "source_id": "mu-oficial",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaWp6Z0NqVm00U0Z3Ukc3SHAxRk9ZWkRUS1padmlVWEs5SXRmcjVyOW5XOHhKVkpnbnhIUHl4OHZQSUJqRDN3c3JuWjZRVUc1NW1MS0NTc2gwTFVHdzB2VjB0SnNLSG9DTnVROEc0czFzcWdLZW9lVzhZZUpHeTJUWg?oc=5",
+    "published_at": "2026-11-10T18:04:30+00:00",
+    "first_seen_at": "2026-11-13T18:09:54+00:00",
+    "official": true,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "110e3541fdd916e7f435",
