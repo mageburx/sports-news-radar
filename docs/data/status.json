@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-13T19:21:52+00:00",
+  "last_run": "2026-11-13T20:19:25+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -34,8 +34,8 @@
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
       "ok": true,
-      "count": 32,
-      "raw_count": 32,
+      "count": 33,
+      "raw_count": 33,
       "excluded": 0
     },
     {
@@ -43,8 +43,8 @@
       "name": "Primeira Liga · imprensa",
       "section": "primeira-liga",
       "ok": true,
-      "count": 30,
-      "raw_count": 30,
+      "count": 29,
+      "raw_count": 29,
       "excluded": 0
     },
     {
@@ -79,8 +79,8 @@
       "name": "Andebol português · imprensa",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 12,
-      "raw_count": 12,
+      "count": 11,
+      "raw_count": 11,
       "excluded": 0
     },
     {
@@ -88,8 +88,8 @@
       "name": "FPA · Seleção portuguesa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 33,
-      "raw_count": 33,
+      "count": 29,
+      "raw_count": 29,
       "excluded": 0
     },
     {
@@ -97,8 +97,8 @@
       "name": "Seleção portuguesa · imprensa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 9,
-      "raw_count": 9,
+      "count": 10,
+      "raw_count": 10,
       "excluded": 0
     },
     {
@@ -203,8 +203,8 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 1290,
-  "added": 9,
+  "articles_total": 1312,
+  "added": 22,
   "translation_budget": {
     "date": "2026-11-13",
     "characters": 4197
