@@ -910,6 +910,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "afa03050c85f22939f6e",
+    "sport": "andebol",
+    "section": "selecao-portuguesa",
+    "title": "Bernardo Fontes já trata do passaporte: «Seria um orgulho representar Portugal»",
+    "summary": "Bernardo Fontes já trata do passaporte: «Seria um orgulho representar Portugal» https://revista.tempo.co.mz/",
+    "publisher": "https://revista.tempo.co.mz/",
+    "publisher_url": "https://revista.tempo.co.mz",
+    "source": "Seleção portuguesa · imprensa",
+    "source_id": "selecao-pt-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT1MtdzczRndOSmxfeXNQQXpGZV80TDJDd2p3bGNaUUJndnczRFRxb2FnR2FuQkxqeWtiU00xZk9fbzI0Tnkwb0l4dkNncUJVRzM4X25LUnpOZnYwYkhKU0FUdWxiUmo0R1VCLVVob3dyNVlOTDFDTUhtOE9sUEVxeGszWmdJQy1ZejlfVXNEMEVmQ21HZlhvZGl6aDBncWRaVTczMmZITQ?oc=5",
+    "published_at": "2026-11-12T16:30:29+00:00",
+    "first_seen_at": "2026-11-13T05:26:17+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "661b42f88ed318d116c1",
     "sport": "futebol",
     "section": "manchester-united",
@@ -1617,9 +1636,11 @@
     "first_seen_at": "2026-11-12T12:15:53+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Michael Carrick foi apenas o mais recente bode expiatório da hierarquia disfuncional do Manchester United.",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-13T05:26:17+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "09c52d178c301c2a372c",
@@ -1655,9 +1676,11 @@
     "first_seen_at": "2026-11-13T00:02:03+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O momento em que Michael Carrick é despedido pelo Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-13T05:26:17+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "e47f87330b13e9760d7c",
@@ -1693,9 +1716,11 @@
     "first_seen_at": "2026-11-12T12:15:53+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O Manchester United separa-se de Michael Carrick",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-13T05:26:17+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "ebaa48f2e8bcc94ba4f2",
@@ -1712,9 +1737,11 @@
     "first_seen_at": "2026-11-12T15:19:26+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O Manchester United separa-se de Michael Carrick - The Athletic",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-13T05:26:17+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "7b38649c380921e87ce9",
@@ -1807,9 +1834,11 @@
     "first_seen_at": "2026-11-12T12:15:53+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Últimas notícias sobre o treinador do Manchester United: Mauricio Pochettino é o homem certo para substituir Michael Carrick?",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-13T05:26:17+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "1bd7a4b564633d186790",
@@ -1902,9 +1931,11 @@
     "first_seen_at": "2026-11-12T12:15:53+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O Manchester United demite Michael Carrick, estando Mauricio Pochettino prestes a ser nomeado após o pior início de temporada da Premier League.",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-13T05:26:17+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "c99175992d7032c62742",
@@ -1921,9 +1952,11 @@
     "first_seen_at": "2026-11-12T12:15:53+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Michael Carrick demitido pelo Manchester United, com Pochettino pronto para assumir o comando",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-13T05:26:17+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "ee6c0899a55c1b435775",
@@ -1940,9 +1973,11 @@
     "first_seen_at": "2026-11-12T23:05:52+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Michael Carrick despedido pelo Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-13T05:26:17+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "22aec1c305e679824ed8",
@@ -9676,7 +9711,7 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KbWdjVUlVczdrbExjWm1TLVBPZ0M2SW43UlF3ZVZZS0tmQzA2ZjdLYkpIOUd1RGxZUFVwblZmdGJZZTJvWXh1RVRuNWRiT2h6RXZqX1lZTzZsRFRGTnVlY2pmUUphSGhha1ZxX3dVRlMtR0hYaGZhTWI2YzFUeEU?oc=5",
     "published_at": "2026-11-09T03:34:11+00:00",
     "first_seen_at": "2026-11-09T08:41:34+00:00",
-    "official": false,
+    "official": true,
     "language": "en",
     "translated_title": "Carrick revela que Rashford pegou um \"problema\"",
     "translation_status": "translated",
