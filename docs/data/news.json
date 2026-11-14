@@ -312,6 +312,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "f9968ed88683451a0e4f",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "Talento polaco a caminho da academia do FC Porto",
+    "summary": "Talento polaco a caminho da academia do FC Porto A Bola",
+    "publisher": "A Bola",
+    "publisher_url": "https://www.abola.pt",
+    "source": "Primeira Liga · imprensa",
+    "source_id": "liga-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUndObE9fbzlMeEZTdzVlSjVSWlVqcmR0NThOcmwwNVdnMWRsTFpDckNNaFZ5M0x0ZHpZSDFPZ2lwWXNKQjd5SV96WmpMTWhzYTZONEZhZldXeEM0dTVCWTVFX1Bla0ZuMWZseUFRSFVGQXlHRFRPWlN4bGtDOVM4ZGJNT0xDRnVCbHUwdC1weUNZa01FM2M3NWRyN1lDakk?oc=5",
+    "published_at": "2026-11-13T17:32:00+00:00",
+    "first_seen_at": "2026-11-14T07:29:54+00:00",
+    "official": false,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "e01294d649b8f66afa2a",
     "sport": "futebol",
     "section": "manchester-united",
@@ -1686,9 +1705,11 @@
     "first_seen_at": "2026-11-13T15:10:35+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Pochettino vai ser o treinador principal",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T07:29:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "9813f8855da164e2c1d5",
@@ -1705,9 +1726,11 @@
     "first_seen_at": "2026-11-13T13:35:33+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Mauricio Pochettino nomeado treinador principal do Manchester United após o despedimento de Michael Carrick de Old Trafford",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T07:29:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "37ec63b45f61e53ad1f7",
@@ -1743,9 +1766,11 @@
     "first_seen_at": "2026-11-13T13:35:33+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Confirmada a mudança de Mauricio Pochettino dos EUA para o Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T07:29:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "546c699cbb233aa900f1",
@@ -1838,9 +1863,11 @@
     "first_seen_at": "2026-11-13T12:14:31+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Bilhetes disponíveis para dois jogos da Premier League",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T07:29:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "fb572a75b2db444d7919",
@@ -1857,9 +1884,11 @@
     "first_seen_at": "2026-11-13T12:14:31+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "EHFCL: Tomáš Hlavatý sobre construir o futuro no Brest Bretagne Handball",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T07:29:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "bb16f899b14a62625d83",
@@ -1933,9 +1962,11 @@
     "first_seen_at": "2026-11-13T16:13:26+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Bilhetes disponíveis para Brentford e Coventry",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T07:29:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "48cad95d37b12c4a73eb",
@@ -1952,9 +1983,11 @@
     "first_seen_at": "2026-11-13T13:35:33+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "\"O United está destruído\": os leitores do Guardian reagem ao despedimento de Michael Carrick",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T07:29:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "821b76ea358a981586b9",
@@ -1971,9 +2004,11 @@
     "first_seen_at": "2026-11-13T12:14:31+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Internacionais dos Reds: uma assistência para Mbeumo",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T07:29:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "14e072a979ee0d648148",
@@ -16972,6 +17007,25 @@
     "first_seen_at": "2026-11-12T16:26:53+00:00",
     "official": false,
     "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "6d9af2e94fc7c56747ee",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Manchester United vs Aston Villa Match Preview & Report | 2026/2027",
+    "summary": "Manchester United vs Aston Villa Match Preview & Report | 2026/2027 Premier League",
+    "publisher": "Premier League",
+    "publisher_url": "https://www.premierleague.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzA5SXdwWUZReWpsa2VFOHF2RFBmNjVrb1VlM1kzR0ZTZV9abFBrUWNYMmFYcTFCYTF4cXFQeWM4bjdEMEFXdzQ0XzVVcnMtVUY3UU9DdVBLV3RjbjlsMXIyWGN1dU5JM0VZcEU3X1lZUjJIOWxLaXBsTC1jUEJZbkpKRU5pYnVna0YzYWthR012dw?oc=5",
+    "published_at": "2026-11-08T08:00:00+00:00",
+    "first_seen_at": "2026-11-14T07:29:54+00:00",
+    "official": false,
+    "language": "en",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
