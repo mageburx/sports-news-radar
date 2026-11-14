@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-14T11:03:52+00:00",
+  "last_run": "2026-11-14T11:58:41+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -34,8 +34,8 @@
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
       "ok": true,
-      "count": 29,
-      "raw_count": 29,
+      "count": 28,
+      "raw_count": 28,
       "excluded": 0
     },
     {
@@ -97,8 +97,8 @@
       "name": "Seleção portuguesa · imprensa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 11,
-      "raw_count": 11,
+      "count": 10,
+      "raw_count": 10,
       "excluded": 0
     },
     {
@@ -203,8 +203,8 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 1378,
-  "added": 9,
+  "articles_total": 1381,
+  "added": 3,
   "translation_budget": {
     "date": "2026-11-14",
     "characters": 4191
@@ -229,7 +229,7 @@
       }
     ]
   },
-  "translations_this_run": 2,
+  "translations_this_run": 0,
   "translations_failed_this_run": 0,
   "danish_english_translated": 23,
   "danish_english_pending": 1
