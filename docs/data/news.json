@@ -38,6 +38,44 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "99421ae6d80b49a6f4d4",
+    "sport": "andebol",
+    "section": "selecao-portuguesa",
+    "title": "Jogo 1734 - AC VERMOIM /CREDIVERSOS x CSC CANEDO",
+    "summary": "Jogo 1734 - AC VERMOIM /CREDIVERSOS x CSC CANEDO Federação de Andebol de Portugal",
+    "publisher": "Federação de Andebol de Portugal",
+    "publisher_url": "https://portal.fpa.pt",
+    "source": "FPA · Seleção portuguesa",
+    "source_id": "selecao-pt-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Zazc2RHBoUWtydmt5M011SWh1SzkxZmpTV0NWX3ByNG5YaFZXOTRyWGpkOG5YcGg4VFlyRm8xSF8xVXo1QUZBaA?oc=5",
+    "published_at": "2026-11-14T00:27:05+00:00",
+    "first_seen_at": "2026-11-14T03:11:54+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "18d789e7b2d08abbe73e",
+    "sport": "andebol",
+    "section": "selecao-portuguesa",
+    "title": "Jogo 1740 - Venc. jogo 1601 x CD FEIRENSE /Movit",
+    "summary": "Jogo 1740 - Venc. jogo 1601 x CD FEIRENSE /Movit Federação de Andebol de Portugal",
+    "publisher": "Federação de Andebol de Portugal",
+    "publisher_url": "https://portal.fpa.pt",
+    "source": "FPA · Seleção portuguesa",
+    "source_id": "selecao-pt-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90TzVjY1l1cjZRaFdkTVZEMkF4VVl3U0NpWHp6NmROdkpBYmdVSFFiYllVaC1CMEEyQjVzZEh3UnBRV3dBdlh6Ukdn?oc=5",
+    "published_at": "2026-11-14T00:27:05+00:00",
+    "first_seen_at": "2026-11-14T03:11:54+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "66ab664f4309f60b68b3",
     "sport": "andebol",
     "section": "campeonato-portugues",
@@ -330,9 +368,11 @@
     "first_seen_at": "2026-11-13T18:09:54+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Pochettino, em lágrimas, diz que o cargo no Manchester United era \"difícil de recusar\" na despedida da seleção dos Estados Unidos",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T03:11:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "87d9bfcd0defc06943a7",
@@ -349,9 +389,11 @@
     "first_seen_at": "2026-11-13T20:19:25+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O turbilhão do Chelsea de Pochettino é o melhor parâmetro para o que se avizinha no United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T03:11:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "d6522d1a9e762fd464d1",
@@ -368,9 +410,11 @@
     "first_seen_at": "2026-11-14T01:29:24+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Pré-época: o nosso guia jogo a jogo",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T03:11:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "d78bd278b912dfb3ebf7",
@@ -387,9 +431,11 @@
     "first_seen_at": "2026-11-13T19:21:52+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Pochettino: É difícil recusar o United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T03:11:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "0aaa0a7e8b6c4e6e4f20",
@@ -406,9 +452,11 @@
     "first_seen_at": "2026-11-14T01:29:24+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "A dupla dos Reds brilha na vitória de Portugal",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T03:11:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "f9849c2616dadc40593c",
@@ -425,9 +473,11 @@
     "first_seen_at": "2026-11-13T19:21:52+00:00",
     "official": true,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "O que Eva espera do Palace",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T03:11:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "b37138f29201adee94f8",
@@ -482,9 +532,11 @@
     "first_seen_at": "2026-11-13T16:13:26+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Mauricio Pochettino desata a chorar durante conferência de imprensa",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T03:11:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "812a325dc7327cf6e445",
@@ -501,9 +553,11 @@
     "first_seen_at": "2026-11-13T16:13:26+00:00",
     "official": false,
     "language": "en",
-    "translated_title": "",
-    "translation_status": "original",
-    "last_translation_attempt_at": ""
+    "translated_title": "Mauricio Pochettino em lágrimas por causa da decisão \"difícil\" de deixar os Estados Unidos para ir para o Manchester United",
+    "translation_status": "translated",
+    "last_translation_attempt_at": "2026-11-14T03:11:54+00:00",
+    "translated_lang": "pt",
+    "translated_summary": ""
   },
   {
     "id": "0377e28b40045b61257f",
@@ -1893,6 +1947,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "cc27cad6c0f8033b97f4",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Man Utd tracking Como star Nico Paz but Real Madrid have £67m buy-back clause",
+    "summary": "Man Utd tracking Como star Nico Paz but Real Madrid have £67m buy-back clause The Sun",
+    "publisher": "The Sun",
+    "publisher_url": "https://www.thesun.co.uk",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nd2xvOVBMTFFQT01pYVZ4QXdBc1UtUkJjTnNGLUJmTHpkRkdxREc0ZEhydlpwWUhWcHJhZnpFVVZYZFBVdkt3WUVhczdFQXFINkpVTTIyNlp2NEswNHpKTGRxbURhMjZRSFcxeVhSaldQdmI0UWROOTZ5ZlZadw?oc=5",
+    "published_at": "2026-11-13T10:24:00+00:00",
+    "first_seen_at": "2026-11-14T03:11:54+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "3385ffa733408e95ea2b",
     "sport": "futebol",
     "section": "manchester-united",
@@ -1926,6 +1999,25 @@
     "first_seen_at": "2026-11-13T12:14:31+00:00",
     "official": true,
     "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "2e47986f34e42ee3bc38",
+    "sport": "andebol",
+    "section": "campeonato-portugues",
+    "title": "Contar com 'factor casa' em busca da primeira vitória",
+    "summary": "Contar com 'factor casa' em busca da primeira vitória HóqueiPT",
+    "publisher": "HóqueiPT",
+    "publisher_url": "https://hoqueipt.com",
+    "source": "Andebol português · imprensa",
+    "source_id": "andebol-pt-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0NqcVZiMlA5Sm54Wkw2UG9CeS1BTldsbkJDOTE4bXJvQnRkckJ0V2hEZlRVZkhDT2JUQUtlUlIwbVhMaHVVcnJKNVZ5a3BnSFI1dXpwQW54V29JMFBscXFVbHU2Uy1kYWlCcE4tbGhCTnVhcDRyQW0xSHIwUGRMdkEza2I?oc=5",
+    "published_at": "2026-11-13T10:02:29+00:00",
+    "first_seen_at": "2026-11-14T03:11:54+00:00",
+    "official": false,
+    "language": "pt",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
@@ -2082,6 +2174,25 @@
     "first_seen_at": "2026-11-13T19:21:52+00:00",
     "official": true,
     "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
+    "id": "735461649dd0c5a27d35",
+    "sport": "andebol",
+    "section": "selecao-portuguesa",
+    "title": "Jogo 1756 - ACADÉMICO C FUNCHAL x LAGOA AC",
+    "summary": "Jogo 1756 - ACADÉMICO C FUNCHAL x LAGOA AC Federação de Andebol de Portugal",
+    "publisher": "Federação de Andebol de Portugal",
+    "publisher_url": "https://portal.fpa.pt",
+    "source": "FPA · Seleção portuguesa",
+    "source_id": "selecao-pt-oficial",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ad0hOTGZFVTVDaWdFVENXYnZRZzBnOHE5Q0xsZDFpank1MTF0NHBaMFpLcVo0VTFqM1A3cTVTVlVyc2szR0hONlVR?oc=5",
+    "published_at": "2026-11-13T08:28:08+00:00",
+    "first_seen_at": "2026-11-14T03:11:54+00:00",
+    "official": true,
+    "language": "pt",
     "translated_title": "",
     "translation_status": "original",
     "last_translation_attempt_at": ""
@@ -6590,6 +6701,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "9f74c93f8203dc57d24a",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "Redução de infrações acompanha crescimento no tempo útil de jogo",
+    "summary": "Redução de infrações acompanha crescimento no tempo útil de jogo Liga Portugal",
+    "publisher": "Liga Portugal",
+    "publisher_url": "https://www.ligaportugal.pt",
+    "source": "Liga Portugal · oficial",
+    "source_id": "liga-oficial",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQThKMTdERTFTREJKR200T28xMTBSX0FjTGtRZmhUbXZLd0huWkEwUVgybkJXSmJ3UzJmc2ZBa0lsR2tETTJHR0RWQm9wbjY5Z24ybFhuNTNZUGFSYUlQSWd5ZDZmRHNsbnJIMmJuT2dUdzNncTVOc2x1ai1taEl5MU0yMEU4MjNucFVPdFZfcXBBZnR5RkFnTU9aY25abTg0emE4SGNn?oc=5",
+    "published_at": "2026-11-11T15:55:33+00:00",
+    "first_seen_at": "2026-11-14T03:11:54+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "d2656ba8c856d7b7b956",
     "sport": "futebol",
     "section": "manchester-united",
@@ -6954,6 +7084,25 @@
     "last_translation_attempt_at": ""
   },
   {
+    "id": "2f0b7d813abeea379c50",
+    "sport": "futebol",
+    "section": "manchester-united",
+    "title": "Pochettino a decade in Man Utd's making - but Carrick deserved better",
+    "summary": "Pochettino a decade in Man Utd's making - but Carrick deserved better BBC",
+    "publisher": "BBC",
+    "publisher_url": "https://www.bbc.com",
+    "source": "Manchester United · imprensa",
+    "source_id": "mu-imprensa",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TUFfQmg0Nkc2aC1qMVhqakxlM25VUGs3SGdNQlk5UkUwV2NhbzdPcU1ycWNRVWVXNmhpLTNaUjlWY1lEQTNFUGNuRVRVTUJqcmxITEtnM25EQmNob3RqSkdkeGktLTkz?oc=5",
+    "published_at": "2026-11-11T12:58:17+00:00",
+    "first_seen_at": "2026-11-14T03:11:54+00:00",
+    "official": false,
+    "language": "en",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
+  },
+  {
     "id": "73f9f3fe75f884ae6343",
     "sport": "futebol",
     "section": "manchester-united",
@@ -7306,6 +7455,25 @@
     "last_translation_attempt_at": "2026-11-12T04:21:11+00:00",
     "translated_lang": "pt",
     "translated_summary": ""
+  },
+  {
+    "id": "0313aeb65a5b8d0fadf0",
+    "sport": "futebol",
+    "section": "primeira-liga",
+    "title": "Mattheus Oliveira é o Médio do Mês da Liga Portugal 2 Meu Super",
+    "summary": "Mattheus Oliveira é o Médio do Mês da Liga Portugal 2 Meu Super Liga Portugal",
+    "publisher": "Liga Portugal",
+    "publisher_url": "https://www.ligaportugal.pt",
+    "source": "Liga Portugal · oficial",
+    "source_id": "liga-oficial",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnBpQTFMcjl3RGVTUkpMTGpMaGtGSGI0YjdsQ3pLU0ZGYlhyM0wyYlFsVEx5WV9uYVJlNlVfRlpLY2NhWDJ2Z21ta2p3S0s3Y0g4SjZhSWhpRGhvY2N6dXZ2cGkwUF9tM19MSEtDaFFsdkdubklvNUJuaktMVzVIcE9HeTRUSUg5Q1hILXllX3BNcF9aRmVxN2cxRE16YmZxcVJiVA?oc=5",
+    "published_at": "2026-11-11T10:34:29+00:00",
+    "first_seen_at": "2026-11-14T03:11:54+00:00",
+    "official": true,
+    "language": "pt",
+    "translated_title": "",
+    "translation_status": "original",
+    "last_translation_attempt_at": ""
   },
   {
     "id": "19fe75e47a2b122df9c2",
