@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-14T09:10:19+00:00",
+  "last_run": "2026-11-14T10:08:53+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -34,8 +34,8 @@
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
       "ok": true,
-      "count": 27,
-      "raw_count": 27,
+      "count": 28,
+      "raw_count": 28,
       "excluded": 0
     },
     {
@@ -70,8 +70,8 @@
       "name": "FPA · competições",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 12,
-      "raw_count": 12,
+      "count": 11,
+      "raw_count": 11,
       "excluded": 0
     },
     {
@@ -133,8 +133,8 @@
       "name": "EHF · imprensa",
       "section": "ehf",
       "ok": true,
-      "count": 9,
-      "raw_count": 9,
+      "count": 8,
+      "raw_count": 8,
       "excluded": 0
     },
     {
@@ -203,11 +203,11 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 1359,
-  "added": 14,
+  "articles_total": 1369,
+  "added": 10,
   "translation_budget": {
     "date": "2026-11-14",
-    "characters": 3702
+    "characters": 4138
   },
   "nordic_filter": {
     "removed_from_archive": 0,
