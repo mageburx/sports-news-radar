@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-15T17:52:06+00:00",
+  "last_run": "2026-11-15T22:59:57+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -7,8 +7,8 @@
       "name": "Manchester United · oficial",
       "section": "manchester-united",
       "ok": true,
-      "count": 70,
-      "raw_count": 70,
+      "count": 68,
+      "raw_count": 68,
       "excluded": 0
     },
     {
@@ -25,8 +25,8 @@
       "name": "Manchester United · Portugal",
       "section": "manchester-united",
       "ok": true,
-      "count": 70,
-      "raw_count": 70,
+      "count": 58,
+      "raw_count": 58,
       "excluded": 0
     },
     {
@@ -34,8 +34,8 @@
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
       "ok": true,
-      "count": 31,
-      "raw_count": 31,
+      "count": 25,
+      "raw_count": 25,
       "excluded": 0
     },
     {
@@ -79,8 +79,8 @@
       "name": "Andebol português · imprensa",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 8,
-      "raw_count": 8,
+      "count": 9,
+      "raw_count": 9,
       "excluded": 0
     },
     {
@@ -97,8 +97,8 @@
       "name": "Seleção portuguesa · imprensa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 12,
-      "raw_count": 12,
+      "count": 8,
+      "raw_count": 8,
       "excluded": 0
     },
     {
@@ -133,8 +133,8 @@
       "name": "EHF · imprensa",
       "section": "ehf",
       "ok": true,
-      "count": 8,
-      "raw_count": 8,
+      "count": 7,
+      "raw_count": 7,
       "excluded": 0
     },
     {
@@ -142,8 +142,8 @@
       "name": "IHF · oficial",
       "section": "ihf",
       "ok": true,
-      "count": 22,
-      "raw_count": 22,
+      "count": 26,
+      "raw_count": 26,
       "excluded": 0
     },
     {
@@ -203,11 +203,11 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 1515,
-  "added": 24,
+  "articles_total": 1548,
+  "added": 33,
   "translation_budget": {
     "date": "2026-11-15",
-    "characters": 1570
+    "characters": 2144
   },
   "nordic_filter": {
     "removed_from_archive": 0,
