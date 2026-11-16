@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-16T11:47:29+00:00",
+  "last_run": "2026-11-16T22:22:47+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -25,8 +25,8 @@
       "name": "Manchester United · Portugal",
       "section": "manchester-united",
       "ok": true,
-      "count": 53,
-      "raw_count": 53,
+      "count": 49,
+      "raw_count": 49,
       "excluded": 0
     },
     {
@@ -34,53 +34,49 @@
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
       "ok": true,
-      "count": 18,
-      "raw_count": 18,
+      "count": 14,
+      "raw_count": 14,
       "excluded": 0
     },
     {
       "id": "liga-imprensa",
       "name": "Primeira Liga · imprensa",
       "section": "primeira-liga",
-      "ok": true,
-      "count": 32,
-      "raw_count": 32,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Liga+Portugal+Betclic%22+OR+%22Primeira+Liga%22%29+f"
     },
     {
       "id": "superliga-oficial",
       "name": "3F Superliga · oficial",
       "section": "superliga-dinamarquesa",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 0,
-      "excluded": 0
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:superliga.dk+%22Superliga%22+when:30d&hl=no&gl=NO&cei"
     },
     {
       "id": "superliga-imprensa",
       "name": "3F Superliga · imprensa",
       "section": "superliga-dinamarquesa",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 0,
-      "excluded": 0
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%223F+Superliga%22+OR+%22Superligaen%22%29+%28Br%C3%B8n"
     },
     {
       "id": "andebol-pt-oficial",
       "name": "FPA · competições",
       "section": "campeonato-portugues",
-      "ok": true,
-      "count": 11,
-      "raw_count": 11,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aportal.fpa.pt+%28%22Campeonato+Placard%22+OR+%22Cam"
     },
     {
       "id": "andebol-pt-imprensa",
       "name": "Andebol português · imprensa",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 8,
-      "raw_count": 8,
+      "count": 5,
+      "raw_count": 5,
       "excluded": 0
     },
     {
@@ -88,18 +84,17 @@
       "name": "FPA · Seleção portuguesa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 14,
-      "raw_count": 14,
+      "count": 30,
+      "raw_count": 30,
       "excluded": 0
     },
     {
       "id": "selecao-pt-imprensa",
       "name": "Seleção portuguesa · imprensa",
       "section": "selecao-portuguesa",
-      "ok": true,
-      "count": 7,
-      "raw_count": 7,
-      "excluded": 0
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22sele%C3%A7%C3%A3o+portuguesa%22+andebol+when%3A7d&hl=pt"
     },
     {
       "id": "andebol-dk-oficial",
@@ -133,8 +128,8 @@
       "name": "EHF · imprensa",
       "section": "ehf",
       "ok": true,
-      "count": 5,
-      "raw_count": 5,
+      "count": 7,
+      "raw_count": 7,
       "excluded": 0
     },
     {
@@ -142,8 +137,8 @@
       "name": "IHF · oficial",
       "section": "ihf",
       "ok": true,
-      "count": 24,
-      "raw_count": 24,
+      "count": 22,
+      "raw_count": 22,
       "excluded": 0
     },
     {
@@ -151,18 +146,17 @@
       "name": "IHF · imprensa",
       "section": "ihf",
       "ok": true,
-      "count": 12,
-      "raw_count": 12,
+      "count": 13,
+      "raw_count": 13,
       "excluded": 0
     },
     {
       "id": "dk-futebol-clubes",
       "name": "Superliga · clubes",
       "section": "superliga-dinamarquesa",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "raw_count": 1,
-      "excluded": 1
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28site%3Abold.dk+OR+site%3Asuperliga.dk+OR+site%3Acampo.d"
     },
     {
       "id": "dk-andebol-clubes",
@@ -196,33 +190,27 @@
       "name": "Tophåndbold · notícias oficiais",
       "section": "campeonato-dinamarques",
       "ok": true,
-      "count": 11,
-      "raw_count": 12,
+      "count": 12,
+      "raw_count": 13,
       "excluded": 1
     }
   ],
   "sources_total": 22,
-  "sources_ok": 22,
-  "articles_total": 1579,
-  "added": 18,
+  "sources_ok": 16,
+  "articles_total": 1623,
+  "added": 44,
   "translation_budget": {
     "date": "2026-11-16",
-    "characters": 1009
+    "characters": 1133
   },
   "nordic_filter": {
     "removed_from_archive": 0,
-    "excluded_on_fetch": 3,
+    "excluded_on_fetch": 2,
     "reasons": {
-      "sem_ligacao_a_liga": 1,
       "origem_norueguesa": 1,
       "outra_competicao": 1
     },
     "samples": [
-      {
-        "id": "29c051317964be75068b",
-        "reason": "sem_ligacao_a_liga",
-        "title": "Snak"
-      },
       {
         "id": "bf4d1eada70e74637807",
         "reason": "origem_norueguesa",
@@ -235,8 +223,8 @@
       }
     ]
   },
-  "translations_this_run": 8,
-  "translations_failed_this_run": 0,
+  "translations_this_run": 0,
+  "translations_failed_this_run": 2,
   "danish_english_translated": 24,
-  "danish_english_pending": 0
+  "danish_english_pending": 1
 }
