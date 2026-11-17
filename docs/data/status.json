@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-17T14:43:01+00:00",
+  "last_run": "2026-11-17T23:00:26+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -25,8 +25,8 @@
       "name": "Manchester United · Portugal",
       "section": "manchester-united",
       "ok": true,
-      "count": 48,
-      "raw_count": 48,
+      "count": 49,
+      "raw_count": 49,
       "excluded": 0
     },
     {
@@ -34,8 +34,8 @@
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
       "ok": true,
-      "count": 18,
-      "raw_count": 18,
+      "count": 19,
+      "raw_count": 19,
       "excluded": 0
     },
     {
@@ -88,8 +88,8 @@
       "name": "FPA · Seleção portuguesa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 28,
-      "raw_count": 28,
+      "count": 29,
+      "raw_count": 29,
       "excluded": 0
     },
     {
@@ -97,8 +97,8 @@
       "name": "Seleção portuguesa · imprensa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 7,
-      "raw_count": 7,
+      "count": 5,
+      "raw_count": 5,
       "excluded": 0
     },
     {
@@ -142,8 +142,8 @@
       "name": "IHF · oficial",
       "section": "ihf",
       "ok": true,
-      "count": 22,
-      "raw_count": 22,
+      "count": 24,
+      "raw_count": 24,
       "excluded": 0
     },
     {
@@ -203,11 +203,11 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 1697,
-  "added": 51,
+  "articles_total": 1736,
+  "added": 39,
   "translation_budget": {
     "date": "2026-11-17",
-    "characters": 1157
+    "characters": 1823
   },
   "nordic_filter": {
     "removed_from_archive": 0,
