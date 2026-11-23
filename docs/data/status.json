@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-23T03:50:11+00:00",
+  "last_run": "2026-11-23T14:59:53+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -25,8 +25,8 @@
       "name": "Manchester United · Portugal",
       "section": "manchester-united",
       "ok": true,
-      "count": 50,
-      "raw_count": 50,
+      "count": 47,
+      "raw_count": 47,
       "excluded": 0
     },
     {
@@ -34,8 +34,8 @@
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
       "ok": true,
-      "count": 2,
-      "raw_count": 2,
+      "count": 25,
+      "raw_count": 25,
       "excluded": 0
     },
     {
@@ -70,8 +70,8 @@
       "name": "FPA · competições",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 4,
-      "raw_count": 4,
+      "count": 3,
+      "raw_count": 3,
       "excluded": 0
     },
     {
@@ -79,8 +79,8 @@
       "name": "Andebol português · imprensa",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 11,
-      "raw_count": 11,
+      "count": 12,
+      "raw_count": 12,
       "excluded": 0
     },
     {
@@ -97,8 +97,8 @@
       "name": "Seleção portuguesa · imprensa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 4,
-      "raw_count": 4,
+      "count": 3,
+      "raw_count": 3,
       "excluded": 0
     },
     {
@@ -133,8 +133,8 @@
       "name": "EHF · imprensa",
       "section": "ehf",
       "ok": true,
-      "count": 12,
-      "raw_count": 12,
+      "count": 10,
+      "raw_count": 10,
       "excluded": 0
     },
     {
@@ -151,8 +151,8 @@
       "name": "IHF · imprensa",
       "section": "ihf",
       "ok": true,
-      "count": 8,
-      "raw_count": 8,
+      "count": 9,
+      "raw_count": 9,
       "excluded": 0
     },
     {
@@ -170,8 +170,8 @@
       "section": "campeonato-dinamarques",
       "ok": true,
       "count": 0,
-      "raw_count": 3,
-      "excluded": 3
+      "raw_count": 4,
+      "excluded": 4
     },
     {
       "id": "dk-andebol-noticias",
@@ -196,26 +196,25 @@
       "name": "Tophåndbold · notícias oficiais",
       "section": "campeonato-dinamarques",
       "ok": true,
-      "count": 13,
+      "count": 14,
       "raw_count": 14,
-      "excluded": 1
+      "excluded": 0
     }
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 2422,
-  "added": 12,
+  "articles_total": 2481,
+  "added": 60,
   "translation_budget": {
     "date": "2026-11-23",
-    "characters": 474
+    "characters": 1054
   },
   "nordic_filter": {
     "removed_from_archive": 0,
     "excluded_on_fetch": 7,
     "reasons": {
-      "sem_ligacao_a_liga": 3,
-      "origem_norueguesa": 3,
-      "outra_competicao": 1
+      "sem_ligacao_a_liga": 4,
+      "origem_norueguesa": 3
     },
     "samples": [
       {
@@ -249,14 +248,14 @@
         "title": "Superstjerna tilbake i Stjørdal etter ni år: – Det blir fint"
       },
       {
-        "id": "f10e17062ce94c787cd5",
-        "reason": "outra_competicao",
-        "title": "Optakt til VM: drilske Spanien venter i EHF Euro Cup"
+        "id": "3bb51ea23c11eff5b0f1",
+        "reason": "sem_ligacao_a_liga",
+        "title": "Henriette Eggen skal opereres i tommelfingeren"
       }
     ]
   },
   "translations_this_run": 8,
   "translations_failed_this_run": 0,
-  "danish_english_translated": 38,
+  "danish_english_translated": 39,
   "danish_english_pending": 0
 }
