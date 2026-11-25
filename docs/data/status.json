@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-25T08:53:23+00:00",
+  "last_run": "2026-11-25T19:27:25+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -25,8 +25,8 @@
       "name": "Manchester United · Portugal",
       "section": "manchester-united",
       "ok": true,
-      "count": 48,
-      "raw_count": 48,
+      "count": 58,
+      "raw_count": 58,
       "excluded": 0
     },
     {
@@ -34,8 +34,8 @@
       "name": "Liga Portugal · oficial",
       "section": "primeira-liga",
       "ok": true,
-      "count": 58,
-      "raw_count": 58,
+      "count": 70,
+      "raw_count": 70,
       "excluded": 0
     },
     {
@@ -43,8 +43,8 @@
       "name": "Primeira Liga · imprensa",
       "section": "primeira-liga",
       "ok": true,
-      "count": 63,
-      "raw_count": 63,
+      "count": 28,
+      "raw_count": 28,
       "excluded": 0
     },
     {
@@ -62,16 +62,16 @@
       "section": "superliga-dinamarquesa",
       "ok": true,
       "count": 1,
-      "raw_count": 2,
-      "excluded": 1
+      "raw_count": 3,
+      "excluded": 2
     },
     {
       "id": "andebol-pt-oficial",
       "name": "FPA · competições",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 3,
-      "raw_count": 3,
+      "count": 2,
+      "raw_count": 2,
       "excluded": 0
     },
     {
@@ -79,8 +79,8 @@
       "name": "Andebol português · imprensa",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 11,
-      "raw_count": 11,
+      "count": 20,
+      "raw_count": 20,
       "excluded": 0
     },
     {
@@ -88,8 +88,8 @@
       "name": "FPA · Seleção portuguesa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 21,
-      "raw_count": 21,
+      "count": 17,
+      "raw_count": 17,
       "excluded": 0
     },
     {
@@ -124,8 +124,8 @@
       "name": "EHF · oficial",
       "section": "ehf",
       "ok": true,
-      "count": 19,
-      "raw_count": 19,
+      "count": 18,
+      "raw_count": 18,
       "excluded": 0
     },
     {
@@ -133,8 +133,8 @@
       "name": "EHF · imprensa",
       "section": "ehf",
       "ok": true,
-      "count": 12,
-      "raw_count": 12,
+      "count": 17,
+      "raw_count": 17,
       "excluded": 0
     },
     {
@@ -151,8 +151,8 @@
       "name": "IHF · imprensa",
       "section": "ihf",
       "ok": true,
-      "count": 11,
-      "raw_count": 11,
+      "count": 14,
+      "raw_count": 14,
       "excluded": 0
     },
     {
@@ -161,8 +161,8 @@
       "section": "superliga-dinamarquesa",
       "ok": true,
       "count": 0,
-      "raw_count": 2,
-      "excluded": 2
+      "raw_count": 1,
+      "excluded": 1
     },
     {
       "id": "dk-andebol-clubes",
@@ -203,39 +203,39 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 2744,
-  "added": 48,
+  "articles_total": 2826,
+  "added": 83,
   "translation_budget": {
     "date": "2026-11-25",
-    "characters": 448
+    "characters": 1102
   },
   "nordic_filter": {
     "removed_from_archive": 0,
     "excluded_on_fetch": 7,
     "reasons": {
-      "sem_ligacao_a_liga": 4,
-      "origem_norueguesa": 3
+      "origem_norueguesa": 4,
+      "sem_ligacao_a_liga": 3
     },
     "samples": [
+      {
+        "id": "d4f5cd3e7ec0de6f0c6e",
+        "reason": "origem_norueguesa",
+        "title": "LSK flyr høyt i Eliteserien – men torsdag er det «ingen» som tror på dem"
+      },
       {
         "id": "1f218782c318ec434a21",
         "reason": "sem_ligacao_a_liga",
         "title": "Kalles Danmarks «billig-Yamal»: Nå vekker 19-åringen oppsikt"
       },
       {
-        "id": "bde9ecdde30073ae5eb1",
+        "id": "29c051317964be75068b",
         "reason": "sem_ligacao_a_liga",
-        "title": "Snak om fodbold, klubsnak, spiltips, politik, vejr og meget mere"
+        "title": "Snak"
       },
       {
-        "id": "a0350dca272d0fd645fa",
-        "reason": "sem_ligacao_a_liga",
-        "title": "Mere indhold efter annoncen"
-      },
-      {
-        "id": "d2167fe1bc147f9453e9",
+        "id": "61166f3a689a5455d118",
         "reason": "origem_norueguesa",
-        "title": "Nye utfordringer venter for Steffen Stegavik i Danmark"
+        "title": "Mørk før sitt 15. mesterskap: - Jeg elsker å vinne"
       },
       {
         "id": "ba6e9cfc73d8532761bf",
