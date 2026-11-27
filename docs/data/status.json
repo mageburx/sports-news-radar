@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-27T05:11:26+00:00",
+  "last_run": "2026-11-27T15:21:34+00:00",
   "first_run": "2026-11-08T15:27:30+00:00",
   "sources": [
     {
@@ -43,8 +43,8 @@
       "name": "Primeira Liga · imprensa",
       "section": "primeira-liga",
       "ok": true,
-      "count": 27,
-      "raw_count": 27,
+      "count": 57,
+      "raw_count": 57,
       "excluded": 0
     },
     {
@@ -79,8 +79,8 @@
       "name": "Andebol português · imprensa",
       "section": "campeonato-portugues",
       "ok": true,
-      "count": 18,
-      "raw_count": 18,
+      "count": 8,
+      "raw_count": 8,
       "excluded": 0
     },
     {
@@ -97,8 +97,8 @@
       "name": "Seleção portuguesa · imprensa",
       "section": "selecao-portuguesa",
       "ok": true,
-      "count": 4,
-      "raw_count": 4,
+      "count": 3,
+      "raw_count": 3,
       "excluded": 0
     },
     {
@@ -124,8 +124,8 @@
       "name": "EHF · oficial",
       "section": "ehf",
       "ok": true,
-      "count": 18,
-      "raw_count": 18,
+      "count": 16,
+      "raw_count": 16,
       "excluded": 0
     },
     {
@@ -133,8 +133,8 @@
       "name": "EHF · imprensa",
       "section": "ehf",
       "ok": true,
-      "count": 15,
-      "raw_count": 15,
+      "count": 13,
+      "raw_count": 13,
       "excluded": 0
     },
     {
@@ -151,8 +151,8 @@
       "name": "IHF · imprensa",
       "section": "ihf",
       "ok": true,
-      "count": 17,
-      "raw_count": 17,
+      "count": 16,
+      "raw_count": 16,
       "excluded": 0
     },
     {
@@ -203,11 +203,11 @@
   ],
   "sources_total": 22,
   "sources_ok": 22,
-  "articles_total": 3035,
-  "added": 28,
+  "articles_total": 3077,
+  "added": 43,
   "translation_budget": {
     "date": "2026-11-27",
-    "characters": 457
+    "characters": 870
   },
   "nordic_filter": {
     "removed_from_archive": 0,
